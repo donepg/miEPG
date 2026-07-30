@@ -12,9 +12,9 @@ Telecinco HD,TELECINCO
 Telecinco HD,TELECINCO TDT
 La Sexta HD,LA SEXTA
 La Sexta HD,LA SEXTA TDT
-Movistar Plus+ HD,M. PLUS SAT
-Movistar Plus+ HD,M. PLUS SCRIPT
-Movistar Plus+ HD,M. PLUS HEVC
+Movistar Plus HD,M. PLUS SAT
+Movistar Plus HD,M. PLUS SCRIPT
+Movistar Plus HD,M. PLUS HEVC
 M+ Vamos HD,#VAMOS SAT
 M+ Vamos HD,#VAMOS SCRIPT
 M+ Estrenos HD,M. ESTRENOS SAT
