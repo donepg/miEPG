@@ -153,3 +153,5 @@ M+ Golf 2 HD,GOLF 2 FHD
 DAZN MotoGP,Movistar MOTOGP
 M+ Romance, M. ROMANCE SAT
 M+ Romance, M. ROMANCE SCRIPT
+Energy, ENERGY
+Factoría de Ficción, FDF
