@@ -104,6 +104,30 @@
     <display-name>LA SEXTA TDT UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Sexta.png" />
   </channel>
+  <channel id="M. PLUS SAT">
+    <display-name>M. PLUS SAT SD</display-name>
+    <display-name>M. PLUS SAT HD</display-name>
+    <display-name>M. PLUS SAT 4K</display-name>
+    <display-name>M. PLUS SAT Full HD</display-name>
+    <display-name>M. PLUS SAT UHD</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus.png" />
+  </channel>
+  <channel id="M. PLUS SCRIPT">
+    <display-name>M. PLUS SCRIPT SD</display-name>
+    <display-name>M. PLUS SCRIPT HD</display-name>
+    <display-name>M. PLUS SCRIPT 4K</display-name>
+    <display-name>M. PLUS SCRIPT Full HD</display-name>
+    <display-name>M. PLUS SCRIPT UHD</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus.png" />
+  </channel>
+  <channel id="M. PLUS HEVC">
+    <display-name>M. PLUS HEVC SD</display-name>
+    <display-name>M. PLUS HEVC HD</display-name>
+    <display-name>M. PLUS HEVC 4K</display-name>
+    <display-name>M. PLUS HEVC Full HD</display-name>
+    <display-name>M. PLUS HEVC UHD</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus.png" />
+  </channel>
   <channel id="#VAMOS SAT">
     <display-name>#VAMOS SAT SD</display-name>
     <display-name>#VAMOS SAT HD</display-name>
@@ -11229,6 +11253,2661 @@
 · Chicote viaja a Valencia para ayudar a Jorge, el dueño de La Terracita Gastrobar, un restaurante con clientes muy pequeños y problemas muy grandes.
 · País: España
 · Reparto: Alberto Chicote.</desc>
+	</programme>
+	<programme start="20261018063500 +0200" stop="20261018073400 +0200" channel="M. PLUS SAT">
+    <title>Rave Culture</title>
+    <desc>Documentales,Música | 2025 | +12 | *6.8/10
+· El documental se adentra en el apogeo del movimiento rave británico que se produjo a principios de los años noventa, impulsado por el desempleo masivo, el auge de las anfetaminas y una nueva ola de músicos, productores y artistas.
+· País: España
+· Dirección: Eduardo Cubillo.</desc>
+	</programme>
+	<programme start="20261018073400 +0200" stop="20261018074500 +0200" channel="M. PLUS SAT">
+    <title>Lo mejor de Bakalá T26/27 E5</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.2/10
+· Un programa que combina el deporte actual con lo mejor del archivo de la casa. Te contamos todo lo acontecido durante la semana, a la vez que recordamos imágenes míticas. Todo ello amenizado con la voz de Raúl Pérez y sus personajes.
+· País: España
+· Presenta: Raúl Pérez.</desc>
+	</programme>
+	<programme start="20261018074500 +0200" stop="20261018082500 +0200" channel="M. PLUS SAT">
+    <title>Todo sobre Roland-Garros E1</title>
+    <desc>Documentales,Deportes | 2026 | TP | *6.2/10
+· Esta serie documental nos sumerge en el corazón del Grand Slam más emblemático, uno de los mayores eventos deportivos del planeta.
+· País: Francia
+· Dirección: Julien Bossenie.</desc>
+	</programme>
+	<programme start="20261018082500 +0200" stop="20261018091000 +0200" channel="M. PLUS SAT">
+    <title>Todo sobre Roland-Garros E2</title>
+    <desc>Documentales,Deportes | 2026 | TP | *6.0/10
+· Esta serie documental nos sumerge en el corazón del Grand Slam más emblemático, uno de los mayores eventos deportivos del planeta.
+· País: Francia
+· Dirección: Julien Bossenie.</desc>
+	</programme>
+	<programme start="20261018091000 +0200" stop="20261018095000 +0200" channel="M. PLUS SAT">
+    <title>Todo sobre Roland-Garros E3</title>
+    <desc>Documentales,Deportes | 2026 | TP | *6.2/10
+· Esta serie documental nos sumerge en el corazón del Grand Slam más emblemático, uno de los mayores eventos deportivos del planeta.
+· País: Francia
+· Dirección: Julien Bossenie.</desc>
+	</programme>
+	<programme start="20261018095000 +0200" stop="20261018103300 +0200" channel="M. PLUS SAT">
+    <title>Todo sobre Roland-Garros E4</title>
+    <desc>Documentales,Deportes | 2026 | TP | *6.4/10
+· Esta serie documental nos sumerge en el corazón del Grand Slam más emblemático, uno de los mayores eventos deportivos del planeta.
+· País: Francia
+· Dirección: Julien Bossenie.</desc>
+	</programme>
+	<programme start="20261018103300 +0200" stop="20261018134000 +0200" channel="M. PLUS SAT">
+    <title>Torneo de Shanghai T2026 · Final: Davidovich - Jodar</title>
+    <desc>Deportes,Tenis | 2026 | TP | *6.6/10
+· El octavo Masters 1000 de la temporada de la ATP se juega en Shanghai. Es el único torneo de esta categoría que no ha ganado ningún español.</desc>
+	</programme>
+	<programme start="20261018134000 +0200" stop="20261018143700 +0200" channel="M. PLUS SAT">
+    <title>Informe Plus. Ba-lon-ces-to. 2006. Más allá del oro</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.6/10
+· Los doce campeones del mundo de Japón 2006, con Pau Gasol, Juan Carlos Navarro y Jorge Garbajosa a la cabeza, se reúnen en esta nueva entrega de Informe Plus para recordar el campeonato que cambió el deporte español.
+· País: España</desc>
+	</programme>
+	<programme start="20261018143700 +0200" stop="20261018145500 +0200" channel="M. PLUS SAT">
+    <title>Top Bakalá T26/27 E6</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Un programa que combina el deporte actual con lo mejor del archivo de la casa. Te contamos todo lo acontecido durante la semana, a la vez que recordamos imágenes míticas. Todo ello amenizado con la voz de Raúl Pérez y sus personajes.
+· País: España
+· Presenta: Raúl Pérez.</desc>
+	</programme>
+	<programme start="20261018145500 +0200" stop="20261018170300 +0200" channel="M. PLUS SAT">
+    <title>Serie A Calcio T26/27 · Jornada 7: Fiorentina - Como</title>
+    <desc>Deportes,Fútbol | 2026
+· El fútbol italiano cuenta con uno de los campeonatos más prestigiosos de todo el planeta, la Serie A. La liga cuenta con gigantes del fútbol mundial y cultiva alguna de las rivalidades más encarnizadas de este deporte. El Inter defiende 'Scudetto'.
+· País: Italia</desc>
+	</programme>
+	<programme start="20261018170300 +0200" stop="20261018172000 +0200" channel="M. PLUS SAT">
+    <title>Lo mejor de Bakalá T26/27 E6</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.8/10
+· Un programa que combina el deporte actual con lo mejor del archivo de la casa. Te contamos todo lo acontecido durante la semana, a la vez que recordamos imágenes míticas. Todo ello amenizado con la voz de Raúl Pérez y sus personajes.
+· País: España
+· Presenta: Raúl Pérez.</desc>
+	</programme>
+	<programme start="20261018172000 +0200" stop="20261018193000 +0200" channel="M. PLUS SAT">
+    <title>DIRECTO Jornada 7: Nottingham Forest - Arsenal T26/27 · Premier League</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· En The City Ground se ven las caras N.Forest y Arsenal en la séptima jornada de la Premier League. Los de Glasner están descolgados en la tabla con cinco puntos tras caer ante el C.Palace. Los gunners fueron solventes en UCL y suman quince puntos.
+· País: Reino Unido</desc>
+	</programme>
+	<programme start="20261018193000 +0200" stop="20261018201400 +0200" channel="M. PLUS SAT">
+    <title>DIRECTO 18/10/2026 Tramo 1 T26/27 · DeportePlus Domingo</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Un lugar donde cabe todo el deporte que se juega en el planeta de la mano de Juanma Castaño. La emoción y la pasión con las mejores imágenes, las previas, los resúmenes, los testimonios y el análisis de nuestros expertos.
+· País: España</desc>
+	</programme>
+	<programme start="20261018201400 +0200" stop="20261018204200 +0200" channel="M. PLUS SAT">
+    <title>Leo Talks T7 · Crimen desorganizado</title>
+    <desc>Entretenimiento,Humor | 2026 | +12 | *6.4/10
+· Leo desmonta la idea de que vivimos tiempos más peligrosos. Entre quinquis, radiocasetes robados, alarmas absurdas, contraseñas ridículas y estafas online, demuestra que hay menos atracos que antes, aunque seguimos viviendo con más miedo que nunca.
+· País: España
+· Presenta: Leo Harlem.</desc>
+	</programme>
+	<programme start="20261018204200 +0200" stop="20261018211400 +0200" channel="M. PLUS SAT">
+    <title>Ilustres ignorantes T20 · El terror</title>
+    <desc>Entretenimiento,Humor | 2026 | +16 | *7.6/10
+· La presentadora Inés Hernand y el creador de contenido Marc Biarnés son los invitados de este programa sobre “El terror” ¿Qué monstruo les da más miedo: el vampiro, la momia, el chupacabras…? ¿En qué ocasión han pasado más miedo en su vida?
+· País: España
+· Presenta: Javier Coronas.
+· Dirección: Javier Coronas.
+· Productora: Movistar+.</desc>
+	</programme>
+	<programme start="20261018211400 +0200" stop="20261018225100 +0200" channel="M. PLUS SAT">
+    <title>Un muerto a la hora del té</title>
+    <desc>Cine,Comedia | 2025 | +16 | *6.0/10
+· En la Inglaterra de 1931, un carterista consigue trabajo como criado en la mansión de los Davenport. Allí se enamora de la hija rebelde de la familia, pero una muerte inesperada lo convierte en sospechoso entre una boda, secretos y diferencias de clase.
+· País: Reino Unido
+· Dirección: Jim	 O'Hanlon.
+· Reparto: Damian Lewis, Thomasin McKenzie, Ben Radcliffe, Katherine Waterston, Tom Felton.
+· Guion: Jimmy Carr.
+· Música: Oli Julian.
+· Productora: Elysian Film Group.</desc>
+	</programme>
+	<programme start="20261018225100 +0200" stop="20261018230000 +0200" channel="M. PLUS SAT">
+    <title>Bakalá T26/27 E6</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *5.8/10
+· Un programa que combina el deporte actual con lo mejor del archivo de la casa. Te contamos todo lo acontecido durante la semana, a la vez que recordamos imágenes míticas. Todo ello amenizado con la voz de Raúl Pérez y sus personajes.
+· País: España
+· Presenta: Raúl Pérez.</desc>
+	</programme>
+	<programme start="20261018230000 +0200" stop="20261019002400 +0200" channel="M. PLUS SAT">
+    <title>DIRECTO 18/10/2026 T26/27 · DeportePlus con Juanma Castaño</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Un lugar donde cabe todo el deporte que se juega en el planeta. La emoción y la pasión al completo de la mano de Juanma Castaño.
+· País: España
+· Presenta: Juanma Castaño.</desc>
+	</programme>
+	<programme start="20261019002400 +0200" stop="20261019011500 +0200" channel="M. PLUS SAT">
+    <title>Las Berrocal T2 E6</title>
+    <desc>Entretenimiento | 2025 | +16 | *6.2/10
+· Vicky y Alba lloran juntas porque Alba se va a vivir con su novio. Rocío vuelve a emocionarse con un chico y provoca un cisma familiar. Victoria las reúne en El Rocío, escenario del final de la temporada que podría marcar un antes y un después.
+· País: España</desc>
+	</programme>
+	<programme start="20261019011500 +0200" stop="20261019024800 +0200" channel="M. PLUS SAT">
+    <title>Un cadáver a los postres</title>
+    <desc>Cine,Comedia | 1976 | TP | *7.2/10
+· Un peculiar grupo de detectives es invitado a cenar a una mansión. Una vez allí, el anfitrión les desafía a resolver un crimen.
+· País: Estados Unidos
+· Dirección: Robert Moore.
+· Reparto: Eileen Brennan, Truman Capote, James Coco, Alec Guinness, Peter Sellers, David Niven, Maggie Smith, Peter Falk, Richard Narita.
+· Guion: Neil Simon.
+· Música: Dave Grusin.
+· Producción: Ray Stark.
+· Productora: Columbia Pictures Corporation, Rastar Pictures.</desc>
+	</programme>
+	<programme start="20261019024800 +0200" stop="20261019042300 +0200" channel="M. PLUS SAT">
+    <title>55</title>
+    <desc>Cine,Thriller | 2025 | +16 | *6.4/10
+· 55 es un adolescente que se gana la vida como carterista en las calles de Bombay. Él, como el resto de jóvenes ladrones que trabaja para el despiadado Sagar Bhai, lleva tatuado el número que lo identifica en la organización.
+· País: Estados Unidos
+· Dirección: Shyam P. Madiraju.
+· Reparto: Emraan Hashmi, Rizwan Shaikh, Dhanshree Patil, Harsh Rajendra Rane, Ashutosh Gaikwad, Sarthak Dusane.
+· Guion: Shyam P. Madiraju, Shahin Khosravan, Prashant Pandey.
+· Producción: Ridley Scott, Shyam P. Madiraju, Paul Feig.
+· Productora: Scott Free Productions, Endless Media, Emraan Hashmi Films.</desc>
+	</programme>
+	<programme start="20261019042300 +0200" stop="20261019051000 +0200" channel="M. PLUS SAT">
+    <title>La Chaparra E1</title>
+    <desc>Documentales,Sociedad | 2025 | +18 | *6.2/10
+· Para los niños Sara y Gabriel, criados en la secta La Chaparra, todo resulta mágico. Pero su comunidad ocultaba una red de control, silencio y abusos que fue desmoronándose hasta revelar una verdad estremecedora disfrazada de espiritualidad y armonía.
+· País: España
+· Dirección: Elena Molina.</desc>
+	</programme>
+	<programme start="20261019051000 +0200" stop="20261019055800 +0200" channel="M. PLUS SAT">
+    <title>La Chaparra E2</title>
+    <desc>Documentales,Sociedad | 2025 | +18 | *6.0/10
+· Sara busca ayuda en su madre, que no reacciona. Sí encuentra un apoyo fuera y escapa. Carlos, su padre, descubre un secreto oculto 20 años. Padre e hija se unen y denuncian. El 15 de marzo de 2022, la policía entra en La Chaparra y acaba con todo.
+· País: España
+· Dirección: Elena Molina.</desc>
+	</programme>
+	<programme start="20261019055800 +0200" stop="20261019065000 +0200" channel="M. PLUS SAT">
+    <title>La Chaparra E3</title>
+    <desc>Documentales,Sociedad | 2025 | +18 | *6.0/10
+· Gabriel parecía que iba a ser el nuevo gurú, pero el cierre de La Chaparra lo salvó. Tras la muerte de Tío Toni, el caso queda en pausa. Pero las víctimas siguen buscando justicia mientras intentan rehacer sus vidas y hallar su identidad fuera del miedo.
+· País: España
+· Dirección: Elena Molina.</desc>
+	</programme>
+	<programme start="20261019065000 +0200" stop="20261019074700 +0200" channel="M. PLUS SAT">
+    <title>Rapa, gente al monte</title>
+    <desc>Documentales,Sociedad | 2024 | +7 | *6.2/10
+· Documental sobre la "rapa das bestas", el proceso del corte de las crines de los caballos salvajes que cada año tiene lugar en la localidad pontevedresa de Sabucedo.
+· País: España
+· Dirección: Alejandro Enríquez.</desc>
+	</programme>
+	<programme start="20261019074700 +0200" stop="20261019082000 +0200" channel="M. PLUS SAT">
+    <title>Informe Robinson T6 · Pelota Vasca: El juego de un pueblo</title>
+    <desc>Deportes,Programa deportes | 2012 | TP | *5.8/10
+· Existen pocos deportes tan ligados a un pueblo como la pelota, al que tantas veces acompaña el adjetivo "vasca". Hace unas semanas se celebró la final de parejas en Bilbao.
+· País: España
+· Presenta: Michael Robinson.</desc>
+	</programme>
+	<programme start="20261019082000 +0200" stop="20261019093200 +0200" channel="M. PLUS SAT">
+    <title>Apolo 1. Misión a la Luna</title>
+    <desc>Documentales,Sociedad | 2026 | TP | *6.2/10
+· Tres astronautas pioneros, Gus Grissom, Ed White y Roger Chaffee, perdieron trágicamente la vida cuando ocurrió un desastre en la plataforma de lanzamiento de Cabo Kennedy durante una prueba previa al vuelo en enero de 1967.
+· País: Alemania y Reino Unido
+· Dirección: Mark Craig.
+· Guion: Mark Craig.
+· Música: Anne Nikitin.
+· Producción: Mark Craig.</desc>
+	</programme>
+	<programme start="20261019093200 +0200" stop="20261019112000 +0200" channel="M. PLUS SAT">
+    <title>Atmósfera cero</title>
+    <desc>Cine,Ciencia ficción | 1981 | +16 | *6.4/10
+· Un agente de la ley destinado a una remota colonia minera asentada en la segunda luna de Júpiter debe investigar la muerte de varios trabajadores en extrañas circunstancias.
+· País: Reino Unido
+· Dirección: Peter Hyams.
+· Reparto: Sean Connery, Peter Boyle, Frances Sternhagen, Clarke Peters.
+· Guion: Peter Hyams.
+· Música: Jerry Goldsmith.
+· Producción: Richard A Roth.
+· Productora: Outland Productions.</desc>
+	</programme>
+	<programme start="20261019112000 +0200" stop="20261019130800 +0200" channel="M. PLUS SAT">
+    <title>Lomu</title>
+    <desc>Documentales,Biografía | 2025 | TP | *6.6/10
+· Jonah Lomu fue la primera superestrella global del rugby. Este retrato íntimo del legendario jugador neozelandés recorre su infancia en Tonga, su meteórico ascenso a la fama y las complejas dificultades personales y de salud que enfrentó en la cima.
+· País: Nueva Zelanda y Reino Unido
+· Dirección: Gavin Fitzgerald, Vea Mafile'o.
+· Producción: Emma Slade.
+· Productora: Sylver Entertainment.</desc>
+	</programme>
+	<programme start="20261019130800 +0200" stop="20261019142800 +0200" channel="M. PLUS SAT">
+    <title>18/10/2026 T26/27 · DeportePlus con Juanma Castaño</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Un lugar donde cabe todo el deporte que se juega en el planeta. La emoción y la pasión al completo de la mano de Juanma Castaño.
+· País: España
+· Presenta: Juanma Castaño.</desc>
+	</programme>
+	<programme start="20261019142800 +0200" stop="20261019150500 +0200" channel="M. PLUS SAT">
+    <title>Ilustres ignorantes T20 · El terror</title>
+    <desc>Entretenimiento,Humor | 2026 | +16 | *7.6/10
+· La presentadora Inés Hernand y el creador de contenido Marc Biarnés son los invitados de este programa sobre “El terror” ¿Qué monstruo les da más miedo: el vampiro, la momia, el chupacabras…? ¿En qué ocasión han pasado más miedo en su vida?
+· País: España
+· Presenta: Javier Coronas.
+· Dirección: Javier Coronas.
+· Productora: Movistar+.</desc>
+	</programme>
+	<programme start="20261019150500 +0200" stop="20261019154300 +0200" channel="M. PLUS SAT">
+    <title>Las Berrocal T2 E1</title>
+    <desc>Entretenimiento | 2025 | +16 | *6.0/10
+· Las Berrocal regresan con grandes novedades. Alba supervisa junto a su novio las obras de su nueva casa, Vicky se prepara para recibir a Alejandro Sanz en su podcast, Rocío trata de superar sus inseguridades y Victoria decide cambiar de imagen.
+· País: España</desc>
+	</programme>
+	<programme start="20261019154300 +0200" stop="20261019162000 +0200" channel="M. PLUS SAT">
+    <title>Las Berrocal T2 E2</title>
+    <desc>Entretenimiento | 2025 | +16 | *6.4/10
+· Rocío y Alba disfrutan de una escapada juntas en Tenerife, Vicky viaja al pueblo de donde viene el apellido Berrocal de su padre y se encuentra por primera vez con parte de su familia y Victoria conoce a su ídolo, el actor turco Can Yaman.
+· País: España</desc>
+	</programme>
+	<programme start="20261019162000 +0200" stop="20261019165400 +0200" channel="M. PLUS SAT">
+    <title>Las Berrocal T2 E3</title>
+    <desc>Entretenimiento | 2025 | +16 | *6.4/10
+· Rocío prepara la fiesta de cumpleaños para su madre. Victoria comparte con Alba el recuerdo del peor momento de su vida. Rocío y Alba visitan a Lara Álvarez para superar su miedo escénico. Alba le propone a Vicky diseñar su propia colección cápsula.
+· País: España</desc>
+	</programme>
+	<programme start="20261019165400 +0200" stop="20261019173200 +0200" channel="M. PLUS SAT">
+    <title>Las Berrocal T2 E4</title>
+    <desc>Entretenimiento | 2025 | +16 | *6.0/10
+· Tensión entre Vicky y Alba en su primer proyecto profesional juntas. Gran reto superado por parte de Rocío, que entrega su primer premio y, para terminar, las cuatro juntas celebrando un cumpleaños de Vicky lleno de amigos, glamour y grandes momentos.
+· País: España</desc>
+	</programme>
+	<programme start="20261019173200 +0200" stop="20261019181100 +0200" channel="M. PLUS SAT">
+    <title>Las Berrocal T2 E5</title>
+    <desc>Entretenimiento | 2025 | +16 | *6.2/10
+· Las Berrocal revolucionan Italia en un viaje de lujo por Venecia, Nápoles y la costa Amalfitana. Glamurosas, pletóricas y pasándolo tan bien como ellas sólo saben, pero sin dejar atrás sus habituales conflictos y reconciliaciones.
+· País: España</desc>
+	</programme>
+	<programme start="20261019181100 +0200" stop="20261019190100 +0200" channel="M. PLUS SAT">
+    <title>Las Berrocal T2 E6</title>
+    <desc>Entretenimiento | 2025 | +16 | *6.2/10
+· Vicky y Alba lloran juntas porque Alba se va a vivir con su novio. Rocío vuelve a emocionarse con un chico y provoca un cisma familiar. Victoria las reúne en El Rocío, escenario del final de la temporada que podría marcar un antes y un después.
+· País: España</desc>
+	</programme>
+	<programme start="20261019190100 +0200" stop="20261019195600 +0200" channel="M. PLUS SAT">
+    <title>Outlander: Sangre de mi sangre T2 E5 · Señor perdóname</title>
+    <desc>Series,Aventuras | 2026 | +16 | *6.0/10
+· La rebelión jacobita alcanza un momento decisivo en la batalla de Sheriffmuir. Mientras los clanes escoceses luchan contra las fuerzas de la Corona, Ellen y Julia afrontan sus propios peligros y Colum cuestiona sus decisiones para proteger al clan.
+· País: Estados Unidos
+· Reparto: Tony Curran, Conor MacNeill, Jeremy Irvine, Jamie Roy, Harriet Slater, Rory Alexander, Sam Retford, Seamus McLean Ross.</desc>
+	</programme>
+	<programme start="20261019195600 +0200" stop="20261019210000 +0200" channel="M. PLUS SAT">
+    <title>Death Valley: El valle de la muerte</title>
+    <desc>Documentales,Sociedad | 2026 | TP | *9.2/10
+· Un reto realizado en 2024 por dalecandELA, una asociación sin ánimo de lucro, cuyo fin es visibilizar la ELA, recaudar fondos para la investigación en la lucha contra la enfermedad, y apoyar a quienes la padecen.
+· País: España
+· Dirección: Juan Luis Aguirrezabal, Luis Echevarría, Jaime Lafita.</desc>
+	</programme>
+	<programme start="20261019210000 +0200" stop="20261019220500 +0200" channel="M. PLUS SAT">
+    <title>T26/27 E7 · El día después</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *5.8/10
+· 'El Día Después', uno de nuestros grandes clásicos, que una temporada más ofrece la visión más entretenida y original de la jornada liguera, y donde no va a faltar 'Lo que el ojo no ve'.
+· País: España
+· Presenta: Julio Maldonado, Carlos Martínez, Noemí de Miguel, Álvaro Benito, Mateu Lahoz.</desc>
+	</programme>
+	<programme start="20261019220500 +0200" stop="20261019223500 +0200" channel="M. PLUS SAT">
+    <title>Leo Talks T7 · Expediente Harlem</title>
+    <desc>Entretenimiento,Humor | 2026 | +12 | *6.0/10
+· Leo se adentra en lo paranormal: fantasmas, criaturas misteriosas, el monstruo del Lago Ness y brujas con escoba. Entre supersticiones, fotos borrosas y disparates históricos, demuestra que la credulidad humana sigue más viva que los propios fantasmas.
+· País: España
+· Presenta: Leo Harlem.</desc>
+	</programme>
+	<programme start="20261019223500 +0200" stop="20261019231300 +0200" channel="M. PLUS SAT">
+    <title>Paga o muere E1</title>
+    <desc>Documentales,Sociedad | 2026 | +12 | *8.0/10
+· El lunes 21 de marzo de 1983 el empresario Jesús Guibert entra en el garaje de su empresa. No se da cuenta de que hay un coche aparcado con tres individuos dentro con el objetivo de secuestrarle.
+· País: España
+· Dirección: Ricardo Sanz Ramos, Marisa Lafuente.</desc>
+	</programme>
+	<programme start="20261019231300 +0200" stop="20261019235100 +0200" channel="M. PLUS SAT">
+    <title>Paga o muere E2</title>
+    <desc>Documentales,Sociedad | 2026 | +12 | *6.0/10
+· ETA multiplica el envío de remesas de cartas exigiendo el impuesto revolucionario. Ahora ya no es una carta, sino tres. Y el significado de las palabras de la última es el más efectivo y aterrador porque ETA anuncia que te has convertido en un objetivo.
+· País: España
+· Dirección: Ricardo Sanz Ramos, Marisa Lafuente.</desc>
+	</programme>
+	<programme start="20261019235100 +0200" stop="20261020004400 +0200" channel="M. PLUS SAT">
+    <title>Paga o muere E3</title>
+    <desc>Documentales,Sociedad | 2026 | +12 | *6.0/10
+· El rechazo social contra la violencia crece. Y se refleja también en la recaudación de ETA. Son cada vez más los empresarios que se niegan a pagar la extorsión. Ese es el mensaje que se propaga desde ADEGUI, una patronal de empresarios de Guipúzcoa.
+· País: España
+· Dirección: Ricardo Sanz Ramos, Marisa Lafuente.</desc>
+	</programme>
+	<programme start="20261020004400 +0200" stop="20261020012900 +0200" channel="M. PLUS SAT">
+    <title>Gregorio Ordóñez: El asesinato que despertó la rebelión contra ETA</title>
+    <desc>Documentales,Sociedad | 2025 | +12 | *6.8/10
+· Un repaso a la trayectoria personal y política del teniente de alcalde del PP en el Ayuntamiento de San Sebastián, asesinado en el bar La Cepa de la Parte Vieja el 23 de enero de 1995.
+· País: España
+· Dirección: David Taberna, Javier Roldán, Arantxa Aldaz.</desc>
+	</programme>
+	<programme start="20261020012900 +0200" stop="20261020025900 +0200" channel="M. PLUS SAT">
+    <title>T26/27 E7 · El tercer tiempo</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *5.6/10
+· Un programa de análisis de toda la jornada liguera, dirigido por José Sanchis, que echa un vistazo a lo mejor del fútbol internacional de la mano de Axel Torres.
+· País: España
+· Presenta: Julio Maldonado, Axel Torres, José Sanchís, Joaquín Ramos Marcos.</desc>
+	</programme>
+	<programme start="20261020025900 +0200" stop="20261020032800 +0200" channel="M. PLUS SAT">
+    <title>Magazine Champions League T26/27 E7</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Magacín que repasa toda la actualidad de la Champions League, la máxima competición del fútbol europeo. El programa ofrece entrevistas, reportajes y resúmenes de los partidos que se disputan durante el torneo.
+· País: Italia</desc>
+	</programme>
+	<programme start="20261020032800 +0200" stop="20261020041800 +0200" channel="M. PLUS SAT">
+    <title>Magazine Europa League T26/27 E3</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· La Europa League es la sucesora de la Copa UEFA. Se trata de una competición con doble premio, ya que, además de la gloria, da una plaza al ganador para la Champions. Este espacio analiza todo lo que ocurre alrededor del torneo.
+· País: España</desc>
+	</programme>
+	<programme start="20261020041800 +0200" stop="20261020050400 +0200" channel="M. PLUS SAT">
+    <title>La hora de la verdad: Genialidad</title>
+    <desc>Documentales,Deportes | 2022 | +7 | *6.2/10
+· Recordamos los momentos icónicos de la Historia de los Mundiales con una mezcla de acción, narrativa y análisis a través de entrevistas, imágenes de archivo y secuencias gráficas. Y con el recuerdo de grandes protagonistas del fútbol mundial.
+· País: Reino Unido</desc>
+	</programme>
+	<programme start="20261020050400 +0200" stop="20261020055100 +0200" channel="M. PLUS SAT">
+    <title>La hora de la verdad: Coraje</title>
+    <desc>Documentales,Deportes | 2022 | +7 | *5.8/10
+· Recordamos los momentos icónicos de la Historia de los Mundiales con una mezcla de acción, narrativa y análisis a través de entrevistas, imágenes de archivo y secuencias gráficas. Y con el recuerdo de grandes protagonistas del fútbol mundial.
+· País: Reino Unido</desc>
+	</programme>
+	<programme start="20261020055100 +0200" stop="20261020074500 +0200" channel="M. PLUS SAT">
+    <title>Topuria: Matador</title>
+    <desc>Documentales,Deportes | 2024 | +12 | *6.0/10
+· La historia de superación personal de Ilia Topuria, el flamante campeón mundial de Peso Ligero de UFC, desde su Georgia natal en guerra y su llegada a España. Hay muchos números uno, pero solo uno logra ser leyenda.
+· País: España
+· Dirección: Giampolo Manfreda.</desc>
+	</programme>
+	<programme start="20261020074500 +0200" stop="20261020081500 +0200" channel="M. PLUS SAT">
+    <title>World of free sports T2026 E41</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· El apasionante mundo de los deportes al aire libre llega a nuestro canal para su repaso semanal.</desc>
+	</programme>
+	<programme start="20261020081500 +0200" stop="20261020085500 +0200" channel="M. PLUS SAT">
+    <title>La línea invisible T1 E1 · Pintadas y petardos</title>
+    <desc>Series,Drama | 2020 | +16 | *6.8/10
+· País Vasco 1968. Txabi Etxabarrieta, un brillante universitario bilbaíno, se une a su hermano y a su grupo de amigos en una desconocida organización llamada ETA. Paralelamente, el inspector Melitón Manzanas comienza a investigar a este grupo de jóvenes.
+· País: España
+· Dirección: Mariano Barroso.
+· Reparto: Àlex Monner, Antonio de la Torre, Joan Amargós, Anna Castillo, Enric Auquer, Asier Exteandia, Patrick Criado.
+· Guion: Alejandro Hernández, Michel Gaztambide, Natxo López.
+· Productora: Sentido Films, Corte y Confección de Películas, Movistar+.</desc>
+	</programme>
+	<programme start="20261020085500 +0200" stop="20261020094000 +0200" channel="M. PLUS SAT">
+    <title>La línea invisible T1 E2 · Un líder</title>
+    <desc>Series,Drama | 2020 | +16 | *6.6/10
+· Dos formas de entender ETA se enfrentan en la V Asamblea. Txabi da un paso al frente con el apoyo de su hermano y El Inglés. Melitón Manzanas investiga a todo su entorno para recabar la máxima información sobre él.
+· País: España
+· Dirección: Mariano Barroso.
+· Reparto: Àlex Monner, Antonio de la Torre, Joan Amargós, Anna Castillo, Enric Auquer, Asier Exteandia, Patrick Criado.
+· Guion: Alejandro Hernández, Michel Gaztambide, Natxo López.
+· Productora: Sentido Films, Corte y Confección de Películas, Movistar+.</desc>
+	</programme>
+	<programme start="20261020094000 +0200" stop="20261020102500 +0200" channel="M. PLUS SAT">
+    <title>La línea invisible T1 E3 · Tambores de guerra</title>
+    <desc>Series,Drama | 2020 | +16 | *6.6/10
+· Txabi y sus compañeros atracan un banco. Melitón es presionado por sus superiores por no informar sobre ETA y sus actividades, por lo que intensifica su investigación sobre los presuntos miembros de la organización que logra detener.
+· País: España
+· Dirección: Mariano Barroso.
+· Reparto: Àlex Monner, Antonio de la Torre, Joan Amargós, Anna Castillo, Enric Auquer, Asier Exteandia, Patrick Criado.
+· Guion: Alejandro Hernández, Michel Gaztambide, Natxo López.
+· Productora: Sentido Films, Corte y Confección de Películas, Movistar+.</desc>
+	</programme>
+	<programme start="20261020102500 +0200" stop="20261020110600 +0200" channel="M. PLUS SAT">
+    <title>La línea invisible T1 E4 · Un poeta</title>
+    <desc>Series,Drama | 2020 | +16 | *6.6/10
+· El Inglés presiona a Txabi para que ETA cruce la línea invisible y cometa su primer atentado mortal, poniendo en su punto de mira a varios altos cargos franquistas. Melitón cree haber podido identificar a Txabi.
+· País: España
+· Dirección: Mariano Barroso.
+· Reparto: Àlex Monner, Antonio de la Torre, Joan Amargós, Anna Castillo, Enric Auquer, Asier Exteandia, Patrick Criado.
+· Guion: Alejandro Hernández, Michel Gaztambide, Natxo López.
+· Productora: Sentido Films, Corte y Confección de Películas, Movistar+.</desc>
+	</programme>
+	<programme start="20261020110600 +0200" stop="20261020114700 +0200" channel="M. PLUS SAT">
+    <title>La línea invisible T1 E5 · La línea</title>
+    <desc>Series,Drama | 2020 | +16 | *6.6/10
+· Txabi y sus compañeros están cada vez más cerca de cruzar la línea invisible, al intensificar sus actividades y con la identificación de posibles objetivos. Mientras tanto, conocemos la historia de José Antonio Pardines, un guardia civil gallego.
+· País: España
+· Dirección: Mariano Barroso.
+· Reparto: Àlex Monner, Antonio de la Torre, Joan Amargós, Anna Castillo, Enric Auquer, Asier Exteandia, Patrick Criado.
+· Guion: Alejandro Hernández, Michel Gaztambide, Natxo López.
+· Productora: Sentido Films, Corte y Confección de Películas, Movistar+.</desc>
+	</programme>
+	<programme start="20261020114700 +0200" stop="20261020123200 +0200" channel="M. PLUS SAT">
+    <title>La línea invisible T1 E6 · El futuro</title>
+    <desc>Series,Drama | 2020 | +16 | *7.2/10
+· El primer asesinato de ETA pone en marcha una imprevisible y peligrosa cadena de acontecimientos dentro de la organización y en su entorno.
+· País: España
+· Dirección: Mariano Barroso.
+· Reparto: Àlex Monner, Antonio de la Torre, Joan Amargós, Anna Castillo, Enric Auquer, Asier Exteandia, Patrick Criado.
+· Guion: Alejandro Hernández, Michel Gaztambide, Natxo López.
+· Productora: Sentido Films, Corte y Confección de Películas, Movistar+.</desc>
+	</programme>
+	<programme start="20261020123200 +0200" stop="20261020141200 +0200" channel="M. PLUS SAT">
+    <title>ETA, el final del silencio: Zubiak</title>
+    <desc>Documentales,Actualidad | 2019 | +7 | *7.6/10
+· "Zubiak" ("Puentes") nos habla de puentes rotos y de puentes tendidos a través de los testimonios de los protagonistas de casi 50 años de terror, miedo, treguas, negociaciones y muertes que han marcado la historia más reciente de nuestro país.
+· País: España
+· Dirección: Jon Sistiaga, Alfonso Cortés-Cavanillas.
+· Productora: Movistar+, La Caña Brothers.</desc>
+	</programme>
+	<programme start="20261020141200 +0200" stop="20261020151500 +0200" channel="M. PLUS SAT">
+    <title>T26/27 E7 · El día después</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *5.8/10
+· 'El Día Después', uno de nuestros grandes clásicos, que una temporada más ofrece la visión más entretenida y original de la jornada liguera, y donde no va a faltar 'Lo que el ojo no ve'.
+· País: España
+· Presenta: Julio Maldonado, Carlos Martínez, Noemí de Miguel, Álvaro Benito, Mateu Lahoz.</desc>
+	</programme>
+	<programme start="20261020151500 +0200" stop="20261020171700 +0200" channel="M. PLUS SAT">
+    <title>El lobo</title>
+    <desc>Cine,Thriller | 2004 | +18 | *7.0/10
+· La historia real de un infiltrado de los servicios secretos franquistas en el seno de la organización terrorista ETA.
+· País: España
+· Dirección: Miguel Courtois.
+· Reparto: Eduardo Noriega, José Coronado, Mélanie Doutey, Silvia Abascal, Santiago Ramos, Patrick Bruel, Jorge Sanz.
+· Guion: Antonio Onetti.
+· Música: Francesc Gener.
+· Productora: Castelao Producciones S.A.</desc>
+	</programme>
+	<programme start="20261020171700 +0200" stop="20261020175500 +0200" channel="M. PLUS SAT">
+    <title>Paga o muere E1</title>
+    <desc>Documentales,Sociedad | 2026 | +12
+· El lunes 21 de marzo de 1983 el empresario Jesús Guibert entra en el garaje de su empresa. No se da cuenta de que hay un coche aparcado con tres individuos dentro con el objetivo de secuestrarle.
+· País: España
+· Dirección: Ricardo Sanz Ramos, Marisa Lafuente.</desc>
+	</programme>
+	<programme start="20261020175500 +0200" stop="20261020183300 +0200" channel="M. PLUS SAT">
+    <title>Paga o muere E2</title>
+    <desc>Documentales,Sociedad | 2026 | +12
+· ETA multiplica el envío de remesas de cartas exigiendo el impuesto revolucionario. Ahora ya no es una carta, sino tres. Y el significado de las palabras de la última es el más efectivo y aterrador porque ETA anuncia que te has convertido en un objetivo.
+· País: España
+· Dirección: Ricardo Sanz Ramos, Marisa Lafuente.</desc>
+	</programme>
+	<programme start="20261020183300 +0200" stop="20261020193000 +0200" channel="M. PLUS SAT">
+    <title>Paga o muere E3</title>
+    <desc>Documentales,Sociedad | 2026 | +12
+· El rechazo social contra la violencia crece. Y se refleja también en la recaudación de ETA. Son cada vez más los empresarios que se niegan a pagar la extorsión. Ese es el mensaje que se propaga desde ADEGUI, una patronal de empresarios de Guipúzcoa.
+· País: España
+· Dirección: Ricardo Sanz Ramos, Marisa Lafuente.</desc>
+	</programme>
+	<programme start="20261020193000 +0200" stop="20261020205500 +0200" channel="M. PLUS SAT">
+    <title>DIRECTO 20/10/2026 T26/27 · La Previa de Champions</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Programa que incluye resúmenes de los partidos de la UEFA Champions League, los goles de la jornada y todo tipo de informaciones relacionadas con esta competición.
+· País: España</desc>
+	</programme>
+	<programme start="20261020205500 +0200" stop="20261020212900 +0200" channel="M. PLUS SAT">
+    <title>Ilustres ignorantes T20 · Las tendencias</title>
+    <desc>Entretenimiento,Humor | 2026 | +16 | *5.0/10
+· La cómica Lalachús y el periodista Manuel Jabois hablan en Ilustres de “Las tendencias” ¿Cuál ha sido la que más les ha marcado: un corte de pelo, una tribu urbana, un alimento, un baile, una frase…? ¿Qué tendencia actual les fascina más?
+· País: España
+· Presenta: Javier Coronas.
+· Dirección: Javier Coronas.
+· Productora: Movistar+.</desc>
+	</programme>
+	<programme start="20261020212900 +0200" stop="20261020220000 +0200" channel="M. PLUS SAT">
+    <title>Leo Talks T7 · Expediente Harlem</title>
+    <desc>Entretenimiento,Humor | 2026 | +12 | *6.0/10
+· Leo se adentra en lo paranormal: fantasmas, criaturas misteriosas, el monstruo del Lago Ness y brujas con escoba. Entre supersticiones, fotos borrosas y disparates históricos, demuestra que la credulidad humana sigue más viva que los propios fantasmas.
+· País: España
+· Presenta: Leo Harlem.</desc>
+	</programme>
+	<programme start="20261020220000 +0200" stop="20261020230000 +0200" channel="M. PLUS SAT">
+    <title>Telegram: el gran disruptor</title>
+    <desc>Documentales,Sociedad | 2026 | TP | *6.6/10
+· En agosto de 2024 el fundador de Telegram, Pável Dúrov, fue detenido en Francia como parte de una investigación policial sobre la falta de moderación en la plataforma. Su arresto puso sobre la mesa el papel de las redes sociales en el debate público.
+· País: Francia</desc>
+	</programme>
+	<programme start="20261020230000 +0200" stop="20261021003000 +0200" channel="M. PLUS SAT">
+    <title>20/10/2026 T26/27 · Noche de Champions</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.6/10
+· Revive la emoción de cada jornada de Champions con este programa que incluye resúmenes de los partidos de la UEFA Champions League, los goles de la jornada y todo tipo de informaciones relacionadas con esta competición.
+· País: España</desc>
+	</programme>
+	<programme start="20261021003000 +0200" stop="20261021015000 +0200" channel="M. PLUS SAT">
+    <title>El otro Chiquito</title>
+    <desc>Documentales,Sociedad | 2026 | +7 | *7.0/10
+· Chiquito de la Calzada fue un ídolo indiscutible cuyo humor y lenguaje revolucionan España. Pero tras la aparición en televisión de Lucas Grijander, Gregorio siente arrebatada su identidad. Nace un litigio insólito: Chiquito contra Lucas Grijander.
+· País: España</desc>
+	</programme>
+	<programme start="20261021015000 +0200" stop="20261021023800 +0200" channel="M. PLUS SAT">
+    <title>ETA, el final del silencio · Extorsionados</title>
+    <desc>Documentales,Actualidad | 2019 | +12 | *7.4/10
+· La extorsión fue una de las fuentes de financiación de ETA durante cinco décadas, junto a los secuestros y los atracos. El 80% de sus finanzas provenían del cobro de estas extorsiones conocidas como "impuesto revolucionario".
+· País: España
+· Dirección: Jon Sistiaga, Alfonso Cortés-Cavanillas.
+· Productora: Movistar+, La Caña Brothers.</desc>
+	</programme>
+	<programme start="20261021023800 +0200" stop="20261021032600 +0200" channel="M. PLUS SAT">
+    <title>ETA, el final del silencio · Miguel Ángel</title>
+    <desc>Documentales,Actualidad | 2019 | +12 | *7.4/10
+· Las 48 horas que pasaron entre el secuestro el 10 de julio de 1997 y el asesinato de Miguel Ángel Blanco es uno de esos momentos en la historia de España que todos los que lo vivieron son capaces de recordar con claridad. ¿Dónde estábamos esos días?
+· País: España
+· Dirección: Jon Sistiaga, Alfonso Cortés-Cavanillas.
+· Productora: Movistar+, La Caña Brothers.</desc>
+	</programme>
+	<programme start="20261021032600 +0200" stop="20261021042300 +0200" channel="M. PLUS SAT">
+    <title>ETA, el final del silencio · Orígenes</title>
+    <desc>Documentales,Actualidad | 2019 | +12 | *7.2/10
+· En este episodio analizamos algunos de los primeros grandes errores de la banda, desde el primer asesinato del guardia civil José Pardines en 1968 hasta su primera víctima civil, Fermín Monasterio (1969), pasando por el asesinato de algunos militantes.
+· País: España
+· Dirección: Jon Sistiaga, Alfonso Cortés-Cavanillas.
+· Productora: Movistar+, La Caña Brothers.</desc>
+	</programme>
+	<programme start="20261021042300 +0200" stop="20261021051000 +0200" channel="M. PLUS SAT">
+    <title>ETA, el final del silencio · Años de plomo</title>
+    <desc>Documentales,Actualidad | 2019 | +12 | *7.0/10
+· Durante los años 80, ETA asesinaba a casi 100 personas al año, prácticamente un muerto cada tres días. Aquella época es conocida como "los años de plomo", unos años a los que pertenece la mayor parte de los asesinatos por resolver de ETA.
+· País: España
+· Dirección: Jon Sistiaga, Alfonso Cortés-Cavanillas.
+· Productora: Movistar+, La Caña Brothers.</desc>
+	</programme>
+	<programme start="20261021051000 +0200" stop="20261021060500 +0200" channel="M. PLUS SAT">
+    <title>ETA, el final del silencio: Epílogo</title>
+    <desc>Documentales,Actualidad | 2019 | +12 | *6.8/10
+· ETA fue derrotada policialmente. ETA no decidió dejar las armas y disolverse cuando la propia banda quiso. Lo hizo porque la Policía y la Guardia Civil la habían convertido en una organización zombi.
+· País: España
+· Dirección: Jon Sistiaga, Alfonso Cortés-Cavanillas.
+· Productora: Movistar+, La Caña Brothers.</desc>
+	</programme>
+	<programme start="20261021060500 +0200" stop="20261021070200 +0200" channel="M. PLUS SAT">
+    <title>ETA, el final del silencio · Terceras generaciones</title>
+    <desc>Documentales,Actualidad | 2019 | +12 | *7.0/10
+· Este episodio cuenta el relato del terrorismo en nuestro país desde el punto de vista de las víctimas más jóvenes, de las generaciones a las que la barbarie terrorista convirtió en afectados indirectos y a las que hizo pagar un alto precio.
+· País: España
+· Dirección: Jon Sistiaga, Alfonso Cortés-Cavanillas.
+· Productora: Movistar+, La Caña Brothers.</desc>
+	</programme>
+	<programme start="20261021070200 +0200" stop="20261021080000 +0200" channel="M. PLUS SAT">
+    <title>Documentales</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20261021080000 +0200" stop="20261021083000 +0200" channel="M. PLUS SAT">
+    <title>Planeta Tenis T2026 E24</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Roberto Carretero e Iñaki Cano Martínez presentan este espacio dedicado al mundo del tenis, donde sus principales protagonistas y toda la información relacionada con los Grand Slam mantendrá viva la pasión por este deporte.
+· País: España
+· Presenta: Lidia Blanco, Roberto Carretero.</desc>
+	</programme>
+	<programme start="20261021083000 +0200" stop="20261021091900 +0200" channel="M. PLUS SAT">
+    <title>La guerra del hachís E1</title>
+    <desc>Documentales,Sociedad | 2023 | +16 | *6.0/10
+· Más de 200 policías de todo el país llegan a las Rías Baixas gallegas para desmantelar una de las mayores redes dedicadas al tráfico de hachís. Un negocio que nace en Marruecos y que ya se ha extendido por toda la geografía española.
+· País: España
+· Dirección: Víctor Méndez Sanguos.
+· Productora: Imaco.</desc>
+	</programme>
+	<programme start="20261021091900 +0200" stop="20261021101300 +0200" channel="M. PLUS SAT">
+    <title>La guerra del hachís E2</title>
+    <desc>Documentales,Sociedad | 2023 | +16 | *6.2/10
+· La Policía cierra con éxito la operación en Galicia, pero las fuerzas de seguridad tienen muchos frentes abiertos. La incautación de 22.000 kilos de hachís en Andalucía disfrazados de tomates y pimientos acarrea brutales ajustes de cuentas.
+· País: España
+· Dirección: Víctor Méndez Sanguos.
+· Productora: Imaco.</desc>
+	</programme>
+	<programme start="20261021101300 +0200" stop="20261021120800 +0200" channel="M. PLUS SAT">
+    <title>El hombre de las mil caras</title>
+    <desc>Cine,Thriller | 2016 | +7 | *7.2/10
+· Madrid, 1995. Francisco Paesa y su amigo y socio Jesús Camoes acaban de participar en la entrega del prófugo más buscado de la historia de la democracia española y esperan contar pronto con una gran cantidad de dinero.
+· País: España
+· Dirección: Alberto Rodríguez.
+· Reparto: Eduard Fernández, José Coronado, Marta Etura, Carlos Santos, Emilio Gutiérrez Caba, Enric Benavent, Philippe Rebbot.
+· Guion: Rafael Cobos, Alberto Rodríguez.
+· Música: Julio de la Rosa.
+· Producción: Jose Antonio Félez, Antonio Asensio Mosbah, Francisco Ramos, Mercedes Gamero, Mikel Lejarza, Gervasio Iglesias.
+· Productora: Movistar+, Atresmedia Cine, Atípica Films.</desc>
+	</programme>
+	<programme start="20261021120800 +0200" stop="20261021124600 +0200" channel="M. PLUS SAT">
+    <title>Paga o muere E1</title>
+    <desc>Documentales,Sociedad | 2026 | +12
+· El lunes 21 de marzo de 1983 el empresario Jesús Guibert entra en el garaje de su empresa. No se da cuenta de que hay un coche aparcado con tres individuos dentro con el objetivo de secuestrarle.
+· País: España
+· Dirección: Ricardo Sanz Ramos, Marisa Lafuente.</desc>
+	</programme>
+	<programme start="20261021124600 +0200" stop="20261021132400 +0200" channel="M. PLUS SAT">
+    <title>Paga o muere E2</title>
+    <desc>Documentales,Sociedad | 2026 | +12
+· ETA multiplica el envío de remesas de cartas exigiendo el impuesto revolucionario. Ahora ya no es una carta, sino tres. Y el significado de las palabras de la última es el más efectivo y aterrador porque ETA anuncia que te has convertido en un objetivo.
+· País: España
+· Dirección: Ricardo Sanz Ramos, Marisa Lafuente.</desc>
+	</programme>
+	<programme start="20261021132400 +0200" stop="20261021141700 +0200" channel="M. PLUS SAT">
+    <title>Paga o muere E3</title>
+    <desc>Documentales,Sociedad | 2026 | +12 | *5.4/10
+· El rechazo social contra la violencia crece. Y se refleja también en la recaudación de ETA. Son cada vez más los empresarios que se niegan a pagar la extorsión. Ese es el mensaje que se propaga desde ADEGUI, una patronal de empresarios de Guipúzcoa.
+· País: España
+· Dirección: Ricardo Sanz Ramos, Marisa Lafuente.</desc>
+	</programme>
+	<programme start="20261021141700 +0200" stop="20261021154200 +0200" channel="M. PLUS SAT">
+    <title>20/10/2026 T26/27 · Noche de Champions</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.6/10
+· Revive la emoción de cada jornada de Champions con este programa que incluye resúmenes de los partidos de la UEFA Champions League, los goles de la jornada y todo tipo de informaciones relacionadas con esta competición.
+· País: España</desc>
+	</programme>
+	<programme start="20261021154200 +0200" stop="20261021171700 +0200" channel="M. PLUS SAT">
+    <title>Truhanes</title>
+    <desc>Cine,Comedia | 1983 | TP | *6.0/10
+· Gonzalo, un truhán de altura, emparentado con las cimas del poder y del dinero, va a la cárcel por un tonto resbalón en el tráfico de divisas. Aunque su condena no es larga, en la cárcel necesitará la protección que le proporciona el viejo Ginés.
+· País: España
+· Dirección: Miguel Hermoso.
+· Reparto: Francisco Rabal, Arturo Fernández, Silvia Gambino, Isabel Mestres, José Antonio Correa, Vicky Lagos.
+· Guion: Miguel Hermoso.
+· Música: José Nieto.
+· Producción: José G Jacoste.
+· Productora: PE Films, PE Films (Productores Exhibidores Films S.A.).</desc>
+	</programme>
+	<programme start="20261021171700 +0200" stop="20261021185500 +0200" channel="M. PLUS SAT">
+    <title>200 vidas. Paco Rabal</title>
+    <desc>Documentales,Biografía | 2026
+· El retrato de uno de los grandes actores del cine español. Un viaje íntimo, suspendido en ese instante previo a la muerte donde la biografía se funde con los deseos incumplidos, las decisiones irreversibles y las heridas abiertas.
+· País: España
+· Dirección: Vanesa Benítez.</desc>
+	</programme>
+	<programme start="20261021185500 +0200" stop="20261021192500 +0200" channel="M. PLUS SAT">
+    <title>Bakalá T26/27 E7</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *5.8/10
+· Un programa que combina el deporte actual con lo mejor del archivo de la casa. Te contamos todo lo acontecido durante la semana, a la vez que recordamos imágenes míticas. Todo ello amenizado con la voz de Raúl Pérez y sus personajes.
+· País: España
+· Presenta: Raúl Pérez.</desc>
+	</programme>
+	<programme start="20261021192500 +0200" stop="20261021200000 +0200" channel="M. PLUS SAT">
+    <title>Ilustres ignorantes T20 · Las tendencias</title>
+    <desc>Entretenimiento,Humor | 2026 | +16
+· Programa que trata de encontrar respuestas a todas esas preguntas ridículas que nos planteamos en nuestra vida diaria.
+· País: España
+· Presenta: Javier Coronas.
+· Dirección: Javier Coronas.
+· Productora: Movistar+.</desc>
+	</programme>
+	<programme start="20261021200000 +0200" stop="20261021205300 +0200" channel="M. PLUS SAT">
+    <title>21/10/2026 T26/27 · La Previa de Champions</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *7.4/10
+· Programa que incluye resúmenes de los partidos de la UEFA Champions League, los goles de la jornada y todo tipo de informaciones relacionadas con esta competición.
+· País: España</desc>
+	</programme>
+	<programme start="20261021205300 +0200" stop="20261021230000 +0200" channel="M. PLUS SAT">
+    <title>Jornada 3: Real Madrid - Leipzig T26/27 · UEFA Champions League</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
+· La máxima competición del deporte europeo garantiza emoción y buen fútbol. 36 equipos se juegan el pase a la gloria durante una fase liga antes de llegar a las eliminatorias, en las que los partidos son a cara de perro. El PSG defiende título.
+· País: España</desc>
+	</programme>
+	<programme start="20261021230000 +0200" stop="20261022003000 +0200" channel="M. PLUS SAT">
+    <title>21/10/2026 T26/27 · Noche de Champions</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *5.4/10
+· Revive la emoción de cada jornada de Champions con este programa que incluye resúmenes de los partidos de la UEFA Champions League, los goles de la jornada y todo tipo de informaciones relacionadas con esta competición.
+· País: España</desc>
+	</programme>
+	<programme start="20261022003000 +0200" stop="20261022010100 +0200" channel="M. PLUS SAT">
+    <title>Leo Talks T7 · Expediente Harlem</title>
+    <desc>Entretenimiento,Humor | 2026 | +12
+· Leo se adentra en lo paranormal: fantasmas, criaturas misteriosas, el monstruo del Lago Ness y brujas con escoba. Entre supersticiones, fotos borrosas y disparates históricos, demuestra que la credulidad humana sigue más viva que los propios fantasmas.
+· País: España
+· Presenta: Leo Harlem.</desc>
+	</programme>
+	<programme start="20261022010100 +0200" stop="20261022012300 +0200" channel="M. PLUS SAT">
+    <title>Amor sin wifi T1 E1 · Un nuevo avatar</title>
+    <desc>Series,Comedia dramática | 2023 | +18 | *6.0/10
+· Cuando Ida es abandonada por su novio virtual Martin, decide que no le queda otra que salir al mundo real y experimentar lo que son las citas sin wifi. Ida quiere dar celos a Marvin.
+· País: Noruega
+· Dirección: Jakob Rørvik.
+· Reparto: Gina Bernhoft Gørvell, Jacques Colimon, Mathias Luppichini.</desc>
+	</programme>
+	<programme start="20261022012300 +0200" stop="20261022014600 +0200" channel="M. PLUS SAT">
+    <title>Amor sin wifi T1 E2 · La princesa guerrera</title>
+    <desc>Series,Comedia dramática | 2023 | +18 | *6.0/10
+· Ida prosigue explorando el mundo de las citas reales con resultados no muy satisfactorios mientras vigila en las redes a Martin y a su nueva novia. Cuando Martin le recrimina que debe pasar página tienen una conversación muy reveladora.
+· País: Noruega
+· Dirección: Jakob Rørvik.
+· Reparto: Gina Bernhoft Gørvell, Jacques Colimon, Mathias Luppichini.</desc>
+	</programme>
+	<programme start="20261022014600 +0200" stop="20261022021100 +0200" channel="M. PLUS SAT">
+    <title>Amor sin wifi T1 E3 · A la caza del unicornio</title>
+    <desc>Series,Comedia dramática | 2023 | +18 | *6.0/10
+· Ida está obsesionada desde niña con un artista japonés llamado Tetsuo. Cuando acude a una de sus actuaciones logra hablar con él y pasan tiempo juntos. Pero Tetsuo no es como ella siempre había pensado. Marvin llama a Ida a escondidas de su novia.
+· País: Noruega
+· Dirección: Jakob Rørvik.
+· Reparto: Gina Bernhoft Gørvell, Jacques Colimon, Mathias Luppichini.</desc>
+	</programme>
+	<programme start="20261022021100 +0200" stop="20261022023500 +0200" channel="M. PLUS SAT">
+    <title>Amor sin wifi T1 E4 · Un cuerpo en el mundo</title>
+    <desc>Series,Comedia dramática | 2023 | +18 | *6.0/10
+· En su exploración por el mundo de las citas reales, Ida decide quedar con una chica que le hace plantearse una cuestión importante sobre ella misma y sobre cómo se siente con su cuerpo.
+· País: Noruega
+· Dirección: Jakob Rørvik.
+· Reparto: Gina Bernhoft Gørvell, Jacques Colimon, Mathias Luppichini.</desc>
+	</programme>
+	<programme start="20261022023500 +0200" stop="20261022025500 +0200" channel="M. PLUS SAT">
+    <title>Amor sin wifi T1 E5 · Salir del útero</title>
+    <desc>Series,Comedia dramática | 2023 | +18 | *5.8/10
+· Ida decide abandonar las citas y la vida real en general. Se recluye en el sótano de la casa de su madre hasta que ésta y su nuevo novio intervienen y le exigen que contribuya a la economía familiar. Ida tiene que buscar un empleo.
+· País: Noruega
+· Dirección: Jakob Rørvik.
+· Reparto: Gina Bernhoft Gørvell, Jacques Colimon, Mathias Luppichini.</desc>
+	</programme>
+	<programme start="20261022025500 +0200" stop="20261022031900 +0200" channel="M. PLUS SAT">
+    <title>Amor sin wifi T1 E6 · La muerte de la princesa guerrera</title>
+    <desc>Series,Comedia dramática | 2023 | +18 | *6.2/10
+· Ida recoge todas sus cosas y deja el hogar materno para irse a vivir con su primer novio real. Einar decide celebrar su relación con Ida por todo lo alto organizando una fiesta a la que invita a un montón de amigos y clientes.
+· País: Noruega
+· Dirección: Jakob Rørvik.
+· Reparto: Gina Bernhoft Gørvell, Jacques Colimon, Mathias Luppichini.</desc>
+	</programme>
+	<programme start="20261022031900 +0200" stop="20261022035300 +0200" channel="M. PLUS SAT">
+    <title>Amor sin wifi T1 E7 · Ida 2.0</title>
+    <desc>Series,Comedia dramática | 2023 | +18 | *6.0/10
+· La pérdida de uno de sus amigos provoca en Ida el deseo de aprovechar la vida al máximo. Impulsada por Einar trata de superar alguno de sus miedos y avanzar hacia una nueva y mejorada versión de sí misma. Pero ¿está siendo realmente auténtica?
+· País: Noruega
+· Dirección: Jakob Rørvik.
+· Reparto: Gina Bernhoft Gørvell, Jacques Colimon, Mathias Luppichini.</desc>
+	</programme>
+	<programme start="20261022035300 +0200" stop="20261022045300 +0200" channel="M. PLUS SAT">
+    <title>Documentales</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20261022045300 +0200" stop="20261022055300 +0200" channel="M. PLUS SAT">
+    <title>Documentales</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20261022055300 +0200" stop="20261022065300 +0200" channel="M. PLUS SAT">
+    <title>Documentales</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20261022065300 +0200" stop="20261022080000 +0200" channel="M. PLUS SAT">
+    <title>Documentales</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20261022080000 +0200" stop="20261022090800 +0200" channel="M. PLUS SAT">
+    <title>Ellas en la ciudad</title>
+    <desc>Documentales,Sociedad | 2025 | TP | *7.0/10
+· Las vidas cotidianas de una generación de mujeres, primeras pobladoras de los barrios de la periferia de Sevilla. Ellas han sido el sostén de una ciudad que les da la espalda. ¿Cómo serían las ciudades si las hubieran diseñado ellas?
+· País: España
+· Dirección: Reyes Gallegos.
+· Guion: Reyes Gallegos.
+· Productora: Movistar Plus+.</desc>
+	</programme>
+	<programme start="20261022090800 +0200" stop="20261022101300 +0200" channel="M. PLUS SAT">
+    <title>Lamine Yamal. Revolución 304</title>
+    <desc>Documentales,Deportes | 2025 | TP | *6.6/10
+· Lamine Yamal se ha convertido en uno de los mejores futbolistas del mundo. Cada vez que marca un gol lo celebra dibujando con sus manos el 304, los números del distrito postal de Rocafonda, el barrio de Mataró donde todavía vive su abuela Fátima.
+· País: España
+· Dirección: Xavi Torres, Jesús Muñoz, Santi Padró.</desc>
+	</programme>
+	<programme start="20261022101300 +0200" stop="20261022122000 +0200" channel="M. PLUS SAT">
+    <title>El Niño</title>
+    <desc>Cine,Acción | 2014 | +16 | *6.8/10
+· Frontera sur de Europa. Dos continentes, tres países, 14 kilómetros... tierra de contrabando. Los agentes Jesús y Eva llevan dos años tras la pista de la principal red de narcotráfico que opera en la zona.
+· País: España y Francia
+· Dirección: Daniel Monzón.
+· Reparto: Luis Tosar, Jesús Castro, Eduard Fernández, Sergi López, Bárbara Lennie, Ian McShane, Jesús Carroza, Moussa Maaskri.
+· Guion: Daniel Monzón, Jorge Guerricaechevarría.
+· Música: Roque Baños.
+· Producción: Álvaro Augustín, Ghislain Barrois, Borja Pena, Edmon Roch, Javier Ugarte.
+· Productora: Ikiru Films, Maestranza Films, StudioCanal, Telecinco Cinema, La Ferme! Productions.</desc>
+	</programme>
+	<programme start="20261022122000 +0200" stop="20261022131500 +0200" channel="M. PLUS SAT">
+    <title>Telegram: el gran disruptor</title>
+    <desc>Documentales,Sociedad | 2026 | TP | *6.6/10
+· En agosto de 2024 el fundador de Telegram, Pável Dúrov, fue detenido en Francia como parte de una investigación policial sobre la falta de moderación en la plataforma. Su arresto puso sobre la mesa el papel de las redes sociales en el debate público.
+· País: Francia</desc>
+	</programme>
+	<programme start="20261022131500 +0200" stop="20261022141500 +0200" channel="M. PLUS SAT">
+    <title>Death Valley: El valle de la muerte</title>
+    <desc>Documentales,Sociedad | 2026 | TP | *9.0/10
+· Un reto realizado en 2024 por dalecandELA, una asociación sin ánimo de lucro, cuyo fin es visibilizar la ELA, recaudar fondos para la investigación en la lucha contra la enfermedad, y apoyar a quienes la padecen.
+· País: España
+· Dirección: Juan Luis Aguirrezabal, Luis Echevarría, Jaime Lafita.</desc>
+	</programme>
+	<programme start="20261022141500 +0200" stop="20261022155000 +0200" channel="M. PLUS SAT">
+    <title>21/10/2026 T26/27 · Noche de Champions</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *5.4/10
+· Revive la emoción de cada jornada de Champions con este programa que incluye resúmenes de los partidos de la UEFA Champions League, los goles de la jornada y todo tipo de informaciones relacionadas con esta competición.
+· País: España</desc>
+	</programme>
+	<programme start="20261022155000 +0200" stop="20261022163900 +0200" channel="M. PLUS SAT">
+    <title>Negocios turbios T1 E1 · Detectives por accidente</title>
+    <desc>Series,Drama | 2026 | +16
+· En un pequeño pueblo de Oxfordshire, los jubilados Ash Smith y Peter Hammond descubren que los peces del río Windrush están muriendo. Cuando preguntan a la compañía de aguas, reciben respuestas evasivas que despiertan sus sospechas.
+· País: Reino Unido
+· Reparto: David Thewlis, Jason Watkins, Posy Sterling, Tom McKay, Alex Jennings, Asim Chaudhry, Alice Lowe, Chanel Cresswell.</desc>
+	</programme>
+	<programme start="20261022163900 +0200" stop="20261022172900 +0200" channel="M. PLUS SAT">
+    <title>Negocios turbios T1 E2 · Ecocidio</title>
+    <desc>Series,Drama | 2026 | +16 | *6.6/10
+· A medida que avanzan sus pesquisas, Ash y Peter descubren que la contaminación es mucho más extensa de lo que imaginaban. La búsqueda de pruebas los lleva a enfrentarse tanto a la compañía de aguas como a los organismos reguladores.
+· País: Reino Unido
+· Reparto: David Thewlis, Jason Watkins, Posy Sterling, Tom McKay, Alex Jennings, Asim Chaudhry, Alice Lowe, Chanel Cresswell.</desc>
+	</programme>
+	<programme start="20261022172900 +0200" stop="20261022182500 +0200" channel="M. PLUS SAT">
+    <title>Negocios turbios T1 E3 · El denunciante</title>
+    <desc>Series,Drama | 2026 | +16 | *3.0/10
+· La investigación alcanza un punto decisivo cuando las evidencias acumuladas sacan a la luz años de negligencias y encubrimientos. Mientras las víctimas buscan justicia, los responsables tratan de protegerse.
+· País: Reino Unido
+· Reparto: David Thewlis, Jason Watkins, Posy Sterling, Tom McKay, Alex Jennings, Asim Chaudhry, Alice Lowe, Chanel Cresswell.</desc>
+	</programme>
+	<programme start="20261022182500 +0200" stop="20261022185600 +0200" channel="M. PLUS SAT">
+    <title>Leo Talks T7 · Expediente Harlem</title>
+    <desc>Entretenimiento,Humor | 2026 | +12 | *6.0/10
+· Leo se adentra en lo paranormal: fantasmas, criaturas misteriosas, el monstruo del Lago Ness y brujas con escoba. Entre supersticiones, fotos borrosas y disparates históricos, demuestra que la credulidad humana sigue más viva que los propios fantasmas.
+· País: España
+· Presenta: Leo Harlem.</desc>
+	</programme>
+	<programme start="20261022185600 +0200" stop="20261022200000 +0200" channel="M. PLUS SAT">
+    <title>Informe Plus. Toni Bou, 40 de 40</title>
+    <desc>Deportes,Programa deportes | 2026 | TP
+· Informe Plus. Toni Bou, 40 de 40 -.
+· País: España</desc>
+	</programme>
+	<programme start="20261022200000 +0200" stop="20261022205300 +0200" channel="M. PLUS SAT">
+    <title>22/10/2026 T26/27 · La Previa de Europa League</title>
+    <desc>Deportes,Programa deportes | 2026 | TP
+· Programa que incluye previas de los partidos de la UEFA Europa League, análisis clave de la jornada y todo tipo de informaciones relacionadas con esta competición.
+· País: España</desc>
+	</programme>
+	<programme start="20261022205300 +0200" stop="20261022230000 +0200" channel="M. PLUS SAT">
+    <title>DIRECTO Jornada 3: Celtic - Celta T26/27 · UEFA Europa League</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· Es la segunda competición de la UEFA, pero siempre cuenta con equipos de primer nivel. Tras una fase liga de ocho jornadas, solo los mejores disputarán las eliminatorias por el título. La final de esta edición se disputará en el Besiktas Stadium.
+· País: Reino Unido</desc>
+	</programme>
+	<programme start="20261022230000 +0200" stop="20261023003500 +0200" channel="M. PLUS SAT">
+    <title>22/10/2026 T26/27 · Noche de Europa League</title>
+    <desc>Deportes,Programa deportes | 2026 | TP
+· Revive los partidos de la UEFA Europa League, los goles de la jornada y todo tipo de informaciones relacionadas con esta competición.
+· País: España</desc>
+	</programme>
+	<programme start="20261023003500 +0200" stop="20261023010400 +0200" channel="M. PLUS SAT">
+    <title>Ilustres ignorantes T20 · Las tendencias</title>
+    <desc>Entretenimiento,Humor | 2026 | +16 | *5.0/10
+· La cómica Lalachús y el periodista Manuel Jabois hablan en Ilustres de “Las tendencias” ¿Cuál ha sido la que más les ha marcado: un corte de pelo, una tribu urbana, un alimento, un baile, una frase…? ¿Qué tendencia actual les fascina más?
+· País: España
+· Presenta: Javier Coronas.
+· Dirección: Javier Coronas.
+· Productora: Movistar+.</desc>
+	</programme>
+	<programme start="20261023010400 +0200" stop="20261023030400 +0200" channel="M. PLUS SAT">
+    <title>Weapons</title>
+    <desc>Cine,Thriller | 2025 | +18 | *6.4/10
+· En una tranquila localidad de provincias todos los niños de una misma clase, excepto uno, salen de sus casas a la misma hora y desaparecen. ¿Qué está ocurriendo?
+· País: Estados Unidos
+· Dirección: Zach Cregger.
+· Reparto: Julia Garner, Josh Brolin, Alden Ehrenreich, Benedict Wong, Austin Abrams, Amy Madigan.
+· Guion: Zach Cregger.
+· Música: Zach Cregger, Hays Holladay, Ryan Holladay.
+· Producción: Zach Cregger, Miri Yoon.
+· Productora: New Line Cinema, Domain Entertainment.</desc>
+	</programme>
+	<programme start="20261018063500 +0200" stop="20261018073400 +0200" channel="M. PLUS SCRIPT">
+    <title>Rave Culture</title>
+    <desc>Documentales,Música | 2025 | +12 | *6.8/10
+· El documental se adentra en el apogeo del movimiento rave británico que se produjo a principios de los años noventa, impulsado por el desempleo masivo, el auge de las anfetaminas y una nueva ola de músicos, productores y artistas.
+· País: España
+· Dirección: Eduardo Cubillo.</desc>
+	</programme>
+	<programme start="20261018073400 +0200" stop="20261018074500 +0200" channel="M. PLUS SCRIPT">
+    <title>Lo mejor de Bakalá T26/27 E5</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.2/10
+· Un programa que combina el deporte actual con lo mejor del archivo de la casa. Te contamos todo lo acontecido durante la semana, a la vez que recordamos imágenes míticas. Todo ello amenizado con la voz de Raúl Pérez y sus personajes.
+· País: España
+· Presenta: Raúl Pérez.</desc>
+	</programme>
+	<programme start="20261018074500 +0200" stop="20261018082500 +0200" channel="M. PLUS SCRIPT">
+    <title>Todo sobre Roland-Garros E1</title>
+    <desc>Documentales,Deportes | 2026 | TP | *6.2/10
+· Esta serie documental nos sumerge en el corazón del Grand Slam más emblemático, uno de los mayores eventos deportivos del planeta.
+· País: Francia
+· Dirección: Julien Bossenie.</desc>
+	</programme>
+	<programme start="20261018082500 +0200" stop="20261018091000 +0200" channel="M. PLUS SCRIPT">
+    <title>Todo sobre Roland-Garros E2</title>
+    <desc>Documentales,Deportes | 2026 | TP | *6.0/10
+· Esta serie documental nos sumerge en el corazón del Grand Slam más emblemático, uno de los mayores eventos deportivos del planeta.
+· País: Francia
+· Dirección: Julien Bossenie.</desc>
+	</programme>
+	<programme start="20261018091000 +0200" stop="20261018095000 +0200" channel="M. PLUS SCRIPT">
+    <title>Todo sobre Roland-Garros E3</title>
+    <desc>Documentales,Deportes | 2026 | TP | *6.2/10
+· Esta serie documental nos sumerge en el corazón del Grand Slam más emblemático, uno de los mayores eventos deportivos del planeta.
+· País: Francia
+· Dirección: Julien Bossenie.</desc>
+	</programme>
+	<programme start="20261018095000 +0200" stop="20261018103300 +0200" channel="M. PLUS SCRIPT">
+    <title>Todo sobre Roland-Garros E4</title>
+    <desc>Documentales,Deportes | 2026 | TP | *6.4/10
+· Esta serie documental nos sumerge en el corazón del Grand Slam más emblemático, uno de los mayores eventos deportivos del planeta.
+· País: Francia
+· Dirección: Julien Bossenie.</desc>
+	</programme>
+	<programme start="20261018103300 +0200" stop="20261018134000 +0200" channel="M. PLUS SCRIPT">
+    <title>Torneo de Shanghai T2026 · Final: Davidovich - Jodar</title>
+    <desc>Deportes,Tenis | 2026 | TP | *6.6/10
+· El octavo Masters 1000 de la temporada de la ATP se juega en Shanghai. Es el único torneo de esta categoría que no ha ganado ningún español.</desc>
+	</programme>
+	<programme start="20261018134000 +0200" stop="20261018143700 +0200" channel="M. PLUS SCRIPT">
+    <title>Informe Plus. Ba-lon-ces-to. 2006. Más allá del oro</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.6/10
+· Los doce campeones del mundo de Japón 2006, con Pau Gasol, Juan Carlos Navarro y Jorge Garbajosa a la cabeza, se reúnen en esta nueva entrega de Informe Plus para recordar el campeonato que cambió el deporte español.
+· País: España</desc>
+	</programme>
+	<programme start="20261018143700 +0200" stop="20261018145500 +0200" channel="M. PLUS SCRIPT">
+    <title>Top Bakalá T26/27 E6</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Un programa que combina el deporte actual con lo mejor del archivo de la casa. Te contamos todo lo acontecido durante la semana, a la vez que recordamos imágenes míticas. Todo ello amenizado con la voz de Raúl Pérez y sus personajes.
+· País: España
+· Presenta: Raúl Pérez.</desc>
+	</programme>
+	<programme start="20261018145500 +0200" stop="20261018170300 +0200" channel="M. PLUS SCRIPT">
+    <title>Serie A Calcio T26/27 · Jornada 7: Fiorentina - Como</title>
+    <desc>Deportes,Fútbol | 2026
+· El fútbol italiano cuenta con uno de los campeonatos más prestigiosos de todo el planeta, la Serie A. La liga cuenta con gigantes del fútbol mundial y cultiva alguna de las rivalidades más encarnizadas de este deporte. El Inter defiende 'Scudetto'.
+· País: Italia</desc>
+	</programme>
+	<programme start="20261018170300 +0200" stop="20261018172000 +0200" channel="M. PLUS SCRIPT">
+    <title>Lo mejor de Bakalá T26/27 E6</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.8/10
+· Un programa que combina el deporte actual con lo mejor del archivo de la casa. Te contamos todo lo acontecido durante la semana, a la vez que recordamos imágenes míticas. Todo ello amenizado con la voz de Raúl Pérez y sus personajes.
+· País: España
+· Presenta: Raúl Pérez.</desc>
+	</programme>
+	<programme start="20261018172000 +0200" stop="20261018193000 +0200" channel="M. PLUS SCRIPT">
+    <title>DIRECTO Jornada 7: Nottingham Forest - Arsenal T26/27 · Premier League</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· En The City Ground se ven las caras N.Forest y Arsenal en la séptima jornada de la Premier League. Los de Glasner están descolgados en la tabla con cinco puntos tras caer ante el C.Palace. Los gunners fueron solventes en UCL y suman quince puntos.
+· País: Reino Unido</desc>
+	</programme>
+	<programme start="20261018193000 +0200" stop="20261018201400 +0200" channel="M. PLUS SCRIPT">
+    <title>DIRECTO 18/10/2026 Tramo 1 T26/27 · DeportePlus Domingo</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Un lugar donde cabe todo el deporte que se juega en el planeta de la mano de Juanma Castaño. La emoción y la pasión con las mejores imágenes, las previas, los resúmenes, los testimonios y el análisis de nuestros expertos.
+· País: España</desc>
+	</programme>
+	<programme start="20261018201400 +0200" stop="20261018204200 +0200" channel="M. PLUS SCRIPT">
+    <title>Leo Talks T7 · Crimen desorganizado</title>
+    <desc>Entretenimiento,Humor | 2026 | +12 | *6.4/10
+· Leo desmonta la idea de que vivimos tiempos más peligrosos. Entre quinquis, radiocasetes robados, alarmas absurdas, contraseñas ridículas y estafas online, demuestra que hay menos atracos que antes, aunque seguimos viviendo con más miedo que nunca.
+· País: España
+· Presenta: Leo Harlem.</desc>
+	</programme>
+	<programme start="20261018204200 +0200" stop="20261018211400 +0200" channel="M. PLUS SCRIPT">
+    <title>Ilustres ignorantes T20 · El terror</title>
+    <desc>Entretenimiento,Humor | 2026 | +16 | *7.6/10
+· La presentadora Inés Hernand y el creador de contenido Marc Biarnés son los invitados de este programa sobre “El terror” ¿Qué monstruo les da más miedo: el vampiro, la momia, el chupacabras…? ¿En qué ocasión han pasado más miedo en su vida?
+· País: España
+· Presenta: Javier Coronas.
+· Dirección: Javier Coronas.
+· Productora: Movistar+.</desc>
+	</programme>
+	<programme start="20261018211400 +0200" stop="20261018225100 +0200" channel="M. PLUS SCRIPT">
+    <title>Un muerto a la hora del té</title>
+    <desc>Cine,Comedia | 2025 | +16 | *6.0/10
+· En la Inglaterra de 1931, un carterista consigue trabajo como criado en la mansión de los Davenport. Allí se enamora de la hija rebelde de la familia, pero una muerte inesperada lo convierte en sospechoso entre una boda, secretos y diferencias de clase.
+· País: Reino Unido
+· Dirección: Jim	 O'Hanlon.
+· Reparto: Damian Lewis, Thomasin McKenzie, Ben Radcliffe, Katherine Waterston, Tom Felton.
+· Guion: Jimmy Carr.
+· Música: Oli Julian.
+· Productora: Elysian Film Group.</desc>
+	</programme>
+	<programme start="20261018225100 +0200" stop="20261018230000 +0200" channel="M. PLUS SCRIPT">
+    <title>Bakalá T26/27 E6</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *5.8/10
+· Un programa que combina el deporte actual con lo mejor del archivo de la casa. Te contamos todo lo acontecido durante la semana, a la vez que recordamos imágenes míticas. Todo ello amenizado con la voz de Raúl Pérez y sus personajes.
+· País: España
+· Presenta: Raúl Pérez.</desc>
+	</programme>
+	<programme start="20261018230000 +0200" stop="20261019002400 +0200" channel="M. PLUS SCRIPT">
+    <title>DIRECTO 18/10/2026 T26/27 · DeportePlus con Juanma Castaño</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Un lugar donde cabe todo el deporte que se juega en el planeta. La emoción y la pasión al completo de la mano de Juanma Castaño.
+· País: España
+· Presenta: Juanma Castaño.</desc>
+	</programme>
+	<programme start="20261019002400 +0200" stop="20261019011500 +0200" channel="M. PLUS SCRIPT">
+    <title>Las Berrocal T2 E6</title>
+    <desc>Entretenimiento | 2025 | +16 | *6.2/10
+· Vicky y Alba lloran juntas porque Alba se va a vivir con su novio. Rocío vuelve a emocionarse con un chico y provoca un cisma familiar. Victoria las reúne en El Rocío, escenario del final de la temporada que podría marcar un antes y un después.
+· País: España</desc>
+	</programme>
+	<programme start="20261019011500 +0200" stop="20261019024800 +0200" channel="M. PLUS SCRIPT">
+    <title>Un cadáver a los postres</title>
+    <desc>Cine,Comedia | 1976 | TP | *7.2/10
+· Un peculiar grupo de detectives es invitado a cenar a una mansión. Una vez allí, el anfitrión les desafía a resolver un crimen.
+· País: Estados Unidos
+· Dirección: Robert Moore.
+· Reparto: Eileen Brennan, Truman Capote, James Coco, Alec Guinness, Peter Sellers, David Niven, Maggie Smith, Peter Falk, Richard Narita.
+· Guion: Neil Simon.
+· Música: Dave Grusin.
+· Producción: Ray Stark.
+· Productora: Columbia Pictures Corporation, Rastar Pictures.</desc>
+	</programme>
+	<programme start="20261019024800 +0200" stop="20261019042300 +0200" channel="M. PLUS SCRIPT">
+    <title>55</title>
+    <desc>Cine,Thriller | 2025 | +16 | *6.4/10
+· 55 es un adolescente que se gana la vida como carterista en las calles de Bombay. Él, como el resto de jóvenes ladrones que trabaja para el despiadado Sagar Bhai, lleva tatuado el número que lo identifica en la organización.
+· País: Estados Unidos
+· Dirección: Shyam P. Madiraju.
+· Reparto: Emraan Hashmi, Rizwan Shaikh, Dhanshree Patil, Harsh Rajendra Rane, Ashutosh Gaikwad, Sarthak Dusane.
+· Guion: Shyam P. Madiraju, Shahin Khosravan, Prashant Pandey.
+· Producción: Ridley Scott, Shyam P. Madiraju, Paul Feig.
+· Productora: Scott Free Productions, Endless Media, Emraan Hashmi Films.</desc>
+	</programme>
+	<programme start="20261019042300 +0200" stop="20261019051000 +0200" channel="M. PLUS SCRIPT">
+    <title>La Chaparra E1</title>
+    <desc>Documentales,Sociedad | 2025 | +18 | *6.2/10
+· Para los niños Sara y Gabriel, criados en la secta La Chaparra, todo resulta mágico. Pero su comunidad ocultaba una red de control, silencio y abusos que fue desmoronándose hasta revelar una verdad estremecedora disfrazada de espiritualidad y armonía.
+· País: España
+· Dirección: Elena Molina.</desc>
+	</programme>
+	<programme start="20261019051000 +0200" stop="20261019055800 +0200" channel="M. PLUS SCRIPT">
+    <title>La Chaparra E2</title>
+    <desc>Documentales,Sociedad | 2025 | +18 | *6.0/10
+· Sara busca ayuda en su madre, que no reacciona. Sí encuentra un apoyo fuera y escapa. Carlos, su padre, descubre un secreto oculto 20 años. Padre e hija se unen y denuncian. El 15 de marzo de 2022, la policía entra en La Chaparra y acaba con todo.
+· País: España
+· Dirección: Elena Molina.</desc>
+	</programme>
+	<programme start="20261019055800 +0200" stop="20261019065000 +0200" channel="M. PLUS SCRIPT">
+    <title>La Chaparra E3</title>
+    <desc>Documentales,Sociedad | 2025 | +18 | *6.0/10
+· Gabriel parecía que iba a ser el nuevo gurú, pero el cierre de La Chaparra lo salvó. Tras la muerte de Tío Toni, el caso queda en pausa. Pero las víctimas siguen buscando justicia mientras intentan rehacer sus vidas y hallar su identidad fuera del miedo.
+· País: España
+· Dirección: Elena Molina.</desc>
+	</programme>
+	<programme start="20261019065000 +0200" stop="20261019074700 +0200" channel="M. PLUS SCRIPT">
+    <title>Rapa, gente al monte</title>
+    <desc>Documentales,Sociedad | 2024 | +7 | *6.2/10
+· Documental sobre la "rapa das bestas", el proceso del corte de las crines de los caballos salvajes que cada año tiene lugar en la localidad pontevedresa de Sabucedo.
+· País: España
+· Dirección: Alejandro Enríquez.</desc>
+	</programme>
+	<programme start="20261019074700 +0200" stop="20261019082000 +0200" channel="M. PLUS SCRIPT">
+    <title>Informe Robinson T6 · Pelota Vasca: El juego de un pueblo</title>
+    <desc>Deportes,Programa deportes | 2012 | TP | *5.8/10
+· Existen pocos deportes tan ligados a un pueblo como la pelota, al que tantas veces acompaña el adjetivo "vasca". Hace unas semanas se celebró la final de parejas en Bilbao.
+· País: España
+· Presenta: Michael Robinson.</desc>
+	</programme>
+	<programme start="20261019082000 +0200" stop="20261019093200 +0200" channel="M. PLUS SCRIPT">
+    <title>Apolo 1. Misión a la Luna</title>
+    <desc>Documentales,Sociedad | 2026 | TP | *6.2/10
+· Tres astronautas pioneros, Gus Grissom, Ed White y Roger Chaffee, perdieron trágicamente la vida cuando ocurrió un desastre en la plataforma de lanzamiento de Cabo Kennedy durante una prueba previa al vuelo en enero de 1967.
+· País: Alemania y Reino Unido
+· Dirección: Mark Craig.
+· Guion: Mark Craig.
+· Música: Anne Nikitin.
+· Producción: Mark Craig.</desc>
+	</programme>
+	<programme start="20261019093200 +0200" stop="20261019112000 +0200" channel="M. PLUS SCRIPT">
+    <title>Atmósfera cero</title>
+    <desc>Cine,Ciencia ficción | 1981 | +16 | *6.4/10
+· Un agente de la ley destinado a una remota colonia minera asentada en la segunda luna de Júpiter debe investigar la muerte de varios trabajadores en extrañas circunstancias.
+· País: Reino Unido
+· Dirección: Peter Hyams.
+· Reparto: Sean Connery, Peter Boyle, Frances Sternhagen, Clarke Peters.
+· Guion: Peter Hyams.
+· Música: Jerry Goldsmith.
+· Producción: Richard A Roth.
+· Productora: Outland Productions.</desc>
+	</programme>
+	<programme start="20261019112000 +0200" stop="20261019130800 +0200" channel="M. PLUS SCRIPT">
+    <title>Lomu</title>
+    <desc>Documentales,Biografía | 2025 | TP | *6.6/10
+· Jonah Lomu fue la primera superestrella global del rugby. Este retrato íntimo del legendario jugador neozelandés recorre su infancia en Tonga, su meteórico ascenso a la fama y las complejas dificultades personales y de salud que enfrentó en la cima.
+· País: Nueva Zelanda y Reino Unido
+· Dirección: Gavin Fitzgerald, Vea Mafile'o.
+· Producción: Emma Slade.
+· Productora: Sylver Entertainment.</desc>
+	</programme>
+	<programme start="20261019130800 +0200" stop="20261019142800 +0200" channel="M. PLUS SCRIPT">
+    <title>18/10/2026 T26/27 · DeportePlus con Juanma Castaño</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Un lugar donde cabe todo el deporte que se juega en el planeta. La emoción y la pasión al completo de la mano de Juanma Castaño.
+· País: España
+· Presenta: Juanma Castaño.</desc>
+	</programme>
+	<programme start="20261019142800 +0200" stop="20261019150500 +0200" channel="M. PLUS SCRIPT">
+    <title>Ilustres ignorantes T20 · El terror</title>
+    <desc>Entretenimiento,Humor | 2026 | +16 | *7.6/10
+· La presentadora Inés Hernand y el creador de contenido Marc Biarnés son los invitados de este programa sobre “El terror” ¿Qué monstruo les da más miedo: el vampiro, la momia, el chupacabras…? ¿En qué ocasión han pasado más miedo en su vida?
+· País: España
+· Presenta: Javier Coronas.
+· Dirección: Javier Coronas.
+· Productora: Movistar+.</desc>
+	</programme>
+	<programme start="20261019150500 +0200" stop="20261019154300 +0200" channel="M. PLUS SCRIPT">
+    <title>Las Berrocal T2 E1</title>
+    <desc>Entretenimiento | 2025 | +16 | *6.0/10
+· Las Berrocal regresan con grandes novedades. Alba supervisa junto a su novio las obras de su nueva casa, Vicky se prepara para recibir a Alejandro Sanz en su podcast, Rocío trata de superar sus inseguridades y Victoria decide cambiar de imagen.
+· País: España</desc>
+	</programme>
+	<programme start="20261019154300 +0200" stop="20261019162000 +0200" channel="M. PLUS SCRIPT">
+    <title>Las Berrocal T2 E2</title>
+    <desc>Entretenimiento | 2025 | +16 | *6.4/10
+· Rocío y Alba disfrutan de una escapada juntas en Tenerife, Vicky viaja al pueblo de donde viene el apellido Berrocal de su padre y se encuentra por primera vez con parte de su familia y Victoria conoce a su ídolo, el actor turco Can Yaman.
+· País: España</desc>
+	</programme>
+	<programme start="20261019162000 +0200" stop="20261019165400 +0200" channel="M. PLUS SCRIPT">
+    <title>Las Berrocal T2 E3</title>
+    <desc>Entretenimiento | 2025 | +16 | *6.4/10
+· Rocío prepara la fiesta de cumpleaños para su madre. Victoria comparte con Alba el recuerdo del peor momento de su vida. Rocío y Alba visitan a Lara Álvarez para superar su miedo escénico. Alba le propone a Vicky diseñar su propia colección cápsula.
+· País: España</desc>
+	</programme>
+	<programme start="20261019165400 +0200" stop="20261019173200 +0200" channel="M. PLUS SCRIPT">
+    <title>Las Berrocal T2 E4</title>
+    <desc>Entretenimiento | 2025 | +16 | *6.0/10
+· Tensión entre Vicky y Alba en su primer proyecto profesional juntas. Gran reto superado por parte de Rocío, que entrega su primer premio y, para terminar, las cuatro juntas celebrando un cumpleaños de Vicky lleno de amigos, glamour y grandes momentos.
+· País: España</desc>
+	</programme>
+	<programme start="20261019173200 +0200" stop="20261019181100 +0200" channel="M. PLUS SCRIPT">
+    <title>Las Berrocal T2 E5</title>
+    <desc>Entretenimiento | 2025 | +16 | *6.2/10
+· Las Berrocal revolucionan Italia en un viaje de lujo por Venecia, Nápoles y la costa Amalfitana. Glamurosas, pletóricas y pasándolo tan bien como ellas sólo saben, pero sin dejar atrás sus habituales conflictos y reconciliaciones.
+· País: España</desc>
+	</programme>
+	<programme start="20261019181100 +0200" stop="20261019190100 +0200" channel="M. PLUS SCRIPT">
+    <title>Las Berrocal T2 E6</title>
+    <desc>Entretenimiento | 2025 | +16 | *6.2/10
+· Vicky y Alba lloran juntas porque Alba se va a vivir con su novio. Rocío vuelve a emocionarse con un chico y provoca un cisma familiar. Victoria las reúne en El Rocío, escenario del final de la temporada que podría marcar un antes y un después.
+· País: España</desc>
+	</programme>
+	<programme start="20261019190100 +0200" stop="20261019195600 +0200" channel="M. PLUS SCRIPT">
+    <title>Outlander: Sangre de mi sangre T2 E5 · Señor perdóname</title>
+    <desc>Series,Aventuras | 2026 | +16 | *6.0/10
+· La rebelión jacobita alcanza un momento decisivo en la batalla de Sheriffmuir. Mientras los clanes escoceses luchan contra las fuerzas de la Corona, Ellen y Julia afrontan sus propios peligros y Colum cuestiona sus decisiones para proteger al clan.
+· País: Estados Unidos
+· Reparto: Tony Curran, Conor MacNeill, Jeremy Irvine, Jamie Roy, Harriet Slater, Rory Alexander, Sam Retford, Seamus McLean Ross.</desc>
+	</programme>
+	<programme start="20261019195600 +0200" stop="20261019210000 +0200" channel="M. PLUS SCRIPT">
+    <title>Death Valley: El valle de la muerte</title>
+    <desc>Documentales,Sociedad | 2026 | TP | *9.2/10
+· Un reto realizado en 2024 por dalecandELA, una asociación sin ánimo de lucro, cuyo fin es visibilizar la ELA, recaudar fondos para la investigación en la lucha contra la enfermedad, y apoyar a quienes la padecen.
+· País: España
+· Dirección: Juan Luis Aguirrezabal, Luis Echevarría, Jaime Lafita.</desc>
+	</programme>
+	<programme start="20261019210000 +0200" stop="20261019220500 +0200" channel="M. PLUS SCRIPT">
+    <title>T26/27 E7 · El día después</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *5.8/10
+· 'El Día Después', uno de nuestros grandes clásicos, que una temporada más ofrece la visión más entretenida y original de la jornada liguera, y donde no va a faltar 'Lo que el ojo no ve'.
+· País: España
+· Presenta: Julio Maldonado, Carlos Martínez, Noemí de Miguel, Álvaro Benito, Mateu Lahoz.</desc>
+	</programme>
+	<programme start="20261019220500 +0200" stop="20261019223500 +0200" channel="M. PLUS SCRIPT">
+    <title>Leo Talks T7 · Expediente Harlem</title>
+    <desc>Entretenimiento,Humor | 2026 | +12 | *6.0/10
+· Leo se adentra en lo paranormal: fantasmas, criaturas misteriosas, el monstruo del Lago Ness y brujas con escoba. Entre supersticiones, fotos borrosas y disparates históricos, demuestra que la credulidad humana sigue más viva que los propios fantasmas.
+· País: España
+· Presenta: Leo Harlem.</desc>
+	</programme>
+	<programme start="20261019223500 +0200" stop="20261019231300 +0200" channel="M. PLUS SCRIPT">
+    <title>Paga o muere E1</title>
+    <desc>Documentales,Sociedad | 2026 | +12 | *8.0/10
+· El lunes 21 de marzo de 1983 el empresario Jesús Guibert entra en el garaje de su empresa. No se da cuenta de que hay un coche aparcado con tres individuos dentro con el objetivo de secuestrarle.
+· País: España
+· Dirección: Ricardo Sanz Ramos, Marisa Lafuente.</desc>
+	</programme>
+	<programme start="20261019231300 +0200" stop="20261019235100 +0200" channel="M. PLUS SCRIPT">
+    <title>Paga o muere E2</title>
+    <desc>Documentales,Sociedad | 2026 | +12 | *6.0/10
+· ETA multiplica el envío de remesas de cartas exigiendo el impuesto revolucionario. Ahora ya no es una carta, sino tres. Y el significado de las palabras de la última es el más efectivo y aterrador porque ETA anuncia que te has convertido en un objetivo.
+· País: España
+· Dirección: Ricardo Sanz Ramos, Marisa Lafuente.</desc>
+	</programme>
+	<programme start="20261019235100 +0200" stop="20261020004400 +0200" channel="M. PLUS SCRIPT">
+    <title>Paga o muere E3</title>
+    <desc>Documentales,Sociedad | 2026 | +12 | *6.0/10
+· El rechazo social contra la violencia crece. Y se refleja también en la recaudación de ETA. Son cada vez más los empresarios que se niegan a pagar la extorsión. Ese es el mensaje que se propaga desde ADEGUI, una patronal de empresarios de Guipúzcoa.
+· País: España
+· Dirección: Ricardo Sanz Ramos, Marisa Lafuente.</desc>
+	</programme>
+	<programme start="20261020004400 +0200" stop="20261020012900 +0200" channel="M. PLUS SCRIPT">
+    <title>Gregorio Ordóñez: El asesinato que despertó la rebelión contra ETA</title>
+    <desc>Documentales,Sociedad | 2025 | +12 | *6.8/10
+· Un repaso a la trayectoria personal y política del teniente de alcalde del PP en el Ayuntamiento de San Sebastián, asesinado en el bar La Cepa de la Parte Vieja el 23 de enero de 1995.
+· País: España
+· Dirección: David Taberna, Javier Roldán, Arantxa Aldaz.</desc>
+	</programme>
+	<programme start="20261020012900 +0200" stop="20261020025900 +0200" channel="M. PLUS SCRIPT">
+    <title>T26/27 E7 · El tercer tiempo</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *5.6/10
+· Un programa de análisis de toda la jornada liguera, dirigido por José Sanchis, que echa un vistazo a lo mejor del fútbol internacional de la mano de Axel Torres.
+· País: España
+· Presenta: Julio Maldonado, Axel Torres, José Sanchís, Joaquín Ramos Marcos.</desc>
+	</programme>
+	<programme start="20261020025900 +0200" stop="20261020032800 +0200" channel="M. PLUS SCRIPT">
+    <title>Magazine Champions League T26/27 E7</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Magacín que repasa toda la actualidad de la Champions League, la máxima competición del fútbol europeo. El programa ofrece entrevistas, reportajes y resúmenes de los partidos que se disputan durante el torneo.
+· País: Italia</desc>
+	</programme>
+	<programme start="20261020032800 +0200" stop="20261020041800 +0200" channel="M. PLUS SCRIPT">
+    <title>Magazine Europa League T26/27 E3</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· La Europa League es la sucesora de la Copa UEFA. Se trata de una competición con doble premio, ya que, además de la gloria, da una plaza al ganador para la Champions. Este espacio analiza todo lo que ocurre alrededor del torneo.
+· País: España</desc>
+	</programme>
+	<programme start="20261020041800 +0200" stop="20261020050400 +0200" channel="M. PLUS SCRIPT">
+    <title>La hora de la verdad: Genialidad</title>
+    <desc>Documentales,Deportes | 2022 | +7 | *6.2/10
+· Recordamos los momentos icónicos de la Historia de los Mundiales con una mezcla de acción, narrativa y análisis a través de entrevistas, imágenes de archivo y secuencias gráficas. Y con el recuerdo de grandes protagonistas del fútbol mundial.
+· País: Reino Unido</desc>
+	</programme>
+	<programme start="20261020050400 +0200" stop="20261020055100 +0200" channel="M. PLUS SCRIPT">
+    <title>La hora de la verdad: Coraje</title>
+    <desc>Documentales,Deportes | 2022 | +7 | *5.8/10
+· Recordamos los momentos icónicos de la Historia de los Mundiales con una mezcla de acción, narrativa y análisis a través de entrevistas, imágenes de archivo y secuencias gráficas. Y con el recuerdo de grandes protagonistas del fútbol mundial.
+· País: Reino Unido</desc>
+	</programme>
+	<programme start="20261020055100 +0200" stop="20261020074500 +0200" channel="M. PLUS SCRIPT">
+    <title>Topuria: Matador</title>
+    <desc>Documentales,Deportes | 2024 | +12 | *6.0/10
+· La historia de superación personal de Ilia Topuria, el flamante campeón mundial de Peso Ligero de UFC, desde su Georgia natal en guerra y su llegada a España. Hay muchos números uno, pero solo uno logra ser leyenda.
+· País: España
+· Dirección: Giampolo Manfreda.</desc>
+	</programme>
+	<programme start="20261020074500 +0200" stop="20261020081500 +0200" channel="M. PLUS SCRIPT">
+    <title>World of free sports T2026 E41</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· El apasionante mundo de los deportes al aire libre llega a nuestro canal para su repaso semanal.</desc>
+	</programme>
+	<programme start="20261020081500 +0200" stop="20261020085500 +0200" channel="M. PLUS SCRIPT">
+    <title>La línea invisible T1 E1 · Pintadas y petardos</title>
+    <desc>Series,Drama | 2020 | +16 | *6.8/10
+· País Vasco 1968. Txabi Etxabarrieta, un brillante universitario bilbaíno, se une a su hermano y a su grupo de amigos en una desconocida organización llamada ETA. Paralelamente, el inspector Melitón Manzanas comienza a investigar a este grupo de jóvenes.
+· País: España
+· Dirección: Mariano Barroso.
+· Reparto: Àlex Monner, Antonio de la Torre, Joan Amargós, Anna Castillo, Enric Auquer, Asier Exteandia, Patrick Criado.
+· Guion: Alejandro Hernández, Michel Gaztambide, Natxo López.
+· Productora: Sentido Films, Corte y Confección de Películas, Movistar+.</desc>
+	</programme>
+	<programme start="20261020085500 +0200" stop="20261020094000 +0200" channel="M. PLUS SCRIPT">
+    <title>La línea invisible T1 E2 · Un líder</title>
+    <desc>Series,Drama | 2020 | +16 | *6.6/10
+· Dos formas de entender ETA se enfrentan en la V Asamblea. Txabi da un paso al frente con el apoyo de su hermano y El Inglés. Melitón Manzanas investiga a todo su entorno para recabar la máxima información sobre él.
+· País: España
+· Dirección: Mariano Barroso.
+· Reparto: Àlex Monner, Antonio de la Torre, Joan Amargós, Anna Castillo, Enric Auquer, Asier Exteandia, Patrick Criado.
+· Guion: Alejandro Hernández, Michel Gaztambide, Natxo López.
+· Productora: Sentido Films, Corte y Confección de Películas, Movistar+.</desc>
+	</programme>
+	<programme start="20261020094000 +0200" stop="20261020102500 +0200" channel="M. PLUS SCRIPT">
+    <title>La línea invisible T1 E3 · Tambores de guerra</title>
+    <desc>Series,Drama | 2020 | +16 | *6.6/10
+· Txabi y sus compañeros atracan un banco. Melitón es presionado por sus superiores por no informar sobre ETA y sus actividades, por lo que intensifica su investigación sobre los presuntos miembros de la organización que logra detener.
+· País: España
+· Dirección: Mariano Barroso.
+· Reparto: Àlex Monner, Antonio de la Torre, Joan Amargós, Anna Castillo, Enric Auquer, Asier Exteandia, Patrick Criado.
+· Guion: Alejandro Hernández, Michel Gaztambide, Natxo López.
+· Productora: Sentido Films, Corte y Confección de Películas, Movistar+.</desc>
+	</programme>
+	<programme start="20261020102500 +0200" stop="20261020110600 +0200" channel="M. PLUS SCRIPT">
+    <title>La línea invisible T1 E4 · Un poeta</title>
+    <desc>Series,Drama | 2020 | +16 | *6.6/10
+· El Inglés presiona a Txabi para que ETA cruce la línea invisible y cometa su primer atentado mortal, poniendo en su punto de mira a varios altos cargos franquistas. Melitón cree haber podido identificar a Txabi.
+· País: España
+· Dirección: Mariano Barroso.
+· Reparto: Àlex Monner, Antonio de la Torre, Joan Amargós, Anna Castillo, Enric Auquer, Asier Exteandia, Patrick Criado.
+· Guion: Alejandro Hernández, Michel Gaztambide, Natxo López.
+· Productora: Sentido Films, Corte y Confección de Películas, Movistar+.</desc>
+	</programme>
+	<programme start="20261020110600 +0200" stop="20261020114700 +0200" channel="M. PLUS SCRIPT">
+    <title>La línea invisible T1 E5 · La línea</title>
+    <desc>Series,Drama | 2020 | +16 | *6.6/10
+· Txabi y sus compañeros están cada vez más cerca de cruzar la línea invisible, al intensificar sus actividades y con la identificación de posibles objetivos. Mientras tanto, conocemos la historia de José Antonio Pardines, un guardia civil gallego.
+· País: España
+· Dirección: Mariano Barroso.
+· Reparto: Àlex Monner, Antonio de la Torre, Joan Amargós, Anna Castillo, Enric Auquer, Asier Exteandia, Patrick Criado.
+· Guion: Alejandro Hernández, Michel Gaztambide, Natxo López.
+· Productora: Sentido Films, Corte y Confección de Películas, Movistar+.</desc>
+	</programme>
+	<programme start="20261020114700 +0200" stop="20261020123200 +0200" channel="M. PLUS SCRIPT">
+    <title>La línea invisible T1 E6 · El futuro</title>
+    <desc>Series,Drama | 2020 | +16 | *7.2/10
+· El primer asesinato de ETA pone en marcha una imprevisible y peligrosa cadena de acontecimientos dentro de la organización y en su entorno.
+· País: España
+· Dirección: Mariano Barroso.
+· Reparto: Àlex Monner, Antonio de la Torre, Joan Amargós, Anna Castillo, Enric Auquer, Asier Exteandia, Patrick Criado.
+· Guion: Alejandro Hernández, Michel Gaztambide, Natxo López.
+· Productora: Sentido Films, Corte y Confección de Películas, Movistar+.</desc>
+	</programme>
+	<programme start="20261020123200 +0200" stop="20261020141200 +0200" channel="M. PLUS SCRIPT">
+    <title>ETA, el final del silencio: Zubiak</title>
+    <desc>Documentales,Actualidad | 2019 | +7 | *7.6/10
+· "Zubiak" ("Puentes") nos habla de puentes rotos y de puentes tendidos a través de los testimonios de los protagonistas de casi 50 años de terror, miedo, treguas, negociaciones y muertes que han marcado la historia más reciente de nuestro país.
+· País: España
+· Dirección: Jon Sistiaga, Alfonso Cortés-Cavanillas.
+· Productora: Movistar+, La Caña Brothers.</desc>
+	</programme>
+	<programme start="20261020141200 +0200" stop="20261020151500 +0200" channel="M. PLUS SCRIPT">
+    <title>T26/27 E7 · El día después</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *5.8/10
+· 'El Día Después', uno de nuestros grandes clásicos, que una temporada más ofrece la visión más entretenida y original de la jornada liguera, y donde no va a faltar 'Lo que el ojo no ve'.
+· País: España
+· Presenta: Julio Maldonado, Carlos Martínez, Noemí de Miguel, Álvaro Benito, Mateu Lahoz.</desc>
+	</programme>
+	<programme start="20261020151500 +0200" stop="20261020171700 +0200" channel="M. PLUS SCRIPT">
+    <title>El lobo</title>
+    <desc>Cine,Thriller | 2004 | +18 | *7.0/10
+· La historia real de un infiltrado de los servicios secretos franquistas en el seno de la organización terrorista ETA.
+· País: España
+· Dirección: Miguel Courtois.
+· Reparto: Eduardo Noriega, José Coronado, Mélanie Doutey, Silvia Abascal, Santiago Ramos, Patrick Bruel, Jorge Sanz.
+· Guion: Antonio Onetti.
+· Música: Francesc Gener.
+· Productora: Castelao Producciones S.A.</desc>
+	</programme>
+	<programme start="20261020171700 +0200" stop="20261020175500 +0200" channel="M. PLUS SCRIPT">
+    <title>Paga o muere E1</title>
+    <desc>Documentales,Sociedad | 2026 | +12
+· El lunes 21 de marzo de 1983 el empresario Jesús Guibert entra en el garaje de su empresa. No se da cuenta de que hay un coche aparcado con tres individuos dentro con el objetivo de secuestrarle.
+· País: España
+· Dirección: Ricardo Sanz Ramos, Marisa Lafuente.</desc>
+	</programme>
+	<programme start="20261020175500 +0200" stop="20261020183300 +0200" channel="M. PLUS SCRIPT">
+    <title>Paga o muere E2</title>
+    <desc>Documentales,Sociedad | 2026 | +12
+· ETA multiplica el envío de remesas de cartas exigiendo el impuesto revolucionario. Ahora ya no es una carta, sino tres. Y el significado de las palabras de la última es el más efectivo y aterrador porque ETA anuncia que te has convertido en un objetivo.
+· País: España
+· Dirección: Ricardo Sanz Ramos, Marisa Lafuente.</desc>
+	</programme>
+	<programme start="20261020183300 +0200" stop="20261020193000 +0200" channel="M. PLUS SCRIPT">
+    <title>Paga o muere E3</title>
+    <desc>Documentales,Sociedad | 2026 | +12
+· El rechazo social contra la violencia crece. Y se refleja también en la recaudación de ETA. Son cada vez más los empresarios que se niegan a pagar la extorsión. Ese es el mensaje que se propaga desde ADEGUI, una patronal de empresarios de Guipúzcoa.
+· País: España
+· Dirección: Ricardo Sanz Ramos, Marisa Lafuente.</desc>
+	</programme>
+	<programme start="20261020193000 +0200" stop="20261020205500 +0200" channel="M. PLUS SCRIPT">
+    <title>DIRECTO 20/10/2026 T26/27 · La Previa de Champions</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Programa que incluye resúmenes de los partidos de la UEFA Champions League, los goles de la jornada y todo tipo de informaciones relacionadas con esta competición.
+· País: España</desc>
+	</programme>
+	<programme start="20261020205500 +0200" stop="20261020212900 +0200" channel="M. PLUS SCRIPT">
+    <title>Ilustres ignorantes T20 · Las tendencias</title>
+    <desc>Entretenimiento,Humor | 2026 | +16 | *5.0/10
+· La cómica Lalachús y el periodista Manuel Jabois hablan en Ilustres de “Las tendencias” ¿Cuál ha sido la que más les ha marcado: un corte de pelo, una tribu urbana, un alimento, un baile, una frase…? ¿Qué tendencia actual les fascina más?
+· País: España
+· Presenta: Javier Coronas.
+· Dirección: Javier Coronas.
+· Productora: Movistar+.</desc>
+	</programme>
+	<programme start="20261020212900 +0200" stop="20261020220000 +0200" channel="M. PLUS SCRIPT">
+    <title>Leo Talks T7 · Expediente Harlem</title>
+    <desc>Entretenimiento,Humor | 2026 | +12 | *6.0/10
+· Leo se adentra en lo paranormal: fantasmas, criaturas misteriosas, el monstruo del Lago Ness y brujas con escoba. Entre supersticiones, fotos borrosas y disparates históricos, demuestra que la credulidad humana sigue más viva que los propios fantasmas.
+· País: España
+· Presenta: Leo Harlem.</desc>
+	</programme>
+	<programme start="20261020220000 +0200" stop="20261020230000 +0200" channel="M. PLUS SCRIPT">
+    <title>Telegram: el gran disruptor</title>
+    <desc>Documentales,Sociedad | 2026 | TP | *6.6/10
+· En agosto de 2024 el fundador de Telegram, Pável Dúrov, fue detenido en Francia como parte de una investigación policial sobre la falta de moderación en la plataforma. Su arresto puso sobre la mesa el papel de las redes sociales en el debate público.
+· País: Francia</desc>
+	</programme>
+	<programme start="20261020230000 +0200" stop="20261021003000 +0200" channel="M. PLUS SCRIPT">
+    <title>20/10/2026 T26/27 · Noche de Champions</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.6/10
+· Revive la emoción de cada jornada de Champions con este programa que incluye resúmenes de los partidos de la UEFA Champions League, los goles de la jornada y todo tipo de informaciones relacionadas con esta competición.
+· País: España</desc>
+	</programme>
+	<programme start="20261021003000 +0200" stop="20261021015000 +0200" channel="M. PLUS SCRIPT">
+    <title>El otro Chiquito</title>
+    <desc>Documentales,Sociedad | 2026 | +7 | *7.0/10
+· Chiquito de la Calzada fue un ídolo indiscutible cuyo humor y lenguaje revolucionan España. Pero tras la aparición en televisión de Lucas Grijander, Gregorio siente arrebatada su identidad. Nace un litigio insólito: Chiquito contra Lucas Grijander.
+· País: España</desc>
+	</programme>
+	<programme start="20261021015000 +0200" stop="20261021023800 +0200" channel="M. PLUS SCRIPT">
+    <title>ETA, el final del silencio · Extorsionados</title>
+    <desc>Documentales,Actualidad | 2019 | +12 | *7.4/10
+· La extorsión fue una de las fuentes de financiación de ETA durante cinco décadas, junto a los secuestros y los atracos. El 80% de sus finanzas provenían del cobro de estas extorsiones conocidas como "impuesto revolucionario".
+· País: España
+· Dirección: Jon Sistiaga, Alfonso Cortés-Cavanillas.
+· Productora: Movistar+, La Caña Brothers.</desc>
+	</programme>
+	<programme start="20261021023800 +0200" stop="20261021032600 +0200" channel="M. PLUS SCRIPT">
+    <title>ETA, el final del silencio · Miguel Ángel</title>
+    <desc>Documentales,Actualidad | 2019 | +12 | *7.4/10
+· Las 48 horas que pasaron entre el secuestro el 10 de julio de 1997 y el asesinato de Miguel Ángel Blanco es uno de esos momentos en la historia de España que todos los que lo vivieron son capaces de recordar con claridad. ¿Dónde estábamos esos días?
+· País: España
+· Dirección: Jon Sistiaga, Alfonso Cortés-Cavanillas.
+· Productora: Movistar+, La Caña Brothers.</desc>
+	</programme>
+	<programme start="20261021032600 +0200" stop="20261021042300 +0200" channel="M. PLUS SCRIPT">
+    <title>ETA, el final del silencio · Orígenes</title>
+    <desc>Documentales,Actualidad | 2019 | +12 | *7.2/10
+· En este episodio analizamos algunos de los primeros grandes errores de la banda, desde el primer asesinato del guardia civil José Pardines en 1968 hasta su primera víctima civil, Fermín Monasterio (1969), pasando por el asesinato de algunos militantes.
+· País: España
+· Dirección: Jon Sistiaga, Alfonso Cortés-Cavanillas.
+· Productora: Movistar+, La Caña Brothers.</desc>
+	</programme>
+	<programme start="20261021042300 +0200" stop="20261021051000 +0200" channel="M. PLUS SCRIPT">
+    <title>ETA, el final del silencio · Años de plomo</title>
+    <desc>Documentales,Actualidad | 2019 | +12 | *7.0/10
+· Durante los años 80, ETA asesinaba a casi 100 personas al año, prácticamente un muerto cada tres días. Aquella época es conocida como "los años de plomo", unos años a los que pertenece la mayor parte de los asesinatos por resolver de ETA.
+· País: España
+· Dirección: Jon Sistiaga, Alfonso Cortés-Cavanillas.
+· Productora: Movistar+, La Caña Brothers.</desc>
+	</programme>
+	<programme start="20261021051000 +0200" stop="20261021060500 +0200" channel="M. PLUS SCRIPT">
+    <title>ETA, el final del silencio: Epílogo</title>
+    <desc>Documentales,Actualidad | 2019 | +12 | *6.8/10
+· ETA fue derrotada policialmente. ETA no decidió dejar las armas y disolverse cuando la propia banda quiso. Lo hizo porque la Policía y la Guardia Civil la habían convertido en una organización zombi.
+· País: España
+· Dirección: Jon Sistiaga, Alfonso Cortés-Cavanillas.
+· Productora: Movistar+, La Caña Brothers.</desc>
+	</programme>
+	<programme start="20261021060500 +0200" stop="20261021070200 +0200" channel="M. PLUS SCRIPT">
+    <title>ETA, el final del silencio · Terceras generaciones</title>
+    <desc>Documentales,Actualidad | 2019 | +12 | *7.0/10
+· Este episodio cuenta el relato del terrorismo en nuestro país desde el punto de vista de las víctimas más jóvenes, de las generaciones a las que la barbarie terrorista convirtió en afectados indirectos y a las que hizo pagar un alto precio.
+· País: España
+· Dirección: Jon Sistiaga, Alfonso Cortés-Cavanillas.
+· Productora: Movistar+, La Caña Brothers.</desc>
+	</programme>
+	<programme start="20261021070200 +0200" stop="20261021080000 +0200" channel="M. PLUS SCRIPT">
+    <title>Documentales</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20261021080000 +0200" stop="20261021083000 +0200" channel="M. PLUS SCRIPT">
+    <title>Planeta Tenis T2026 E24</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Roberto Carretero e Iñaki Cano Martínez presentan este espacio dedicado al mundo del tenis, donde sus principales protagonistas y toda la información relacionada con los Grand Slam mantendrá viva la pasión por este deporte.
+· País: España
+· Presenta: Lidia Blanco, Roberto Carretero.</desc>
+	</programme>
+	<programme start="20261021083000 +0200" stop="20261021091900 +0200" channel="M. PLUS SCRIPT">
+    <title>La guerra del hachís E1</title>
+    <desc>Documentales,Sociedad | 2023 | +16 | *6.0/10
+· Más de 200 policías de todo el país llegan a las Rías Baixas gallegas para desmantelar una de las mayores redes dedicadas al tráfico de hachís. Un negocio que nace en Marruecos y que ya se ha extendido por toda la geografía española.
+· País: España
+· Dirección: Víctor Méndez Sanguos.
+· Productora: Imaco.</desc>
+	</programme>
+	<programme start="20261021091900 +0200" stop="20261021101300 +0200" channel="M. PLUS SCRIPT">
+    <title>La guerra del hachís E2</title>
+    <desc>Documentales,Sociedad | 2023 | +16 | *6.2/10
+· La Policía cierra con éxito la operación en Galicia, pero las fuerzas de seguridad tienen muchos frentes abiertos. La incautación de 22.000 kilos de hachís en Andalucía disfrazados de tomates y pimientos acarrea brutales ajustes de cuentas.
+· País: España
+· Dirección: Víctor Méndez Sanguos.
+· Productora: Imaco.</desc>
+	</programme>
+	<programme start="20261021101300 +0200" stop="20261021120800 +0200" channel="M. PLUS SCRIPT">
+    <title>El hombre de las mil caras</title>
+    <desc>Cine,Thriller | 2016 | +7 | *7.2/10
+· Madrid, 1995. Francisco Paesa y su amigo y socio Jesús Camoes acaban de participar en la entrega del prófugo más buscado de la historia de la democracia española y esperan contar pronto con una gran cantidad de dinero.
+· País: España
+· Dirección: Alberto Rodríguez.
+· Reparto: Eduard Fernández, José Coronado, Marta Etura, Carlos Santos, Emilio Gutiérrez Caba, Enric Benavent, Philippe Rebbot.
+· Guion: Rafael Cobos, Alberto Rodríguez.
+· Música: Julio de la Rosa.
+· Producción: Jose Antonio Félez, Antonio Asensio Mosbah, Francisco Ramos, Mercedes Gamero, Mikel Lejarza, Gervasio Iglesias.
+· Productora: Movistar+, Atresmedia Cine, Atípica Films.</desc>
+	</programme>
+	<programme start="20261021120800 +0200" stop="20261021124600 +0200" channel="M. PLUS SCRIPT">
+    <title>Paga o muere E1</title>
+    <desc>Documentales,Sociedad | 2026 | +12
+· El lunes 21 de marzo de 1983 el empresario Jesús Guibert entra en el garaje de su empresa. No se da cuenta de que hay un coche aparcado con tres individuos dentro con el objetivo de secuestrarle.
+· País: España
+· Dirección: Ricardo Sanz Ramos, Marisa Lafuente.</desc>
+	</programme>
+	<programme start="20261021124600 +0200" stop="20261021132400 +0200" channel="M. PLUS SCRIPT">
+    <title>Paga o muere E2</title>
+    <desc>Documentales,Sociedad | 2026 | +12
+· ETA multiplica el envío de remesas de cartas exigiendo el impuesto revolucionario. Ahora ya no es una carta, sino tres. Y el significado de las palabras de la última es el más efectivo y aterrador porque ETA anuncia que te has convertido en un objetivo.
+· País: España
+· Dirección: Ricardo Sanz Ramos, Marisa Lafuente.</desc>
+	</programme>
+	<programme start="20261021132400 +0200" stop="20261021141700 +0200" channel="M. PLUS SCRIPT">
+    <title>Paga o muere E3</title>
+    <desc>Documentales,Sociedad | 2026 | +12 | *5.4/10
+· El rechazo social contra la violencia crece. Y se refleja también en la recaudación de ETA. Son cada vez más los empresarios que se niegan a pagar la extorsión. Ese es el mensaje que se propaga desde ADEGUI, una patronal de empresarios de Guipúzcoa.
+· País: España
+· Dirección: Ricardo Sanz Ramos, Marisa Lafuente.</desc>
+	</programme>
+	<programme start="20261021141700 +0200" stop="20261021154200 +0200" channel="M. PLUS SCRIPT">
+    <title>20/10/2026 T26/27 · Noche de Champions</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.6/10
+· Revive la emoción de cada jornada de Champions con este programa que incluye resúmenes de los partidos de la UEFA Champions League, los goles de la jornada y todo tipo de informaciones relacionadas con esta competición.
+· País: España</desc>
+	</programme>
+	<programme start="20261021154200 +0200" stop="20261021171700 +0200" channel="M. PLUS SCRIPT">
+    <title>Truhanes</title>
+    <desc>Cine,Comedia | 1983 | TP | *6.0/10
+· Gonzalo, un truhán de altura, emparentado con las cimas del poder y del dinero, va a la cárcel por un tonto resbalón en el tráfico de divisas. Aunque su condena no es larga, en la cárcel necesitará la protección que le proporciona el viejo Ginés.
+· País: España
+· Dirección: Miguel Hermoso.
+· Reparto: Francisco Rabal, Arturo Fernández, Silvia Gambino, Isabel Mestres, José Antonio Correa, Vicky Lagos.
+· Guion: Miguel Hermoso.
+· Música: José Nieto.
+· Producción: José G Jacoste.
+· Productora: PE Films, PE Films (Productores Exhibidores Films S.A.).</desc>
+	</programme>
+	<programme start="20261021171700 +0200" stop="20261021185500 +0200" channel="M. PLUS SCRIPT">
+    <title>200 vidas. Paco Rabal</title>
+    <desc>Documentales,Biografía | 2026
+· El retrato de uno de los grandes actores del cine español. Un viaje íntimo, suspendido en ese instante previo a la muerte donde la biografía se funde con los deseos incumplidos, las decisiones irreversibles y las heridas abiertas.
+· País: España
+· Dirección: Vanesa Benítez.</desc>
+	</programme>
+	<programme start="20261021185500 +0200" stop="20261021192500 +0200" channel="M. PLUS SCRIPT">
+    <title>Bakalá T26/27 E7</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *5.8/10
+· Un programa que combina el deporte actual con lo mejor del archivo de la casa. Te contamos todo lo acontecido durante la semana, a la vez que recordamos imágenes míticas. Todo ello amenizado con la voz de Raúl Pérez y sus personajes.
+· País: España
+· Presenta: Raúl Pérez.</desc>
+	</programme>
+	<programme start="20261021192500 +0200" stop="20261021200000 +0200" channel="M. PLUS SCRIPT">
+    <title>Ilustres ignorantes T20 · Las tendencias</title>
+    <desc>Entretenimiento,Humor | 2026 | +16
+· Programa que trata de encontrar respuestas a todas esas preguntas ridículas que nos planteamos en nuestra vida diaria.
+· País: España
+· Presenta: Javier Coronas.
+· Dirección: Javier Coronas.
+· Productora: Movistar+.</desc>
+	</programme>
+	<programme start="20261021200000 +0200" stop="20261021205300 +0200" channel="M. PLUS SCRIPT">
+    <title>21/10/2026 T26/27 · La Previa de Champions</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *7.4/10
+· Programa que incluye resúmenes de los partidos de la UEFA Champions League, los goles de la jornada y todo tipo de informaciones relacionadas con esta competición.
+· País: España</desc>
+	</programme>
+	<programme start="20261021205300 +0200" stop="20261021230000 +0200" channel="M. PLUS SCRIPT">
+    <title>Jornada 3: Real Madrid - Leipzig T26/27 · UEFA Champions League</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
+· La máxima competición del deporte europeo garantiza emoción y buen fútbol. 36 equipos se juegan el pase a la gloria durante una fase liga antes de llegar a las eliminatorias, en las que los partidos son a cara de perro. El PSG defiende título.
+· País: España</desc>
+	</programme>
+	<programme start="20261021230000 +0200" stop="20261022003000 +0200" channel="M. PLUS SCRIPT">
+    <title>21/10/2026 T26/27 · Noche de Champions</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *5.4/10
+· Revive la emoción de cada jornada de Champions con este programa que incluye resúmenes de los partidos de la UEFA Champions League, los goles de la jornada y todo tipo de informaciones relacionadas con esta competición.
+· País: España</desc>
+	</programme>
+	<programme start="20261022003000 +0200" stop="20261022010100 +0200" channel="M. PLUS SCRIPT">
+    <title>Leo Talks T7 · Expediente Harlem</title>
+    <desc>Entretenimiento,Humor | 2026 | +12
+· Leo se adentra en lo paranormal: fantasmas, criaturas misteriosas, el monstruo del Lago Ness y brujas con escoba. Entre supersticiones, fotos borrosas y disparates históricos, demuestra que la credulidad humana sigue más viva que los propios fantasmas.
+· País: España
+· Presenta: Leo Harlem.</desc>
+	</programme>
+	<programme start="20261022010100 +0200" stop="20261022012300 +0200" channel="M. PLUS SCRIPT">
+    <title>Amor sin wifi T1 E1 · Un nuevo avatar</title>
+    <desc>Series,Comedia dramática | 2023 | +18 | *6.0/10
+· Cuando Ida es abandonada por su novio virtual Martin, decide que no le queda otra que salir al mundo real y experimentar lo que son las citas sin wifi. Ida quiere dar celos a Marvin.
+· País: Noruega
+· Dirección: Jakob Rørvik.
+· Reparto: Gina Bernhoft Gørvell, Jacques Colimon, Mathias Luppichini.</desc>
+	</programme>
+	<programme start="20261022012300 +0200" stop="20261022014600 +0200" channel="M. PLUS SCRIPT">
+    <title>Amor sin wifi T1 E2 · La princesa guerrera</title>
+    <desc>Series,Comedia dramática | 2023 | +18 | *6.0/10
+· Ida prosigue explorando el mundo de las citas reales con resultados no muy satisfactorios mientras vigila en las redes a Martin y a su nueva novia. Cuando Martin le recrimina que debe pasar página tienen una conversación muy reveladora.
+· País: Noruega
+· Dirección: Jakob Rørvik.
+· Reparto: Gina Bernhoft Gørvell, Jacques Colimon, Mathias Luppichini.</desc>
+	</programme>
+	<programme start="20261022014600 +0200" stop="20261022021100 +0200" channel="M. PLUS SCRIPT">
+    <title>Amor sin wifi T1 E3 · A la caza del unicornio</title>
+    <desc>Series,Comedia dramática | 2023 | +18 | *6.0/10
+· Ida está obsesionada desde niña con un artista japonés llamado Tetsuo. Cuando acude a una de sus actuaciones logra hablar con él y pasan tiempo juntos. Pero Tetsuo no es como ella siempre había pensado. Marvin llama a Ida a escondidas de su novia.
+· País: Noruega
+· Dirección: Jakob Rørvik.
+· Reparto: Gina Bernhoft Gørvell, Jacques Colimon, Mathias Luppichini.</desc>
+	</programme>
+	<programme start="20261022021100 +0200" stop="20261022023500 +0200" channel="M. PLUS SCRIPT">
+    <title>Amor sin wifi T1 E4 · Un cuerpo en el mundo</title>
+    <desc>Series,Comedia dramática | 2023 | +18 | *6.0/10
+· En su exploración por el mundo de las citas reales, Ida decide quedar con una chica que le hace plantearse una cuestión importante sobre ella misma y sobre cómo se siente con su cuerpo.
+· País: Noruega
+· Dirección: Jakob Rørvik.
+· Reparto: Gina Bernhoft Gørvell, Jacques Colimon, Mathias Luppichini.</desc>
+	</programme>
+	<programme start="20261022023500 +0200" stop="20261022025500 +0200" channel="M. PLUS SCRIPT">
+    <title>Amor sin wifi T1 E5 · Salir del útero</title>
+    <desc>Series,Comedia dramática | 2023 | +18 | *5.8/10
+· Ida decide abandonar las citas y la vida real en general. Se recluye en el sótano de la casa de su madre hasta que ésta y su nuevo novio intervienen y le exigen que contribuya a la economía familiar. Ida tiene que buscar un empleo.
+· País: Noruega
+· Dirección: Jakob Rørvik.
+· Reparto: Gina Bernhoft Gørvell, Jacques Colimon, Mathias Luppichini.</desc>
+	</programme>
+	<programme start="20261022025500 +0200" stop="20261022031900 +0200" channel="M. PLUS SCRIPT">
+    <title>Amor sin wifi T1 E6 · La muerte de la princesa guerrera</title>
+    <desc>Series,Comedia dramática | 2023 | +18 | *6.2/10
+· Ida recoge todas sus cosas y deja el hogar materno para irse a vivir con su primer novio real. Einar decide celebrar su relación con Ida por todo lo alto organizando una fiesta a la que invita a un montón de amigos y clientes.
+· País: Noruega
+· Dirección: Jakob Rørvik.
+· Reparto: Gina Bernhoft Gørvell, Jacques Colimon, Mathias Luppichini.</desc>
+	</programme>
+	<programme start="20261022031900 +0200" stop="20261022035300 +0200" channel="M. PLUS SCRIPT">
+    <title>Amor sin wifi T1 E7 · Ida 2.0</title>
+    <desc>Series,Comedia dramática | 2023 | +18 | *6.0/10
+· La pérdida de uno de sus amigos provoca en Ida el deseo de aprovechar la vida al máximo. Impulsada por Einar trata de superar alguno de sus miedos y avanzar hacia una nueva y mejorada versión de sí misma. Pero ¿está siendo realmente auténtica?
+· País: Noruega
+· Dirección: Jakob Rørvik.
+· Reparto: Gina Bernhoft Gørvell, Jacques Colimon, Mathias Luppichini.</desc>
+	</programme>
+	<programme start="20261022035300 +0200" stop="20261022045300 +0200" channel="M. PLUS SCRIPT">
+    <title>Documentales</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20261022045300 +0200" stop="20261022055300 +0200" channel="M. PLUS SCRIPT">
+    <title>Documentales</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20261022055300 +0200" stop="20261022065300 +0200" channel="M. PLUS SCRIPT">
+    <title>Documentales</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20261022065300 +0200" stop="20261022080000 +0200" channel="M. PLUS SCRIPT">
+    <title>Documentales</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20261022080000 +0200" stop="20261022090800 +0200" channel="M. PLUS SCRIPT">
+    <title>Ellas en la ciudad</title>
+    <desc>Documentales,Sociedad | 2025 | TP | *7.0/10
+· Las vidas cotidianas de una generación de mujeres, primeras pobladoras de los barrios de la periferia de Sevilla. Ellas han sido el sostén de una ciudad que les da la espalda. ¿Cómo serían las ciudades si las hubieran diseñado ellas?
+· País: España
+· Dirección: Reyes Gallegos.
+· Guion: Reyes Gallegos.
+· Productora: Movistar Plus+.</desc>
+	</programme>
+	<programme start="20261022090800 +0200" stop="20261022101300 +0200" channel="M. PLUS SCRIPT">
+    <title>Lamine Yamal. Revolución 304</title>
+    <desc>Documentales,Deportes | 2025 | TP | *6.6/10
+· Lamine Yamal se ha convertido en uno de los mejores futbolistas del mundo. Cada vez que marca un gol lo celebra dibujando con sus manos el 304, los números del distrito postal de Rocafonda, el barrio de Mataró donde todavía vive su abuela Fátima.
+· País: España
+· Dirección: Xavi Torres, Jesús Muñoz, Santi Padró.</desc>
+	</programme>
+	<programme start="20261022101300 +0200" stop="20261022122000 +0200" channel="M. PLUS SCRIPT">
+    <title>El Niño</title>
+    <desc>Cine,Acción | 2014 | +16 | *6.8/10
+· Frontera sur de Europa. Dos continentes, tres países, 14 kilómetros... tierra de contrabando. Los agentes Jesús y Eva llevan dos años tras la pista de la principal red de narcotráfico que opera en la zona.
+· País: España y Francia
+· Dirección: Daniel Monzón.
+· Reparto: Luis Tosar, Jesús Castro, Eduard Fernández, Sergi López, Bárbara Lennie, Ian McShane, Jesús Carroza, Moussa Maaskri.
+· Guion: Daniel Monzón, Jorge Guerricaechevarría.
+· Música: Roque Baños.
+· Producción: Álvaro Augustín, Ghislain Barrois, Borja Pena, Edmon Roch, Javier Ugarte.
+· Productora: Ikiru Films, Maestranza Films, StudioCanal, Telecinco Cinema, La Ferme! Productions.</desc>
+	</programme>
+	<programme start="20261022122000 +0200" stop="20261022131500 +0200" channel="M. PLUS SCRIPT">
+    <title>Telegram: el gran disruptor</title>
+    <desc>Documentales,Sociedad | 2026 | TP | *6.6/10
+· En agosto de 2024 el fundador de Telegram, Pável Dúrov, fue detenido en Francia como parte de una investigación policial sobre la falta de moderación en la plataforma. Su arresto puso sobre la mesa el papel de las redes sociales en el debate público.
+· País: Francia</desc>
+	</programme>
+	<programme start="20261022131500 +0200" stop="20261022141500 +0200" channel="M. PLUS SCRIPT">
+    <title>Death Valley: El valle de la muerte</title>
+    <desc>Documentales,Sociedad | 2026 | TP | *9.0/10
+· Un reto realizado en 2024 por dalecandELA, una asociación sin ánimo de lucro, cuyo fin es visibilizar la ELA, recaudar fondos para la investigación en la lucha contra la enfermedad, y apoyar a quienes la padecen.
+· País: España
+· Dirección: Juan Luis Aguirrezabal, Luis Echevarría, Jaime Lafita.</desc>
+	</programme>
+	<programme start="20261022141500 +0200" stop="20261022155000 +0200" channel="M. PLUS SCRIPT">
+    <title>21/10/2026 T26/27 · Noche de Champions</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *5.4/10
+· Revive la emoción de cada jornada de Champions con este programa que incluye resúmenes de los partidos de la UEFA Champions League, los goles de la jornada y todo tipo de informaciones relacionadas con esta competición.
+· País: España</desc>
+	</programme>
+	<programme start="20261022155000 +0200" stop="20261022163900 +0200" channel="M. PLUS SCRIPT">
+    <title>Negocios turbios T1 E1 · Detectives por accidente</title>
+    <desc>Series,Drama | 2026 | +16
+· En un pequeño pueblo de Oxfordshire, los jubilados Ash Smith y Peter Hammond descubren que los peces del río Windrush están muriendo. Cuando preguntan a la compañía de aguas, reciben respuestas evasivas que despiertan sus sospechas.
+· País: Reino Unido
+· Reparto: David Thewlis, Jason Watkins, Posy Sterling, Tom McKay, Alex Jennings, Asim Chaudhry, Alice Lowe, Chanel Cresswell.</desc>
+	</programme>
+	<programme start="20261022163900 +0200" stop="20261022172900 +0200" channel="M. PLUS SCRIPT">
+    <title>Negocios turbios T1 E2 · Ecocidio</title>
+    <desc>Series,Drama | 2026 | +16 | *6.6/10
+· A medida que avanzan sus pesquisas, Ash y Peter descubren que la contaminación es mucho más extensa de lo que imaginaban. La búsqueda de pruebas los lleva a enfrentarse tanto a la compañía de aguas como a los organismos reguladores.
+· País: Reino Unido
+· Reparto: David Thewlis, Jason Watkins, Posy Sterling, Tom McKay, Alex Jennings, Asim Chaudhry, Alice Lowe, Chanel Cresswell.</desc>
+	</programme>
+	<programme start="20261022172900 +0200" stop="20261022182500 +0200" channel="M. PLUS SCRIPT">
+    <title>Negocios turbios T1 E3 · El denunciante</title>
+    <desc>Series,Drama | 2026 | +16 | *3.0/10
+· La investigación alcanza un punto decisivo cuando las evidencias acumuladas sacan a la luz años de negligencias y encubrimientos. Mientras las víctimas buscan justicia, los responsables tratan de protegerse.
+· País: Reino Unido
+· Reparto: David Thewlis, Jason Watkins, Posy Sterling, Tom McKay, Alex Jennings, Asim Chaudhry, Alice Lowe, Chanel Cresswell.</desc>
+	</programme>
+	<programme start="20261022182500 +0200" stop="20261022185600 +0200" channel="M. PLUS SCRIPT">
+    <title>Leo Talks T7 · Expediente Harlem</title>
+    <desc>Entretenimiento,Humor | 2026 | +12 | *6.0/10
+· Leo se adentra en lo paranormal: fantasmas, criaturas misteriosas, el monstruo del Lago Ness y brujas con escoba. Entre supersticiones, fotos borrosas y disparates históricos, demuestra que la credulidad humana sigue más viva que los propios fantasmas.
+· País: España
+· Presenta: Leo Harlem.</desc>
+	</programme>
+	<programme start="20261022185600 +0200" stop="20261022200000 +0200" channel="M. PLUS SCRIPT">
+    <title>Informe Plus. Toni Bou, 40 de 40</title>
+    <desc>Deportes,Programa deportes | 2026 | TP
+· Informe Plus. Toni Bou, 40 de 40 -.
+· País: España</desc>
+	</programme>
+	<programme start="20261022200000 +0200" stop="20261022205300 +0200" channel="M. PLUS SCRIPT">
+    <title>22/10/2026 T26/27 · La Previa de Europa League</title>
+    <desc>Deportes,Programa deportes | 2026 | TP
+· Programa que incluye previas de los partidos de la UEFA Europa League, análisis clave de la jornada y todo tipo de informaciones relacionadas con esta competición.
+· País: España</desc>
+	</programme>
+	<programme start="20261022205300 +0200" stop="20261022230000 +0200" channel="M. PLUS SCRIPT">
+    <title>DIRECTO Jornada 3: Celtic - Celta T26/27 · UEFA Europa League</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· Es la segunda competición de la UEFA, pero siempre cuenta con equipos de primer nivel. Tras una fase liga de ocho jornadas, solo los mejores disputarán las eliminatorias por el título. La final de esta edición se disputará en el Besiktas Stadium.
+· País: Reino Unido</desc>
+	</programme>
+	<programme start="20261022230000 +0200" stop="20261023003500 +0200" channel="M. PLUS SCRIPT">
+    <title>22/10/2026 T26/27 · Noche de Europa League</title>
+    <desc>Deportes,Programa deportes | 2026 | TP
+· Revive los partidos de la UEFA Europa League, los goles de la jornada y todo tipo de informaciones relacionadas con esta competición.
+· País: España</desc>
+	</programme>
+	<programme start="20261023003500 +0200" stop="20261023010400 +0200" channel="M. PLUS SCRIPT">
+    <title>Ilustres ignorantes T20 · Las tendencias</title>
+    <desc>Entretenimiento,Humor | 2026 | +16 | *5.0/10
+· La cómica Lalachús y el periodista Manuel Jabois hablan en Ilustres de “Las tendencias” ¿Cuál ha sido la que más les ha marcado: un corte de pelo, una tribu urbana, un alimento, un baile, una frase…? ¿Qué tendencia actual les fascina más?
+· País: España
+· Presenta: Javier Coronas.
+· Dirección: Javier Coronas.
+· Productora: Movistar+.</desc>
+	</programme>
+	<programme start="20261023010400 +0200" stop="20261023030400 +0200" channel="M. PLUS SCRIPT">
+    <title>Weapons</title>
+    <desc>Cine,Thriller | 2025 | +18 | *6.4/10
+· En una tranquila localidad de provincias todos los niños de una misma clase, excepto uno, salen de sus casas a la misma hora y desaparecen. ¿Qué está ocurriendo?
+· País: Estados Unidos
+· Dirección: Zach Cregger.
+· Reparto: Julia Garner, Josh Brolin, Alden Ehrenreich, Benedict Wong, Austin Abrams, Amy Madigan.
+· Guion: Zach Cregger.
+· Música: Zach Cregger, Hays Holladay, Ryan Holladay.
+· Producción: Zach Cregger, Miri Yoon.
+· Productora: New Line Cinema, Domain Entertainment.</desc>
+	</programme>
+	<programme start="20261018063500 +0200" stop="20261018073400 +0200" channel="M. PLUS HEVC">
+    <title>Rave Culture</title>
+    <desc>Documentales,Música | 2025 | +12 | *6.8/10
+· El documental se adentra en el apogeo del movimiento rave británico que se produjo a principios de los años noventa, impulsado por el desempleo masivo, el auge de las anfetaminas y una nueva ola de músicos, productores y artistas.
+· País: España
+· Dirección: Eduardo Cubillo.</desc>
+	</programme>
+	<programme start="20261018073400 +0200" stop="20261018074500 +0200" channel="M. PLUS HEVC">
+    <title>Lo mejor de Bakalá T26/27 E5</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.2/10
+· Un programa que combina el deporte actual con lo mejor del archivo de la casa. Te contamos todo lo acontecido durante la semana, a la vez que recordamos imágenes míticas. Todo ello amenizado con la voz de Raúl Pérez y sus personajes.
+· País: España
+· Presenta: Raúl Pérez.</desc>
+	</programme>
+	<programme start="20261018074500 +0200" stop="20261018082500 +0200" channel="M. PLUS HEVC">
+    <title>Todo sobre Roland-Garros E1</title>
+    <desc>Documentales,Deportes | 2026 | TP | *6.2/10
+· Esta serie documental nos sumerge en el corazón del Grand Slam más emblemático, uno de los mayores eventos deportivos del planeta.
+· País: Francia
+· Dirección: Julien Bossenie.</desc>
+	</programme>
+	<programme start="20261018082500 +0200" stop="20261018091000 +0200" channel="M. PLUS HEVC">
+    <title>Todo sobre Roland-Garros E2</title>
+    <desc>Documentales,Deportes | 2026 | TP | *6.0/10
+· Esta serie documental nos sumerge en el corazón del Grand Slam más emblemático, uno de los mayores eventos deportivos del planeta.
+· País: Francia
+· Dirección: Julien Bossenie.</desc>
+	</programme>
+	<programme start="20261018091000 +0200" stop="20261018095000 +0200" channel="M. PLUS HEVC">
+    <title>Todo sobre Roland-Garros E3</title>
+    <desc>Documentales,Deportes | 2026 | TP | *6.2/10
+· Esta serie documental nos sumerge en el corazón del Grand Slam más emblemático, uno de los mayores eventos deportivos del planeta.
+· País: Francia
+· Dirección: Julien Bossenie.</desc>
+	</programme>
+	<programme start="20261018095000 +0200" stop="20261018103300 +0200" channel="M. PLUS HEVC">
+    <title>Todo sobre Roland-Garros E4</title>
+    <desc>Documentales,Deportes | 2026 | TP | *6.4/10
+· Esta serie documental nos sumerge en el corazón del Grand Slam más emblemático, uno de los mayores eventos deportivos del planeta.
+· País: Francia
+· Dirección: Julien Bossenie.</desc>
+	</programme>
+	<programme start="20261018103300 +0200" stop="20261018134000 +0200" channel="M. PLUS HEVC">
+    <title>Torneo de Shanghai T2026 · Final: Davidovich - Jodar</title>
+    <desc>Deportes,Tenis | 2026 | TP | *6.6/10
+· El octavo Masters 1000 de la temporada de la ATP se juega en Shanghai. Es el único torneo de esta categoría que no ha ganado ningún español.</desc>
+	</programme>
+	<programme start="20261018134000 +0200" stop="20261018143700 +0200" channel="M. PLUS HEVC">
+    <title>Informe Plus. Ba-lon-ces-to. 2006. Más allá del oro</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.6/10
+· Los doce campeones del mundo de Japón 2006, con Pau Gasol, Juan Carlos Navarro y Jorge Garbajosa a la cabeza, se reúnen en esta nueva entrega de Informe Plus para recordar el campeonato que cambió el deporte español.
+· País: España</desc>
+	</programme>
+	<programme start="20261018143700 +0200" stop="20261018145500 +0200" channel="M. PLUS HEVC">
+    <title>Top Bakalá T26/27 E6</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Un programa que combina el deporte actual con lo mejor del archivo de la casa. Te contamos todo lo acontecido durante la semana, a la vez que recordamos imágenes míticas. Todo ello amenizado con la voz de Raúl Pérez y sus personajes.
+· País: España
+· Presenta: Raúl Pérez.</desc>
+	</programme>
+	<programme start="20261018145500 +0200" stop="20261018170300 +0200" channel="M. PLUS HEVC">
+    <title>Serie A Calcio T26/27 · Jornada 7: Fiorentina - Como</title>
+    <desc>Deportes,Fútbol | 2026
+· El fútbol italiano cuenta con uno de los campeonatos más prestigiosos de todo el planeta, la Serie A. La liga cuenta con gigantes del fútbol mundial y cultiva alguna de las rivalidades más encarnizadas de este deporte. El Inter defiende 'Scudetto'.
+· País: Italia</desc>
+	</programme>
+	<programme start="20261018170300 +0200" stop="20261018172000 +0200" channel="M. PLUS HEVC">
+    <title>Lo mejor de Bakalá T26/27 E6</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.8/10
+· Un programa que combina el deporte actual con lo mejor del archivo de la casa. Te contamos todo lo acontecido durante la semana, a la vez que recordamos imágenes míticas. Todo ello amenizado con la voz de Raúl Pérez y sus personajes.
+· País: España
+· Presenta: Raúl Pérez.</desc>
+	</programme>
+	<programme start="20261018172000 +0200" stop="20261018193000 +0200" channel="M. PLUS HEVC">
+    <title>DIRECTO Jornada 7: Nottingham Forest - Arsenal T26/27 · Premier League</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· En The City Ground se ven las caras N.Forest y Arsenal en la séptima jornada de la Premier League. Los de Glasner están descolgados en la tabla con cinco puntos tras caer ante el C.Palace. Los gunners fueron solventes en UCL y suman quince puntos.
+· País: Reino Unido</desc>
+	</programme>
+	<programme start="20261018193000 +0200" stop="20261018201400 +0200" channel="M. PLUS HEVC">
+    <title>DIRECTO 18/10/2026 Tramo 1 T26/27 · DeportePlus Domingo</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Un lugar donde cabe todo el deporte que se juega en el planeta de la mano de Juanma Castaño. La emoción y la pasión con las mejores imágenes, las previas, los resúmenes, los testimonios y el análisis de nuestros expertos.
+· País: España</desc>
+	</programme>
+	<programme start="20261018201400 +0200" stop="20261018204200 +0200" channel="M. PLUS HEVC">
+    <title>Leo Talks T7 · Crimen desorganizado</title>
+    <desc>Entretenimiento,Humor | 2026 | +12 | *6.4/10
+· Leo desmonta la idea de que vivimos tiempos más peligrosos. Entre quinquis, radiocasetes robados, alarmas absurdas, contraseñas ridículas y estafas online, demuestra que hay menos atracos que antes, aunque seguimos viviendo con más miedo que nunca.
+· País: España
+· Presenta: Leo Harlem.</desc>
+	</programme>
+	<programme start="20261018204200 +0200" stop="20261018211400 +0200" channel="M. PLUS HEVC">
+    <title>Ilustres ignorantes T20 · El terror</title>
+    <desc>Entretenimiento,Humor | 2026 | +16 | *7.6/10
+· La presentadora Inés Hernand y el creador de contenido Marc Biarnés son los invitados de este programa sobre “El terror” ¿Qué monstruo les da más miedo: el vampiro, la momia, el chupacabras…? ¿En qué ocasión han pasado más miedo en su vida?
+· País: España
+· Presenta: Javier Coronas.
+· Dirección: Javier Coronas.
+· Productora: Movistar+.</desc>
+	</programme>
+	<programme start="20261018211400 +0200" stop="20261018225100 +0200" channel="M. PLUS HEVC">
+    <title>Un muerto a la hora del té</title>
+    <desc>Cine,Comedia | 2025 | +16 | *6.0/10
+· En la Inglaterra de 1931, un carterista consigue trabajo como criado en la mansión de los Davenport. Allí se enamora de la hija rebelde de la familia, pero una muerte inesperada lo convierte en sospechoso entre una boda, secretos y diferencias de clase.
+· País: Reino Unido
+· Dirección: Jim	 O'Hanlon.
+· Reparto: Damian Lewis, Thomasin McKenzie, Ben Radcliffe, Katherine Waterston, Tom Felton.
+· Guion: Jimmy Carr.
+· Música: Oli Julian.
+· Productora: Elysian Film Group.</desc>
+	</programme>
+	<programme start="20261018225100 +0200" stop="20261018230000 +0200" channel="M. PLUS HEVC">
+    <title>Bakalá T26/27 E6</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *5.8/10
+· Un programa que combina el deporte actual con lo mejor del archivo de la casa. Te contamos todo lo acontecido durante la semana, a la vez que recordamos imágenes míticas. Todo ello amenizado con la voz de Raúl Pérez y sus personajes.
+· País: España
+· Presenta: Raúl Pérez.</desc>
+	</programme>
+	<programme start="20261018230000 +0200" stop="20261019002400 +0200" channel="M. PLUS HEVC">
+    <title>DIRECTO 18/10/2026 T26/27 · DeportePlus con Juanma Castaño</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Un lugar donde cabe todo el deporte que se juega en el planeta. La emoción y la pasión al completo de la mano de Juanma Castaño.
+· País: España
+· Presenta: Juanma Castaño.</desc>
+	</programme>
+	<programme start="20261019002400 +0200" stop="20261019011500 +0200" channel="M. PLUS HEVC">
+    <title>Las Berrocal T2 E6</title>
+    <desc>Entretenimiento | 2025 | +16 | *6.2/10
+· Vicky y Alba lloran juntas porque Alba se va a vivir con su novio. Rocío vuelve a emocionarse con un chico y provoca un cisma familiar. Victoria las reúne en El Rocío, escenario del final de la temporada que podría marcar un antes y un después.
+· País: España</desc>
+	</programme>
+	<programme start="20261019011500 +0200" stop="20261019024800 +0200" channel="M. PLUS HEVC">
+    <title>Un cadáver a los postres</title>
+    <desc>Cine,Comedia | 1976 | TP | *7.2/10
+· Un peculiar grupo de detectives es invitado a cenar a una mansión. Una vez allí, el anfitrión les desafía a resolver un crimen.
+· País: Estados Unidos
+· Dirección: Robert Moore.
+· Reparto: Eileen Brennan, Truman Capote, James Coco, Alec Guinness, Peter Sellers, David Niven, Maggie Smith, Peter Falk, Richard Narita.
+· Guion: Neil Simon.
+· Música: Dave Grusin.
+· Producción: Ray Stark.
+· Productora: Columbia Pictures Corporation, Rastar Pictures.</desc>
+	</programme>
+	<programme start="20261019024800 +0200" stop="20261019042300 +0200" channel="M. PLUS HEVC">
+    <title>55</title>
+    <desc>Cine,Thriller | 2025 | +16 | *6.4/10
+· 55 es un adolescente que se gana la vida como carterista en las calles de Bombay. Él, como el resto de jóvenes ladrones que trabaja para el despiadado Sagar Bhai, lleva tatuado el número que lo identifica en la organización.
+· País: Estados Unidos
+· Dirección: Shyam P. Madiraju.
+· Reparto: Emraan Hashmi, Rizwan Shaikh, Dhanshree Patil, Harsh Rajendra Rane, Ashutosh Gaikwad, Sarthak Dusane.
+· Guion: Shyam P. Madiraju, Shahin Khosravan, Prashant Pandey.
+· Producción: Ridley Scott, Shyam P. Madiraju, Paul Feig.
+· Productora: Scott Free Productions, Endless Media, Emraan Hashmi Films.</desc>
+	</programme>
+	<programme start="20261019042300 +0200" stop="20261019051000 +0200" channel="M. PLUS HEVC">
+    <title>La Chaparra E1</title>
+    <desc>Documentales,Sociedad | 2025 | +18 | *6.2/10
+· Para los niños Sara y Gabriel, criados en la secta La Chaparra, todo resulta mágico. Pero su comunidad ocultaba una red de control, silencio y abusos que fue desmoronándose hasta revelar una verdad estremecedora disfrazada de espiritualidad y armonía.
+· País: España
+· Dirección: Elena Molina.</desc>
+	</programme>
+	<programme start="20261019051000 +0200" stop="20261019055800 +0200" channel="M. PLUS HEVC">
+    <title>La Chaparra E2</title>
+    <desc>Documentales,Sociedad | 2025 | +18 | *6.0/10
+· Sara busca ayuda en su madre, que no reacciona. Sí encuentra un apoyo fuera y escapa. Carlos, su padre, descubre un secreto oculto 20 años. Padre e hija se unen y denuncian. El 15 de marzo de 2022, la policía entra en La Chaparra y acaba con todo.
+· País: España
+· Dirección: Elena Molina.</desc>
+	</programme>
+	<programme start="20261019055800 +0200" stop="20261019065000 +0200" channel="M. PLUS HEVC">
+    <title>La Chaparra E3</title>
+    <desc>Documentales,Sociedad | 2025 | +18 | *6.0/10
+· Gabriel parecía que iba a ser el nuevo gurú, pero el cierre de La Chaparra lo salvó. Tras la muerte de Tío Toni, el caso queda en pausa. Pero las víctimas siguen buscando justicia mientras intentan rehacer sus vidas y hallar su identidad fuera del miedo.
+· País: España
+· Dirección: Elena Molina.</desc>
+	</programme>
+	<programme start="20261019065000 +0200" stop="20261019074700 +0200" channel="M. PLUS HEVC">
+    <title>Rapa, gente al monte</title>
+    <desc>Documentales,Sociedad | 2024 | +7 | *6.2/10
+· Documental sobre la "rapa das bestas", el proceso del corte de las crines de los caballos salvajes que cada año tiene lugar en la localidad pontevedresa de Sabucedo.
+· País: España
+· Dirección: Alejandro Enríquez.</desc>
+	</programme>
+	<programme start="20261019074700 +0200" stop="20261019082000 +0200" channel="M. PLUS HEVC">
+    <title>Informe Robinson T6 · Pelota Vasca: El juego de un pueblo</title>
+    <desc>Deportes,Programa deportes | 2012 | TP | *5.8/10
+· Existen pocos deportes tan ligados a un pueblo como la pelota, al que tantas veces acompaña el adjetivo "vasca". Hace unas semanas se celebró la final de parejas en Bilbao.
+· País: España
+· Presenta: Michael Robinson.</desc>
+	</programme>
+	<programme start="20261019082000 +0200" stop="20261019093200 +0200" channel="M. PLUS HEVC">
+    <title>Apolo 1. Misión a la Luna</title>
+    <desc>Documentales,Sociedad | 2026 | TP | *6.2/10
+· Tres astronautas pioneros, Gus Grissom, Ed White y Roger Chaffee, perdieron trágicamente la vida cuando ocurrió un desastre en la plataforma de lanzamiento de Cabo Kennedy durante una prueba previa al vuelo en enero de 1967.
+· País: Alemania y Reino Unido
+· Dirección: Mark Craig.
+· Guion: Mark Craig.
+· Música: Anne Nikitin.
+· Producción: Mark Craig.</desc>
+	</programme>
+	<programme start="20261019093200 +0200" stop="20261019112000 +0200" channel="M. PLUS HEVC">
+    <title>Atmósfera cero</title>
+    <desc>Cine,Ciencia ficción | 1981 | +16 | *6.4/10
+· Un agente de la ley destinado a una remota colonia minera asentada en la segunda luna de Júpiter debe investigar la muerte de varios trabajadores en extrañas circunstancias.
+· País: Reino Unido
+· Dirección: Peter Hyams.
+· Reparto: Sean Connery, Peter Boyle, Frances Sternhagen, Clarke Peters.
+· Guion: Peter Hyams.
+· Música: Jerry Goldsmith.
+· Producción: Richard A Roth.
+· Productora: Outland Productions.</desc>
+	</programme>
+	<programme start="20261019112000 +0200" stop="20261019130800 +0200" channel="M. PLUS HEVC">
+    <title>Lomu</title>
+    <desc>Documentales,Biografía | 2025 | TP | *6.6/10
+· Jonah Lomu fue la primera superestrella global del rugby. Este retrato íntimo del legendario jugador neozelandés recorre su infancia en Tonga, su meteórico ascenso a la fama y las complejas dificultades personales y de salud que enfrentó en la cima.
+· País: Nueva Zelanda y Reino Unido
+· Dirección: Gavin Fitzgerald, Vea Mafile'o.
+· Producción: Emma Slade.
+· Productora: Sylver Entertainment.</desc>
+	</programme>
+	<programme start="20261019130800 +0200" stop="20261019142800 +0200" channel="M. PLUS HEVC">
+    <title>18/10/2026 T26/27 · DeportePlus con Juanma Castaño</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Un lugar donde cabe todo el deporte que se juega en el planeta. La emoción y la pasión al completo de la mano de Juanma Castaño.
+· País: España
+· Presenta: Juanma Castaño.</desc>
+	</programme>
+	<programme start="20261019142800 +0200" stop="20261019150500 +0200" channel="M. PLUS HEVC">
+    <title>Ilustres ignorantes T20 · El terror</title>
+    <desc>Entretenimiento,Humor | 2026 | +16 | *7.6/10
+· La presentadora Inés Hernand y el creador de contenido Marc Biarnés son los invitados de este programa sobre “El terror” ¿Qué monstruo les da más miedo: el vampiro, la momia, el chupacabras…? ¿En qué ocasión han pasado más miedo en su vida?
+· País: España
+· Presenta: Javier Coronas.
+· Dirección: Javier Coronas.
+· Productora: Movistar+.</desc>
+	</programme>
+	<programme start="20261019150500 +0200" stop="20261019154300 +0200" channel="M. PLUS HEVC">
+    <title>Las Berrocal T2 E1</title>
+    <desc>Entretenimiento | 2025 | +16 | *6.0/10
+· Las Berrocal regresan con grandes novedades. Alba supervisa junto a su novio las obras de su nueva casa, Vicky se prepara para recibir a Alejandro Sanz en su podcast, Rocío trata de superar sus inseguridades y Victoria decide cambiar de imagen.
+· País: España</desc>
+	</programme>
+	<programme start="20261019154300 +0200" stop="20261019162000 +0200" channel="M. PLUS HEVC">
+    <title>Las Berrocal T2 E2</title>
+    <desc>Entretenimiento | 2025 | +16 | *6.4/10
+· Rocío y Alba disfrutan de una escapada juntas en Tenerife, Vicky viaja al pueblo de donde viene el apellido Berrocal de su padre y se encuentra por primera vez con parte de su familia y Victoria conoce a su ídolo, el actor turco Can Yaman.
+· País: España</desc>
+	</programme>
+	<programme start="20261019162000 +0200" stop="20261019165400 +0200" channel="M. PLUS HEVC">
+    <title>Las Berrocal T2 E3</title>
+    <desc>Entretenimiento | 2025 | +16 | *6.4/10
+· Rocío prepara la fiesta de cumpleaños para su madre. Victoria comparte con Alba el recuerdo del peor momento de su vida. Rocío y Alba visitan a Lara Álvarez para superar su miedo escénico. Alba le propone a Vicky diseñar su propia colección cápsula.
+· País: España</desc>
+	</programme>
+	<programme start="20261019165400 +0200" stop="20261019173200 +0200" channel="M. PLUS HEVC">
+    <title>Las Berrocal T2 E4</title>
+    <desc>Entretenimiento | 2025 | +16 | *6.0/10
+· Tensión entre Vicky y Alba en su primer proyecto profesional juntas. Gran reto superado por parte de Rocío, que entrega su primer premio y, para terminar, las cuatro juntas celebrando un cumpleaños de Vicky lleno de amigos, glamour y grandes momentos.
+· País: España</desc>
+	</programme>
+	<programme start="20261019173200 +0200" stop="20261019181100 +0200" channel="M. PLUS HEVC">
+    <title>Las Berrocal T2 E5</title>
+    <desc>Entretenimiento | 2025 | +16 | *6.2/10
+· Las Berrocal revolucionan Italia en un viaje de lujo por Venecia, Nápoles y la costa Amalfitana. Glamurosas, pletóricas y pasándolo tan bien como ellas sólo saben, pero sin dejar atrás sus habituales conflictos y reconciliaciones.
+· País: España</desc>
+	</programme>
+	<programme start="20261019181100 +0200" stop="20261019190100 +0200" channel="M. PLUS HEVC">
+    <title>Las Berrocal T2 E6</title>
+    <desc>Entretenimiento | 2025 | +16 | *6.2/10
+· Vicky y Alba lloran juntas porque Alba se va a vivir con su novio. Rocío vuelve a emocionarse con un chico y provoca un cisma familiar. Victoria las reúne en El Rocío, escenario del final de la temporada que podría marcar un antes y un después.
+· País: España</desc>
+	</programme>
+	<programme start="20261019190100 +0200" stop="20261019195600 +0200" channel="M. PLUS HEVC">
+    <title>Outlander: Sangre de mi sangre T2 E5 · Señor perdóname</title>
+    <desc>Series,Aventuras | 2026 | +16 | *6.0/10
+· La rebelión jacobita alcanza un momento decisivo en la batalla de Sheriffmuir. Mientras los clanes escoceses luchan contra las fuerzas de la Corona, Ellen y Julia afrontan sus propios peligros y Colum cuestiona sus decisiones para proteger al clan.
+· País: Estados Unidos
+· Reparto: Tony Curran, Conor MacNeill, Jeremy Irvine, Jamie Roy, Harriet Slater, Rory Alexander, Sam Retford, Seamus McLean Ross.</desc>
+	</programme>
+	<programme start="20261019195600 +0200" stop="20261019210000 +0200" channel="M. PLUS HEVC">
+    <title>Death Valley: El valle de la muerte</title>
+    <desc>Documentales,Sociedad | 2026 | TP | *9.2/10
+· Un reto realizado en 2024 por dalecandELA, una asociación sin ánimo de lucro, cuyo fin es visibilizar la ELA, recaudar fondos para la investigación en la lucha contra la enfermedad, y apoyar a quienes la padecen.
+· País: España
+· Dirección: Juan Luis Aguirrezabal, Luis Echevarría, Jaime Lafita.</desc>
+	</programme>
+	<programme start="20261019210000 +0200" stop="20261019220500 +0200" channel="M. PLUS HEVC">
+    <title>T26/27 E7 · El día después</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *5.8/10
+· 'El Día Después', uno de nuestros grandes clásicos, que una temporada más ofrece la visión más entretenida y original de la jornada liguera, y donde no va a faltar 'Lo que el ojo no ve'.
+· País: España
+· Presenta: Julio Maldonado, Carlos Martínez, Noemí de Miguel, Álvaro Benito, Mateu Lahoz.</desc>
+	</programme>
+	<programme start="20261019220500 +0200" stop="20261019223500 +0200" channel="M. PLUS HEVC">
+    <title>Leo Talks T7 · Expediente Harlem</title>
+    <desc>Entretenimiento,Humor | 2026 | +12 | *6.0/10
+· Leo se adentra en lo paranormal: fantasmas, criaturas misteriosas, el monstruo del Lago Ness y brujas con escoba. Entre supersticiones, fotos borrosas y disparates históricos, demuestra que la credulidad humana sigue más viva que los propios fantasmas.
+· País: España
+· Presenta: Leo Harlem.</desc>
+	</programme>
+	<programme start="20261019223500 +0200" stop="20261019231300 +0200" channel="M. PLUS HEVC">
+    <title>Paga o muere E1</title>
+    <desc>Documentales,Sociedad | 2026 | +12 | *8.0/10
+· El lunes 21 de marzo de 1983 el empresario Jesús Guibert entra en el garaje de su empresa. No se da cuenta de que hay un coche aparcado con tres individuos dentro con el objetivo de secuestrarle.
+· País: España
+· Dirección: Ricardo Sanz Ramos, Marisa Lafuente.</desc>
+	</programme>
+	<programme start="20261019231300 +0200" stop="20261019235100 +0200" channel="M. PLUS HEVC">
+    <title>Paga o muere E2</title>
+    <desc>Documentales,Sociedad | 2026 | +12 | *6.0/10
+· ETA multiplica el envío de remesas de cartas exigiendo el impuesto revolucionario. Ahora ya no es una carta, sino tres. Y el significado de las palabras de la última es el más efectivo y aterrador porque ETA anuncia que te has convertido en un objetivo.
+· País: España
+· Dirección: Ricardo Sanz Ramos, Marisa Lafuente.</desc>
+	</programme>
+	<programme start="20261019235100 +0200" stop="20261020004400 +0200" channel="M. PLUS HEVC">
+    <title>Paga o muere E3</title>
+    <desc>Documentales,Sociedad | 2026 | +12 | *6.0/10
+· El rechazo social contra la violencia crece. Y se refleja también en la recaudación de ETA. Son cada vez más los empresarios que se niegan a pagar la extorsión. Ese es el mensaje que se propaga desde ADEGUI, una patronal de empresarios de Guipúzcoa.
+· País: España
+· Dirección: Ricardo Sanz Ramos, Marisa Lafuente.</desc>
+	</programme>
+	<programme start="20261020004400 +0200" stop="20261020012900 +0200" channel="M. PLUS HEVC">
+    <title>Gregorio Ordóñez: El asesinato que despertó la rebelión contra ETA</title>
+    <desc>Documentales,Sociedad | 2025 | +12 | *6.8/10
+· Un repaso a la trayectoria personal y política del teniente de alcalde del PP en el Ayuntamiento de San Sebastián, asesinado en el bar La Cepa de la Parte Vieja el 23 de enero de 1995.
+· País: España
+· Dirección: David Taberna, Javier Roldán, Arantxa Aldaz.</desc>
+	</programme>
+	<programme start="20261020012900 +0200" stop="20261020025900 +0200" channel="M. PLUS HEVC">
+    <title>T26/27 E7 · El tercer tiempo</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *5.6/10
+· Un programa de análisis de toda la jornada liguera, dirigido por José Sanchis, que echa un vistazo a lo mejor del fútbol internacional de la mano de Axel Torres.
+· País: España
+· Presenta: Julio Maldonado, Axel Torres, José Sanchís, Joaquín Ramos Marcos.</desc>
+	</programme>
+	<programme start="20261020025900 +0200" stop="20261020032800 +0200" channel="M. PLUS HEVC">
+    <title>Magazine Champions League T26/27 E7</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Magacín que repasa toda la actualidad de la Champions League, la máxima competición del fútbol europeo. El programa ofrece entrevistas, reportajes y resúmenes de los partidos que se disputan durante el torneo.
+· País: Italia</desc>
+	</programme>
+	<programme start="20261020032800 +0200" stop="20261020041800 +0200" channel="M. PLUS HEVC">
+    <title>Magazine Europa League T26/27 E3</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· La Europa League es la sucesora de la Copa UEFA. Se trata de una competición con doble premio, ya que, además de la gloria, da una plaza al ganador para la Champions. Este espacio analiza todo lo que ocurre alrededor del torneo.
+· País: España</desc>
+	</programme>
+	<programme start="20261020041800 +0200" stop="20261020050400 +0200" channel="M. PLUS HEVC">
+    <title>La hora de la verdad: Genialidad</title>
+    <desc>Documentales,Deportes | 2022 | +7 | *6.2/10
+· Recordamos los momentos icónicos de la Historia de los Mundiales con una mezcla de acción, narrativa y análisis a través de entrevistas, imágenes de archivo y secuencias gráficas. Y con el recuerdo de grandes protagonistas del fútbol mundial.
+· País: Reino Unido</desc>
+	</programme>
+	<programme start="20261020050400 +0200" stop="20261020055100 +0200" channel="M. PLUS HEVC">
+    <title>La hora de la verdad: Coraje</title>
+    <desc>Documentales,Deportes | 2022 | +7 | *5.8/10
+· Recordamos los momentos icónicos de la Historia de los Mundiales con una mezcla de acción, narrativa y análisis a través de entrevistas, imágenes de archivo y secuencias gráficas. Y con el recuerdo de grandes protagonistas del fútbol mundial.
+· País: Reino Unido</desc>
+	</programme>
+	<programme start="20261020055100 +0200" stop="20261020074500 +0200" channel="M. PLUS HEVC">
+    <title>Topuria: Matador</title>
+    <desc>Documentales,Deportes | 2024 | +12 | *6.0/10
+· La historia de superación personal de Ilia Topuria, el flamante campeón mundial de Peso Ligero de UFC, desde su Georgia natal en guerra y su llegada a España. Hay muchos números uno, pero solo uno logra ser leyenda.
+· País: España
+· Dirección: Giampolo Manfreda.</desc>
+	</programme>
+	<programme start="20261020074500 +0200" stop="20261020081500 +0200" channel="M. PLUS HEVC">
+    <title>World of free sports T2026 E41</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· El apasionante mundo de los deportes al aire libre llega a nuestro canal para su repaso semanal.</desc>
+	</programme>
+	<programme start="20261020081500 +0200" stop="20261020085500 +0200" channel="M. PLUS HEVC">
+    <title>La línea invisible T1 E1 · Pintadas y petardos</title>
+    <desc>Series,Drama | 2020 | +16 | *6.8/10
+· País Vasco 1968. Txabi Etxabarrieta, un brillante universitario bilbaíno, se une a su hermano y a su grupo de amigos en una desconocida organización llamada ETA. Paralelamente, el inspector Melitón Manzanas comienza a investigar a este grupo de jóvenes.
+· País: España
+· Dirección: Mariano Barroso.
+· Reparto: Àlex Monner, Antonio de la Torre, Joan Amargós, Anna Castillo, Enric Auquer, Asier Exteandia, Patrick Criado.
+· Guion: Alejandro Hernández, Michel Gaztambide, Natxo López.
+· Productora: Sentido Films, Corte y Confección de Películas, Movistar+.</desc>
+	</programme>
+	<programme start="20261020085500 +0200" stop="20261020094000 +0200" channel="M. PLUS HEVC">
+    <title>La línea invisible T1 E2 · Un líder</title>
+    <desc>Series,Drama | 2020 | +16 | *6.6/10
+· Dos formas de entender ETA se enfrentan en la V Asamblea. Txabi da un paso al frente con el apoyo de su hermano y El Inglés. Melitón Manzanas investiga a todo su entorno para recabar la máxima información sobre él.
+· País: España
+· Dirección: Mariano Barroso.
+· Reparto: Àlex Monner, Antonio de la Torre, Joan Amargós, Anna Castillo, Enric Auquer, Asier Exteandia, Patrick Criado.
+· Guion: Alejandro Hernández, Michel Gaztambide, Natxo López.
+· Productora: Sentido Films, Corte y Confección de Películas, Movistar+.</desc>
+	</programme>
+	<programme start="20261020094000 +0200" stop="20261020102500 +0200" channel="M. PLUS HEVC">
+    <title>La línea invisible T1 E3 · Tambores de guerra</title>
+    <desc>Series,Drama | 2020 | +16 | *6.6/10
+· Txabi y sus compañeros atracan un banco. Melitón es presionado por sus superiores por no informar sobre ETA y sus actividades, por lo que intensifica su investigación sobre los presuntos miembros de la organización que logra detener.
+· País: España
+· Dirección: Mariano Barroso.
+· Reparto: Àlex Monner, Antonio de la Torre, Joan Amargós, Anna Castillo, Enric Auquer, Asier Exteandia, Patrick Criado.
+· Guion: Alejandro Hernández, Michel Gaztambide, Natxo López.
+· Productora: Sentido Films, Corte y Confección de Películas, Movistar+.</desc>
+	</programme>
+	<programme start="20261020102500 +0200" stop="20261020110600 +0200" channel="M. PLUS HEVC">
+    <title>La línea invisible T1 E4 · Un poeta</title>
+    <desc>Series,Drama | 2020 | +16 | *6.6/10
+· El Inglés presiona a Txabi para que ETA cruce la línea invisible y cometa su primer atentado mortal, poniendo en su punto de mira a varios altos cargos franquistas. Melitón cree haber podido identificar a Txabi.
+· País: España
+· Dirección: Mariano Barroso.
+· Reparto: Àlex Monner, Antonio de la Torre, Joan Amargós, Anna Castillo, Enric Auquer, Asier Exteandia, Patrick Criado.
+· Guion: Alejandro Hernández, Michel Gaztambide, Natxo López.
+· Productora: Sentido Films, Corte y Confección de Películas, Movistar+.</desc>
+	</programme>
+	<programme start="20261020110600 +0200" stop="20261020114700 +0200" channel="M. PLUS HEVC">
+    <title>La línea invisible T1 E5 · La línea</title>
+    <desc>Series,Drama | 2020 | +16 | *6.6/10
+· Txabi y sus compañeros están cada vez más cerca de cruzar la línea invisible, al intensificar sus actividades y con la identificación de posibles objetivos. Mientras tanto, conocemos la historia de José Antonio Pardines, un guardia civil gallego.
+· País: España
+· Dirección: Mariano Barroso.
+· Reparto: Àlex Monner, Antonio de la Torre, Joan Amargós, Anna Castillo, Enric Auquer, Asier Exteandia, Patrick Criado.
+· Guion: Alejandro Hernández, Michel Gaztambide, Natxo López.
+· Productora: Sentido Films, Corte y Confección de Películas, Movistar+.</desc>
+	</programme>
+	<programme start="20261020114700 +0200" stop="20261020123200 +0200" channel="M. PLUS HEVC">
+    <title>La línea invisible T1 E6 · El futuro</title>
+    <desc>Series,Drama | 2020 | +16 | *7.2/10
+· El primer asesinato de ETA pone en marcha una imprevisible y peligrosa cadena de acontecimientos dentro de la organización y en su entorno.
+· País: España
+· Dirección: Mariano Barroso.
+· Reparto: Àlex Monner, Antonio de la Torre, Joan Amargós, Anna Castillo, Enric Auquer, Asier Exteandia, Patrick Criado.
+· Guion: Alejandro Hernández, Michel Gaztambide, Natxo López.
+· Productora: Sentido Films, Corte y Confección de Películas, Movistar+.</desc>
+	</programme>
+	<programme start="20261020123200 +0200" stop="20261020141200 +0200" channel="M. PLUS HEVC">
+    <title>ETA, el final del silencio: Zubiak</title>
+    <desc>Documentales,Actualidad | 2019 | +7 | *7.6/10
+· "Zubiak" ("Puentes") nos habla de puentes rotos y de puentes tendidos a través de los testimonios de los protagonistas de casi 50 años de terror, miedo, treguas, negociaciones y muertes que han marcado la historia más reciente de nuestro país.
+· País: España
+· Dirección: Jon Sistiaga, Alfonso Cortés-Cavanillas.
+· Productora: Movistar+, La Caña Brothers.</desc>
+	</programme>
+	<programme start="20261020141200 +0200" stop="20261020151500 +0200" channel="M. PLUS HEVC">
+    <title>T26/27 E7 · El día después</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *5.8/10
+· 'El Día Después', uno de nuestros grandes clásicos, que una temporada más ofrece la visión más entretenida y original de la jornada liguera, y donde no va a faltar 'Lo que el ojo no ve'.
+· País: España
+· Presenta: Julio Maldonado, Carlos Martínez, Noemí de Miguel, Álvaro Benito, Mateu Lahoz.</desc>
+	</programme>
+	<programme start="20261020151500 +0200" stop="20261020171700 +0200" channel="M. PLUS HEVC">
+    <title>El lobo</title>
+    <desc>Cine,Thriller | 2004 | +18 | *7.0/10
+· La historia real de un infiltrado de los servicios secretos franquistas en el seno de la organización terrorista ETA.
+· País: España
+· Dirección: Miguel Courtois.
+· Reparto: Eduardo Noriega, José Coronado, Mélanie Doutey, Silvia Abascal, Santiago Ramos, Patrick Bruel, Jorge Sanz.
+· Guion: Antonio Onetti.
+· Música: Francesc Gener.
+· Productora: Castelao Producciones S.A.</desc>
+	</programme>
+	<programme start="20261020171700 +0200" stop="20261020175500 +0200" channel="M. PLUS HEVC">
+    <title>Paga o muere E1</title>
+    <desc>Documentales,Sociedad | 2026 | +12
+· El lunes 21 de marzo de 1983 el empresario Jesús Guibert entra en el garaje de su empresa. No se da cuenta de que hay un coche aparcado con tres individuos dentro con el objetivo de secuestrarle.
+· País: España
+· Dirección: Ricardo Sanz Ramos, Marisa Lafuente.</desc>
+	</programme>
+	<programme start="20261020175500 +0200" stop="20261020183300 +0200" channel="M. PLUS HEVC">
+    <title>Paga o muere E2</title>
+    <desc>Documentales,Sociedad | 2026 | +12
+· ETA multiplica el envío de remesas de cartas exigiendo el impuesto revolucionario. Ahora ya no es una carta, sino tres. Y el significado de las palabras de la última es el más efectivo y aterrador porque ETA anuncia que te has convertido en un objetivo.
+· País: España
+· Dirección: Ricardo Sanz Ramos, Marisa Lafuente.</desc>
+	</programme>
+	<programme start="20261020183300 +0200" stop="20261020193000 +0200" channel="M. PLUS HEVC">
+    <title>Paga o muere E3</title>
+    <desc>Documentales,Sociedad | 2026 | +12
+· El rechazo social contra la violencia crece. Y se refleja también en la recaudación de ETA. Son cada vez más los empresarios que se niegan a pagar la extorsión. Ese es el mensaje que se propaga desde ADEGUI, una patronal de empresarios de Guipúzcoa.
+· País: España
+· Dirección: Ricardo Sanz Ramos, Marisa Lafuente.</desc>
+	</programme>
+	<programme start="20261020193000 +0200" stop="20261020205500 +0200" channel="M. PLUS HEVC">
+    <title>DIRECTO 20/10/2026 T26/27 · La Previa de Champions</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Programa que incluye resúmenes de los partidos de la UEFA Champions League, los goles de la jornada y todo tipo de informaciones relacionadas con esta competición.
+· País: España</desc>
+	</programme>
+	<programme start="20261020205500 +0200" stop="20261020212900 +0200" channel="M. PLUS HEVC">
+    <title>Ilustres ignorantes T20 · Las tendencias</title>
+    <desc>Entretenimiento,Humor | 2026 | +16 | *5.0/10
+· La cómica Lalachús y el periodista Manuel Jabois hablan en Ilustres de “Las tendencias” ¿Cuál ha sido la que más les ha marcado: un corte de pelo, una tribu urbana, un alimento, un baile, una frase…? ¿Qué tendencia actual les fascina más?
+· País: España
+· Presenta: Javier Coronas.
+· Dirección: Javier Coronas.
+· Productora: Movistar+.</desc>
+	</programme>
+	<programme start="20261020212900 +0200" stop="20261020220000 +0200" channel="M. PLUS HEVC">
+    <title>Leo Talks T7 · Expediente Harlem</title>
+    <desc>Entretenimiento,Humor | 2026 | +12 | *6.0/10
+· Leo se adentra en lo paranormal: fantasmas, criaturas misteriosas, el monstruo del Lago Ness y brujas con escoba. Entre supersticiones, fotos borrosas y disparates históricos, demuestra que la credulidad humana sigue más viva que los propios fantasmas.
+· País: España
+· Presenta: Leo Harlem.</desc>
+	</programme>
+	<programme start="20261020220000 +0200" stop="20261020230000 +0200" channel="M. PLUS HEVC">
+    <title>Telegram: el gran disruptor</title>
+    <desc>Documentales,Sociedad | 2026 | TP | *6.6/10
+· En agosto de 2024 el fundador de Telegram, Pável Dúrov, fue detenido en Francia como parte de una investigación policial sobre la falta de moderación en la plataforma. Su arresto puso sobre la mesa el papel de las redes sociales en el debate público.
+· País: Francia</desc>
+	</programme>
+	<programme start="20261020230000 +0200" stop="20261021003000 +0200" channel="M. PLUS HEVC">
+    <title>20/10/2026 T26/27 · Noche de Champions</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.6/10
+· Revive la emoción de cada jornada de Champions con este programa que incluye resúmenes de los partidos de la UEFA Champions League, los goles de la jornada y todo tipo de informaciones relacionadas con esta competición.
+· País: España</desc>
+	</programme>
+	<programme start="20261021003000 +0200" stop="20261021015000 +0200" channel="M. PLUS HEVC">
+    <title>El otro Chiquito</title>
+    <desc>Documentales,Sociedad | 2026 | +7 | *7.0/10
+· Chiquito de la Calzada fue un ídolo indiscutible cuyo humor y lenguaje revolucionan España. Pero tras la aparición en televisión de Lucas Grijander, Gregorio siente arrebatada su identidad. Nace un litigio insólito: Chiquito contra Lucas Grijander.
+· País: España</desc>
+	</programme>
+	<programme start="20261021015000 +0200" stop="20261021023800 +0200" channel="M. PLUS HEVC">
+    <title>ETA, el final del silencio · Extorsionados</title>
+    <desc>Documentales,Actualidad | 2019 | +12 | *7.4/10
+· La extorsión fue una de las fuentes de financiación de ETA durante cinco décadas, junto a los secuestros y los atracos. El 80% de sus finanzas provenían del cobro de estas extorsiones conocidas como "impuesto revolucionario".
+· País: España
+· Dirección: Jon Sistiaga, Alfonso Cortés-Cavanillas.
+· Productora: Movistar+, La Caña Brothers.</desc>
+	</programme>
+	<programme start="20261021023800 +0200" stop="20261021032600 +0200" channel="M. PLUS HEVC">
+    <title>ETA, el final del silencio · Miguel Ángel</title>
+    <desc>Documentales,Actualidad | 2019 | +12 | *7.4/10
+· Las 48 horas que pasaron entre el secuestro el 10 de julio de 1997 y el asesinato de Miguel Ángel Blanco es uno de esos momentos en la historia de España que todos los que lo vivieron son capaces de recordar con claridad. ¿Dónde estábamos esos días?
+· País: España
+· Dirección: Jon Sistiaga, Alfonso Cortés-Cavanillas.
+· Productora: Movistar+, La Caña Brothers.</desc>
+	</programme>
+	<programme start="20261021032600 +0200" stop="20261021042300 +0200" channel="M. PLUS HEVC">
+    <title>ETA, el final del silencio · Orígenes</title>
+    <desc>Documentales,Actualidad | 2019 | +12 | *7.2/10
+· En este episodio analizamos algunos de los primeros grandes errores de la banda, desde el primer asesinato del guardia civil José Pardines en 1968 hasta su primera víctima civil, Fermín Monasterio (1969), pasando por el asesinato de algunos militantes.
+· País: España
+· Dirección: Jon Sistiaga, Alfonso Cortés-Cavanillas.
+· Productora: Movistar+, La Caña Brothers.</desc>
+	</programme>
+	<programme start="20261021042300 +0200" stop="20261021051000 +0200" channel="M. PLUS HEVC">
+    <title>ETA, el final del silencio · Años de plomo</title>
+    <desc>Documentales,Actualidad | 2019 | +12 | *7.0/10
+· Durante los años 80, ETA asesinaba a casi 100 personas al año, prácticamente un muerto cada tres días. Aquella época es conocida como "los años de plomo", unos años a los que pertenece la mayor parte de los asesinatos por resolver de ETA.
+· País: España
+· Dirección: Jon Sistiaga, Alfonso Cortés-Cavanillas.
+· Productora: Movistar+, La Caña Brothers.</desc>
+	</programme>
+	<programme start="20261021051000 +0200" stop="20261021060500 +0200" channel="M. PLUS HEVC">
+    <title>ETA, el final del silencio: Epílogo</title>
+    <desc>Documentales,Actualidad | 2019 | +12 | *6.8/10
+· ETA fue derrotada policialmente. ETA no decidió dejar las armas y disolverse cuando la propia banda quiso. Lo hizo porque la Policía y la Guardia Civil la habían convertido en una organización zombi.
+· País: España
+· Dirección: Jon Sistiaga, Alfonso Cortés-Cavanillas.
+· Productora: Movistar+, La Caña Brothers.</desc>
+	</programme>
+	<programme start="20261021060500 +0200" stop="20261021070200 +0200" channel="M. PLUS HEVC">
+    <title>ETA, el final del silencio · Terceras generaciones</title>
+    <desc>Documentales,Actualidad | 2019 | +12 | *7.0/10
+· Este episodio cuenta el relato del terrorismo en nuestro país desde el punto de vista de las víctimas más jóvenes, de las generaciones a las que la barbarie terrorista convirtió en afectados indirectos y a las que hizo pagar un alto precio.
+· País: España
+· Dirección: Jon Sistiaga, Alfonso Cortés-Cavanillas.
+· Productora: Movistar+, La Caña Brothers.</desc>
+	</programme>
+	<programme start="20261021070200 +0200" stop="20261021080000 +0200" channel="M. PLUS HEVC">
+    <title>Documentales</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20261021080000 +0200" stop="20261021083000 +0200" channel="M. PLUS HEVC">
+    <title>Planeta Tenis T2026 E24</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Roberto Carretero e Iñaki Cano Martínez presentan este espacio dedicado al mundo del tenis, donde sus principales protagonistas y toda la información relacionada con los Grand Slam mantendrá viva la pasión por este deporte.
+· País: España
+· Presenta: Lidia Blanco, Roberto Carretero.</desc>
+	</programme>
+	<programme start="20261021083000 +0200" stop="20261021091900 +0200" channel="M. PLUS HEVC">
+    <title>La guerra del hachís E1</title>
+    <desc>Documentales,Sociedad | 2023 | +16 | *6.0/10
+· Más de 200 policías de todo el país llegan a las Rías Baixas gallegas para desmantelar una de las mayores redes dedicadas al tráfico de hachís. Un negocio que nace en Marruecos y que ya se ha extendido por toda la geografía española.
+· País: España
+· Dirección: Víctor Méndez Sanguos.
+· Productora: Imaco.</desc>
+	</programme>
+	<programme start="20261021091900 +0200" stop="20261021101300 +0200" channel="M. PLUS HEVC">
+    <title>La guerra del hachís E2</title>
+    <desc>Documentales,Sociedad | 2023 | +16 | *6.2/10
+· La Policía cierra con éxito la operación en Galicia, pero las fuerzas de seguridad tienen muchos frentes abiertos. La incautación de 22.000 kilos de hachís en Andalucía disfrazados de tomates y pimientos acarrea brutales ajustes de cuentas.
+· País: España
+· Dirección: Víctor Méndez Sanguos.
+· Productora: Imaco.</desc>
+	</programme>
+	<programme start="20261021101300 +0200" stop="20261021120800 +0200" channel="M. PLUS HEVC">
+    <title>El hombre de las mil caras</title>
+    <desc>Cine,Thriller | 2016 | +7 | *7.2/10
+· Madrid, 1995. Francisco Paesa y su amigo y socio Jesús Camoes acaban de participar en la entrega del prófugo más buscado de la historia de la democracia española y esperan contar pronto con una gran cantidad de dinero.
+· País: España
+· Dirección: Alberto Rodríguez.
+· Reparto: Eduard Fernández, José Coronado, Marta Etura, Carlos Santos, Emilio Gutiérrez Caba, Enric Benavent, Philippe Rebbot.
+· Guion: Rafael Cobos, Alberto Rodríguez.
+· Música: Julio de la Rosa.
+· Producción: Jose Antonio Félez, Antonio Asensio Mosbah, Francisco Ramos, Mercedes Gamero, Mikel Lejarza, Gervasio Iglesias.
+· Productora: Movistar+, Atresmedia Cine, Atípica Films.</desc>
+	</programme>
+	<programme start="20261021120800 +0200" stop="20261021124600 +0200" channel="M. PLUS HEVC">
+    <title>Paga o muere E1</title>
+    <desc>Documentales,Sociedad | 2026 | +12
+· El lunes 21 de marzo de 1983 el empresario Jesús Guibert entra en el garaje de su empresa. No se da cuenta de que hay un coche aparcado con tres individuos dentro con el objetivo de secuestrarle.
+· País: España
+· Dirección: Ricardo Sanz Ramos, Marisa Lafuente.</desc>
+	</programme>
+	<programme start="20261021124600 +0200" stop="20261021132400 +0200" channel="M. PLUS HEVC">
+    <title>Paga o muere E2</title>
+    <desc>Documentales,Sociedad | 2026 | +12
+· ETA multiplica el envío de remesas de cartas exigiendo el impuesto revolucionario. Ahora ya no es una carta, sino tres. Y el significado de las palabras de la última es el más efectivo y aterrador porque ETA anuncia que te has convertido en un objetivo.
+· País: España
+· Dirección: Ricardo Sanz Ramos, Marisa Lafuente.</desc>
+	</programme>
+	<programme start="20261021132400 +0200" stop="20261021141700 +0200" channel="M. PLUS HEVC">
+    <title>Paga o muere E3</title>
+    <desc>Documentales,Sociedad | 2026 | +12 | *5.4/10
+· El rechazo social contra la violencia crece. Y se refleja también en la recaudación de ETA. Son cada vez más los empresarios que se niegan a pagar la extorsión. Ese es el mensaje que se propaga desde ADEGUI, una patronal de empresarios de Guipúzcoa.
+· País: España
+· Dirección: Ricardo Sanz Ramos, Marisa Lafuente.</desc>
+	</programme>
+	<programme start="20261021141700 +0200" stop="20261021154200 +0200" channel="M. PLUS HEVC">
+    <title>20/10/2026 T26/27 · Noche de Champions</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.6/10
+· Revive la emoción de cada jornada de Champions con este programa que incluye resúmenes de los partidos de la UEFA Champions League, los goles de la jornada y todo tipo de informaciones relacionadas con esta competición.
+· País: España</desc>
+	</programme>
+	<programme start="20261021154200 +0200" stop="20261021171700 +0200" channel="M. PLUS HEVC">
+    <title>Truhanes</title>
+    <desc>Cine,Comedia | 1983 | TP | *6.0/10
+· Gonzalo, un truhán de altura, emparentado con las cimas del poder y del dinero, va a la cárcel por un tonto resbalón en el tráfico de divisas. Aunque su condena no es larga, en la cárcel necesitará la protección que le proporciona el viejo Ginés.
+· País: España
+· Dirección: Miguel Hermoso.
+· Reparto: Francisco Rabal, Arturo Fernández, Silvia Gambino, Isabel Mestres, José Antonio Correa, Vicky Lagos.
+· Guion: Miguel Hermoso.
+· Música: José Nieto.
+· Producción: José G Jacoste.
+· Productora: PE Films, PE Films (Productores Exhibidores Films S.A.).</desc>
+	</programme>
+	<programme start="20261021171700 +0200" stop="20261021185500 +0200" channel="M. PLUS HEVC">
+    <title>200 vidas. Paco Rabal</title>
+    <desc>Documentales,Biografía | 2026
+· El retrato de uno de los grandes actores del cine español. Un viaje íntimo, suspendido en ese instante previo a la muerte donde la biografía se funde con los deseos incumplidos, las decisiones irreversibles y las heridas abiertas.
+· País: España
+· Dirección: Vanesa Benítez.</desc>
+	</programme>
+	<programme start="20261021185500 +0200" stop="20261021192500 +0200" channel="M. PLUS HEVC">
+    <title>Bakalá T26/27 E7</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *5.8/10
+· Un programa que combina el deporte actual con lo mejor del archivo de la casa. Te contamos todo lo acontecido durante la semana, a la vez que recordamos imágenes míticas. Todo ello amenizado con la voz de Raúl Pérez y sus personajes.
+· País: España
+· Presenta: Raúl Pérez.</desc>
+	</programme>
+	<programme start="20261021192500 +0200" stop="20261021200000 +0200" channel="M. PLUS HEVC">
+    <title>Ilustres ignorantes T20 · Las tendencias</title>
+    <desc>Entretenimiento,Humor | 2026 | +16
+· Programa que trata de encontrar respuestas a todas esas preguntas ridículas que nos planteamos en nuestra vida diaria.
+· País: España
+· Presenta: Javier Coronas.
+· Dirección: Javier Coronas.
+· Productora: Movistar+.</desc>
+	</programme>
+	<programme start="20261021200000 +0200" stop="20261021205300 +0200" channel="M. PLUS HEVC">
+    <title>21/10/2026 T26/27 · La Previa de Champions</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *7.4/10
+· Programa que incluye resúmenes de los partidos de la UEFA Champions League, los goles de la jornada y todo tipo de informaciones relacionadas con esta competición.
+· País: España</desc>
+	</programme>
+	<programme start="20261021205300 +0200" stop="20261021230000 +0200" channel="M. PLUS HEVC">
+    <title>Jornada 3: Real Madrid - Leipzig T26/27 · UEFA Champions League</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
+· La máxima competición del deporte europeo garantiza emoción y buen fútbol. 36 equipos se juegan el pase a la gloria durante una fase liga antes de llegar a las eliminatorias, en las que los partidos son a cara de perro. El PSG defiende título.
+· País: España</desc>
+	</programme>
+	<programme start="20261021230000 +0200" stop="20261022003000 +0200" channel="M. PLUS HEVC">
+    <title>21/10/2026 T26/27 · Noche de Champions</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *5.4/10
+· Revive la emoción de cada jornada de Champions con este programa que incluye resúmenes de los partidos de la UEFA Champions League, los goles de la jornada y todo tipo de informaciones relacionadas con esta competición.
+· País: España</desc>
+	</programme>
+	<programme start="20261022003000 +0200" stop="20261022010100 +0200" channel="M. PLUS HEVC">
+    <title>Leo Talks T7 · Expediente Harlem</title>
+    <desc>Entretenimiento,Humor | 2026 | +12
+· Leo se adentra en lo paranormal: fantasmas, criaturas misteriosas, el monstruo del Lago Ness y brujas con escoba. Entre supersticiones, fotos borrosas y disparates históricos, demuestra que la credulidad humana sigue más viva que los propios fantasmas.
+· País: España
+· Presenta: Leo Harlem.</desc>
+	</programme>
+	<programme start="20261022010100 +0200" stop="20261022012300 +0200" channel="M. PLUS HEVC">
+    <title>Amor sin wifi T1 E1 · Un nuevo avatar</title>
+    <desc>Series,Comedia dramática | 2023 | +18 | *6.0/10
+· Cuando Ida es abandonada por su novio virtual Martin, decide que no le queda otra que salir al mundo real y experimentar lo que son las citas sin wifi. Ida quiere dar celos a Marvin.
+· País: Noruega
+· Dirección: Jakob Rørvik.
+· Reparto: Gina Bernhoft Gørvell, Jacques Colimon, Mathias Luppichini.</desc>
+	</programme>
+	<programme start="20261022012300 +0200" stop="20261022014600 +0200" channel="M. PLUS HEVC">
+    <title>Amor sin wifi T1 E2 · La princesa guerrera</title>
+    <desc>Series,Comedia dramática | 2023 | +18 | *6.0/10
+· Ida prosigue explorando el mundo de las citas reales con resultados no muy satisfactorios mientras vigila en las redes a Martin y a su nueva novia. Cuando Martin le recrimina que debe pasar página tienen una conversación muy reveladora.
+· País: Noruega
+· Dirección: Jakob Rørvik.
+· Reparto: Gina Bernhoft Gørvell, Jacques Colimon, Mathias Luppichini.</desc>
+	</programme>
+	<programme start="20261022014600 +0200" stop="20261022021100 +0200" channel="M. PLUS HEVC">
+    <title>Amor sin wifi T1 E3 · A la caza del unicornio</title>
+    <desc>Series,Comedia dramática | 2023 | +18 | *6.0/10
+· Ida está obsesionada desde niña con un artista japonés llamado Tetsuo. Cuando acude a una de sus actuaciones logra hablar con él y pasan tiempo juntos. Pero Tetsuo no es como ella siempre había pensado. Marvin llama a Ida a escondidas de su novia.
+· País: Noruega
+· Dirección: Jakob Rørvik.
+· Reparto: Gina Bernhoft Gørvell, Jacques Colimon, Mathias Luppichini.</desc>
+	</programme>
+	<programme start="20261022021100 +0200" stop="20261022023500 +0200" channel="M. PLUS HEVC">
+    <title>Amor sin wifi T1 E4 · Un cuerpo en el mundo</title>
+    <desc>Series,Comedia dramática | 2023 | +18 | *6.0/10
+· En su exploración por el mundo de las citas reales, Ida decide quedar con una chica que le hace plantearse una cuestión importante sobre ella misma y sobre cómo se siente con su cuerpo.
+· País: Noruega
+· Dirección: Jakob Rørvik.
+· Reparto: Gina Bernhoft Gørvell, Jacques Colimon, Mathias Luppichini.</desc>
+	</programme>
+	<programme start="20261022023500 +0200" stop="20261022025500 +0200" channel="M. PLUS HEVC">
+    <title>Amor sin wifi T1 E5 · Salir del útero</title>
+    <desc>Series,Comedia dramática | 2023 | +18 | *5.8/10
+· Ida decide abandonar las citas y la vida real en general. Se recluye en el sótano de la casa de su madre hasta que ésta y su nuevo novio intervienen y le exigen que contribuya a la economía familiar. Ida tiene que buscar un empleo.
+· País: Noruega
+· Dirección: Jakob Rørvik.
+· Reparto: Gina Bernhoft Gørvell, Jacques Colimon, Mathias Luppichini.</desc>
+	</programme>
+	<programme start="20261022025500 +0200" stop="20261022031900 +0200" channel="M. PLUS HEVC">
+    <title>Amor sin wifi T1 E6 · La muerte de la princesa guerrera</title>
+    <desc>Series,Comedia dramática | 2023 | +18 | *6.2/10
+· Ida recoge todas sus cosas y deja el hogar materno para irse a vivir con su primer novio real. Einar decide celebrar su relación con Ida por todo lo alto organizando una fiesta a la que invita a un montón de amigos y clientes.
+· País: Noruega
+· Dirección: Jakob Rørvik.
+· Reparto: Gina Bernhoft Gørvell, Jacques Colimon, Mathias Luppichini.</desc>
+	</programme>
+	<programme start="20261022031900 +0200" stop="20261022035300 +0200" channel="M. PLUS HEVC">
+    <title>Amor sin wifi T1 E7 · Ida 2.0</title>
+    <desc>Series,Comedia dramática | 2023 | +18 | *6.0/10
+· La pérdida de uno de sus amigos provoca en Ida el deseo de aprovechar la vida al máximo. Impulsada por Einar trata de superar alguno de sus miedos y avanzar hacia una nueva y mejorada versión de sí misma. Pero ¿está siendo realmente auténtica?
+· País: Noruega
+· Dirección: Jakob Rørvik.
+· Reparto: Gina Bernhoft Gørvell, Jacques Colimon, Mathias Luppichini.</desc>
+	</programme>
+	<programme start="20261022035300 +0200" stop="20261022045300 +0200" channel="M. PLUS HEVC">
+    <title>Documentales</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20261022045300 +0200" stop="20261022055300 +0200" channel="M. PLUS HEVC">
+    <title>Documentales</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20261022055300 +0200" stop="20261022065300 +0200" channel="M. PLUS HEVC">
+    <title>Documentales</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20261022065300 +0200" stop="20261022080000 +0200" channel="M. PLUS HEVC">
+    <title>Documentales</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20261022080000 +0200" stop="20261022090800 +0200" channel="M. PLUS HEVC">
+    <title>Ellas en la ciudad</title>
+    <desc>Documentales,Sociedad | 2025 | TP | *7.0/10
+· Las vidas cotidianas de una generación de mujeres, primeras pobladoras de los barrios de la periferia de Sevilla. Ellas han sido el sostén de una ciudad que les da la espalda. ¿Cómo serían las ciudades si las hubieran diseñado ellas?
+· País: España
+· Dirección: Reyes Gallegos.
+· Guion: Reyes Gallegos.
+· Productora: Movistar Plus+.</desc>
+	</programme>
+	<programme start="20261022090800 +0200" stop="20261022101300 +0200" channel="M. PLUS HEVC">
+    <title>Lamine Yamal. Revolución 304</title>
+    <desc>Documentales,Deportes | 2025 | TP | *6.6/10
+· Lamine Yamal se ha convertido en uno de los mejores futbolistas del mundo. Cada vez que marca un gol lo celebra dibujando con sus manos el 304, los números del distrito postal de Rocafonda, el barrio de Mataró donde todavía vive su abuela Fátima.
+· País: España
+· Dirección: Xavi Torres, Jesús Muñoz, Santi Padró.</desc>
+	</programme>
+	<programme start="20261022101300 +0200" stop="20261022122000 +0200" channel="M. PLUS HEVC">
+    <title>El Niño</title>
+    <desc>Cine,Acción | 2014 | +16 | *6.8/10
+· Frontera sur de Europa. Dos continentes, tres países, 14 kilómetros... tierra de contrabando. Los agentes Jesús y Eva llevan dos años tras la pista de la principal red de narcotráfico que opera en la zona.
+· País: España y Francia
+· Dirección: Daniel Monzón.
+· Reparto: Luis Tosar, Jesús Castro, Eduard Fernández, Sergi López, Bárbara Lennie, Ian McShane, Jesús Carroza, Moussa Maaskri.
+· Guion: Daniel Monzón, Jorge Guerricaechevarría.
+· Música: Roque Baños.
+· Producción: Álvaro Augustín, Ghislain Barrois, Borja Pena, Edmon Roch, Javier Ugarte.
+· Productora: Ikiru Films, Maestranza Films, StudioCanal, Telecinco Cinema, La Ferme! Productions.</desc>
+	</programme>
+	<programme start="20261022122000 +0200" stop="20261022131500 +0200" channel="M. PLUS HEVC">
+    <title>Telegram: el gran disruptor</title>
+    <desc>Documentales,Sociedad | 2026 | TP | *6.6/10
+· En agosto de 2024 el fundador de Telegram, Pável Dúrov, fue detenido en Francia como parte de una investigación policial sobre la falta de moderación en la plataforma. Su arresto puso sobre la mesa el papel de las redes sociales en el debate público.
+· País: Francia</desc>
+	</programme>
+	<programme start="20261022131500 +0200" stop="20261022141500 +0200" channel="M. PLUS HEVC">
+    <title>Death Valley: El valle de la muerte</title>
+    <desc>Documentales,Sociedad | 2026 | TP | *9.0/10
+· Un reto realizado en 2024 por dalecandELA, una asociación sin ánimo de lucro, cuyo fin es visibilizar la ELA, recaudar fondos para la investigación en la lucha contra la enfermedad, y apoyar a quienes la padecen.
+· País: España
+· Dirección: Juan Luis Aguirrezabal, Luis Echevarría, Jaime Lafita.</desc>
+	</programme>
+	<programme start="20261022141500 +0200" stop="20261022155000 +0200" channel="M. PLUS HEVC">
+    <title>21/10/2026 T26/27 · Noche de Champions</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *5.4/10
+· Revive la emoción de cada jornada de Champions con este programa que incluye resúmenes de los partidos de la UEFA Champions League, los goles de la jornada y todo tipo de informaciones relacionadas con esta competición.
+· País: España</desc>
+	</programme>
+	<programme start="20261022155000 +0200" stop="20261022163900 +0200" channel="M. PLUS HEVC">
+    <title>Negocios turbios T1 E1 · Detectives por accidente</title>
+    <desc>Series,Drama | 2026 | +16
+· En un pequeño pueblo de Oxfordshire, los jubilados Ash Smith y Peter Hammond descubren que los peces del río Windrush están muriendo. Cuando preguntan a la compañía de aguas, reciben respuestas evasivas que despiertan sus sospechas.
+· País: Reino Unido
+· Reparto: David Thewlis, Jason Watkins, Posy Sterling, Tom McKay, Alex Jennings, Asim Chaudhry, Alice Lowe, Chanel Cresswell.</desc>
+	</programme>
+	<programme start="20261022163900 +0200" stop="20261022172900 +0200" channel="M. PLUS HEVC">
+    <title>Negocios turbios T1 E2 · Ecocidio</title>
+    <desc>Series,Drama | 2026 | +16 | *6.6/10
+· A medida que avanzan sus pesquisas, Ash y Peter descubren que la contaminación es mucho más extensa de lo que imaginaban. La búsqueda de pruebas los lleva a enfrentarse tanto a la compañía de aguas como a los organismos reguladores.
+· País: Reino Unido
+· Reparto: David Thewlis, Jason Watkins, Posy Sterling, Tom McKay, Alex Jennings, Asim Chaudhry, Alice Lowe, Chanel Cresswell.</desc>
+	</programme>
+	<programme start="20261022172900 +0200" stop="20261022182500 +0200" channel="M. PLUS HEVC">
+    <title>Negocios turbios T1 E3 · El denunciante</title>
+    <desc>Series,Drama | 2026 | +16 | *3.0/10
+· La investigación alcanza un punto decisivo cuando las evidencias acumuladas sacan a la luz años de negligencias y encubrimientos. Mientras las víctimas buscan justicia, los responsables tratan de protegerse.
+· País: Reino Unido
+· Reparto: David Thewlis, Jason Watkins, Posy Sterling, Tom McKay, Alex Jennings, Asim Chaudhry, Alice Lowe, Chanel Cresswell.</desc>
+	</programme>
+	<programme start="20261022182500 +0200" stop="20261022185600 +0200" channel="M. PLUS HEVC">
+    <title>Leo Talks T7 · Expediente Harlem</title>
+    <desc>Entretenimiento,Humor | 2026 | +12 | *6.0/10
+· Leo se adentra en lo paranormal: fantasmas, criaturas misteriosas, el monstruo del Lago Ness y brujas con escoba. Entre supersticiones, fotos borrosas y disparates históricos, demuestra que la credulidad humana sigue más viva que los propios fantasmas.
+· País: España
+· Presenta: Leo Harlem.</desc>
+	</programme>
+	<programme start="20261022185600 +0200" stop="20261022200000 +0200" channel="M. PLUS HEVC">
+    <title>Informe Plus. Toni Bou, 40 de 40</title>
+    <desc>Deportes,Programa deportes | 2026 | TP
+· Informe Plus. Toni Bou, 40 de 40 -.
+· País: España</desc>
+	</programme>
+	<programme start="20261022200000 +0200" stop="20261022205300 +0200" channel="M. PLUS HEVC">
+    <title>22/10/2026 T26/27 · La Previa de Europa League</title>
+    <desc>Deportes,Programa deportes | 2026 | TP
+· Programa que incluye previas de los partidos de la UEFA Europa League, análisis clave de la jornada y todo tipo de informaciones relacionadas con esta competición.
+· País: España</desc>
+	</programme>
+	<programme start="20261022205300 +0200" stop="20261022230000 +0200" channel="M. PLUS HEVC">
+    <title>DIRECTO Jornada 3: Celtic - Celta T26/27 · UEFA Europa League</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· Es la segunda competición de la UEFA, pero siempre cuenta con equipos de primer nivel. Tras una fase liga de ocho jornadas, solo los mejores disputarán las eliminatorias por el título. La final de esta edición se disputará en el Besiktas Stadium.
+· País: Reino Unido</desc>
+	</programme>
+	<programme start="20261022230000 +0200" stop="20261023003500 +0200" channel="M. PLUS HEVC">
+    <title>22/10/2026 T26/27 · Noche de Europa League</title>
+    <desc>Deportes,Programa deportes | 2026 | TP
+· Revive los partidos de la UEFA Europa League, los goles de la jornada y todo tipo de informaciones relacionadas con esta competición.
+· País: España</desc>
+	</programme>
+	<programme start="20261023003500 +0200" stop="20261023010400 +0200" channel="M. PLUS HEVC">
+    <title>Ilustres ignorantes T20 · Las tendencias</title>
+    <desc>Entretenimiento,Humor | 2026 | +16 | *5.0/10
+· La cómica Lalachús y el periodista Manuel Jabois hablan en Ilustres de “Las tendencias” ¿Cuál ha sido la que más les ha marcado: un corte de pelo, una tribu urbana, un alimento, un baile, una frase…? ¿Qué tendencia actual les fascina más?
+· País: España
+· Presenta: Javier Coronas.
+· Dirección: Javier Coronas.
+· Productora: Movistar+.</desc>
+	</programme>
+	<programme start="20261023010400 +0200" stop="20261023030400 +0200" channel="M. PLUS HEVC">
+    <title>Weapons</title>
+    <desc>Cine,Thriller | 2025 | +18 | *6.4/10
+· En una tranquila localidad de provincias todos los niños de una misma clase, excepto uno, salen de sus casas a la misma hora y desaparecen. ¿Qué está ocurriendo?
+· País: Estados Unidos
+· Dirección: Zach Cregger.
+· Reparto: Julia Garner, Josh Brolin, Alden Ehrenreich, Benedict Wong, Austin Abrams, Amy Madigan.
+· Guion: Zach Cregger.
+· Música: Zach Cregger, Hays Holladay, Ryan Holladay.
+· Producción: Zach Cregger, Miri Yoon.
+· Productora: New Line Cinema, Domain Entertainment.</desc>
 	</programme>
 	<programme start="20261018061000 +0200" stop="20261018071600 +0200" channel="#VAMOS SAT">
     <title>Lamine Yamal. Revolución 304</title>
