@@ -127,7 +127,7 @@ Betevé,Betevé,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master
 Veo7,Veo7,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Veo7.png
 Squirrel TV,Squirrel TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Squirrel%20TV.png
 La Séptima,La Séptima,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20S%C3%A9ptima.png
-Movistar Plus HD,Movistar Plus,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus.png
+Movistar Plus HD,Movistar Plus+ HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus.png
 Primera Federación,Primera Federación,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Primera%20Federaci%C3%B3n.png
 M+ Vamos HD,M+ Vamos,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos.png
 M+ LaLiga HD,M+ LaLiga,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png
