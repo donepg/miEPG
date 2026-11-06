@@ -10,7 +10,6 @@ Cuatro HD,CUATRO TDT
 Telecinco HD,TELECINCO
 Telecinco HD,TELECINCO TDT
 La Sexta HD,La Sexta HD
-La Sexta HD,La Sexta HD
 Movistar Plus HD,M. PLUS SAT
 Movistar Plus HD,M. PLUS SCRIPT
 Movistar Plus HD,M. PLUS HEVC
